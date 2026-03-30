@@ -50,7 +50,7 @@ LOOP FOREVER:
 
 1. **Review feedback**: Read all grader feedback from the previous iteration. Identify the weakest areas.
 2. **Plan the revision**: Decide what to change. Focus on the lowest-scoring graders first — bringing a 5.0 to 7.0 matters more than pushing an 8.5 to 9.0. Write a brief revision plan (just for yourself, not a file).
-3. **Rewrite `book.md`**: Apply your revisions. This is the ENTIRE book. Maintain coherence — a change in chapter 3 might require adjustments in chapters 5 and 8.
+3. **Edit `book.md`**: Apply targeted revisions. Maintain coherence — a change in chapter 3 might require adjustments in chapters 5 and 8.
 4. **git commit and push**: Commit `book.md` (not `results.tsv`). Push to the remote after every commit.
 5. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish.
 6. **Score**: Compute the composite score.
@@ -99,7 +99,7 @@ commit	score	status	editor	structure	audience	values	description
 
 **NEVER STOP.** Once the loop has begun, do NOT pause to ask the human if you should continue. Do NOT ask "should I keep going?" or "is this a good stopping point?". The human might be asleep or away and expects you to continue working indefinitely until manually stopped. You are autonomous. If you run out of ideas, re-read the grader feedback, try a radically different approach, rewrite from a different POV, restructure the chapters, change the opening, rework the ending.
 
-**Whole book each time.** Every iteration produces the complete book. No placeholders. No "insert chapter here". No "[TODO]". Every word.
+**Edit, don't rewrite.** Each iteration should make targeted edits to `book.md` based on grader feedback, not regenerate the entire file. The first draft must be complete — no placeholders, no "[TODO]" — but subsequent iterations improve it surgically.
 
 **Constraints are law.** Requirements in `constraints.md` are hard constraints that must be satisfied in every iteration. Everything not constrained is creative freedom.
 
