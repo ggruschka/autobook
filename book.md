@@ -98,11 +98,11 @@ Una mañana, un fraile joven le preguntó con timidez:
 
 Fray Pío lo miró de reojo y respondió con una sonrisa torcida:
 
-— ¿Miedo? El demonio es feo, pero no tanto como mi suegra.
+— ¿Miedo? Es solo un perro encadenado. Ladra mucho, pero no puede morder a quien no se le acerca.
 
-El fraile se quedó boquiabierto, sin saber si reírse o escandalizarse. Fray Pío soltó una carcajada — una carcajada de trueno que retumbó por los pasillos del convento — y le dio una palmada en el hombro.
+El fraile joven se quedó pensando. Fray Pío le dio una palmada en el hombro y añadió, bajando la voz con un brillo de picardía en los ojos:
 
-— Ríete, hombre, que Dios también se ríe. El demonio no soporta la risa. Le duele más que el agua bendita.
+— Además, le tengo lástima. Imagínate no poder amar. Eso sí que es un castigo.
 
 ## Capítulo 5: Las heridas sagradas
 
