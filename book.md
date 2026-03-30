@@ -204,7 +204,19 @@ El padre guardián esperaba una protesta, un grito, al menos una lágrima de rab
 
 Se levantó, caminó hasta la capilla privada del convento — la única donde aún le permitían celebrar — y se arrodilló ante el crucifijo. Allí se quedó, inmóvil, durante horas. Cuando los frailes pasaban por el pasillo, podían escuchar algo a través de la puerta cerrada: no un sollozo, no una queja, sino el murmullo constante del rosario.
 
+Y en aquellas noches de encierro, el viejo enemigo regresó. El demonio, que nunca desaprovecha la debilidad, se le apareció en la oscuridad de su celda y le susurró con su voz de piedras:
+
+— ¿Lo ves? Hasta tu propia Iglesia te ha abandonado. Ríndete de una vez.
+
+Padre Pío apretó el rosario con fuerza y respondió sin abrir los ojos:
+
+— No me ha abandonado Dios, y eso basta.
+
+La sombra aulló de rabia y desapareció, igual que había desaparecido en la habitación de un niño de cinco años, muchos años atrás.
+
 Los meses se convirtieron en años. La capilla pública estaba vacía. El confesionario, cerrado. Los peregrinos que llegaban al pueblo preguntaban por Padre Pío y recibían siempre la misma respuesta: no puede verlos. Los más fieles se sentaban en la plaza, bajo la lluvia o bajo el sol, y rezaban mirando hacia la ventana de su celda, esperando al menos ver su sombra detrás del cristal.
+
+En las noches más oscuras, Padre Pío pensaba en su padre. En Grazio, cruzando el océano solo, trabajando en tierras extrañas para pagar los estudios de un hijo al que no podía abrazar. "Si mi padre pudo soportar eso por mí", se decía, "yo puedo soportar esto por Dios."
 
 Un joven fraile, indignado por la injusticia, se atrevió un día a entrar en la celda de Padre Pío.
 
