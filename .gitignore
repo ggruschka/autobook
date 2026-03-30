@@ -1,9 +1,6 @@
 # Compiled output
 book.pdf
 
-# Results log (untracked, like autoresearch)
-results.tsv
-
 # Agent prompt files
 CLAUDE.md
 AGENTS.md
