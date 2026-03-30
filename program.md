@@ -6,8 +6,8 @@ Autonomous book writing experiment. An LLM agent writes and iteratively refines 
 
 To set up a new experiment, work with the user to:
 
-1. **Agree on a run tag**: propose a tag based on today's date (e.g. `mar29`). The branch `autobook/<tag>` must not already exist — this is a fresh run.
-2. **Create the branch**: `git checkout -b autobook/<tag>` from current main.
+1. **Agree on a book slug**: propose a short, URL-safe slug based on the book's title (e.g. `king-leonidas`, `little-prince`). The branch `book/<slug>` must not already exist — this is a fresh run.
+2. **Create the branch**: `git checkout -b book/<slug>` from current main. Push the branch immediately with `git push -u origin book/<slug>`.
 3. **Read the constraints**: Read `constraints.md` carefully. This defines the book's requirements — genre, audience, style, length, and any other hard constraints. Anything NOT specified is up to your creative interpretation.
 4. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
 5. **Generate the Typst version**: Create `book.typ` with the same content, formatted for print output using the base template in `template.typ`. The Typst file must compile to a print-ready PDF.
@@ -47,7 +47,7 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 
 ## The Experiment Loop
 
-The loop runs on a dedicated branch (e.g. `autobook/mar29`).
+The loop runs on a dedicated branch (e.g. `book/king-leonidas`).
 
 LOOP FOREVER:
 
@@ -56,13 +56,13 @@ LOOP FOREVER:
 3. **Rewrite `book.md`**: Apply your revisions. This is the ENTIRE book. Maintain coherence — a change in chapter 3 might require adjustments in chapters 5 and 8.
 4. **Update `book.typ`**: Reflect the new content in the Typst source. If the Designer had feedback, apply layout improvements too.
 5. **Compile**: `typst compile book.typ book.pdf`. If it fails, fix the Typst and retry.
-6. **git commit**: Commit `book.md` and `book.typ` (not `book.pdf`, not `results.tsv`).
+6. **git commit and push**: Commit `book.md` and `book.typ` (not `book.pdf`, not `results.tsv`). Push to the remote after every commit.
 7. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish.
 8. **Score**: Compute the composite score.
 9. **Record**: Append the results to `results.tsv`.
 10. **Decide**:
     - If the composite score **improved** (higher than previous best) → keep the commit. This is now the new best.
-    - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit.
+    - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit. Then `git push --force` to sync the remote.
 11. **Print the summary** (see Output Format below).
 12. **Go to step 1**.
 
