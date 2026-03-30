@@ -44,11 +44,19 @@ Aquellas palabras se grabaron en el alma de Francesco como letras talladas en pi
 
 Los años pasaron como pasan las estaciones: con lentitud para quien las vive y con rapidez para quien las recuerda. Francesco creció, pero su deseo de servir a Dios creció más aún. Mientras otros jóvenes soñaban con tierras lejanas, con oficios y fortunas, Francesco soñaba con una celda de piedra, un crucifijo y el silencio de la oración.
 
-A los quince años, con el corazón ardiendo y los ojos húmedos, se despidió de su madre en la puerta de su casa.
+Pero la vocación tiene un precio, y alguien debía pagarlo. Los capuchinos no cobraban por recibir a un novicio, pero Francesco necesitaba estudios, y los estudios costaban dinero que la familia no tenía. Fue entonces cuando Grazio hizo algo que solo un padre que ama de verdad puede hacer: se marchó a América.
+
+Cruzó el océano en un barco atestado de emigrantes, con el corazón partido y una fotografía de sus hijos cosida al forro del abrigo. Trabajó en los campos de Nueva York, bajo el sol abrasador y la lluvia helada, enviando cada centavo que ganaba para que su hijo pudiera seguir la llamada de Dios.
+
+Francesco nunca olvidó aquel sacrificio. Años después, cuando le preguntaban cómo había aprendido el significado de la palabra entrega, respondía sin dudar:
+
+— De mi padre. Se fue al otro lado del mundo para que yo pudiera quedarme en la casa de Dios.
+
+A los quince años, con el corazón ardiendo y los ojos húmedos, Francesco se despidió de su madre en la puerta de su casa. Grazio no estaba allí — seguía lejos, trabajando — pero su ausencia pesaba en el aire como una oración silenciosa.
 
 — Voy a ser fraile, mamma — le dijo —. Voy a ser capuchino.
 
-Giuseppa lloró, pero no de tristeza. Lloró como lloran los campesinos cuando por fin cae la lluvia después de una larga sequía: con alivio, con gratitud, con la certeza de que algo bueno estaba ocurriendo.
+Giuseppa lloró, pero no de tristeza. Lloró como lloran los campesinos cuando por fin cae la lluvia después de una larga sequía: con alivio, con gratitud, con la certeza de que el sacrificio de toda la familia no había sido en vano.
 
 — Ve con Dios, Francesco — le dijo, besándolo en la frente —. Y no mires atrás.
 
@@ -102,7 +110,11 @@ Fray Pío cayó al suelo, no de dolor — aunque el dolor era terrible — sino 
 
 Pero Dios no busca a los dignos. Busca a los humildes.
 
-Las heridas nunca sanaron. Durante cincuenta años, hasta el último día de su vida, Fray Pío las llevó en su cuerpo. Sangraban cada día. Le dolían especialmente durante la Misa, cuando sostenía el cáliz con sus manos perforadas y ofrecía el sacrificio de Cristo como si él mismo estuviera en la Cruz.
+Las heridas nunca sanaron. Durante cincuenta años, hasta el último día de su vida, Fray Pío las llevó en su cuerpo. Sangraban cada día. Le dolían especialmente durante la Misa, y quienes lo veían celebrar el Santo Sacrificio nunca lo olvidaban.
+
+Porque la Misa no era para Padre Pío una ceremonia ni una costumbre. Era el Calvario hecho presente. Cuando tomaba el pan entre sus manos perforadas y pronunciaba las palabras de la consagración — *esto es mi Cuerpo* — el pan dejaba de ser pan. Se convertía, verdadera y realmente, en el Cuerpo de Cristo. Y cuando levantaba el cáliz con los brazos temblorosos de dolor — *esta es mi Sangre* — el vino dejaba de ser vino. Era la misma Sangre que había corrido en la Cruz, ofrecida de nuevo para la salvación del mundo.
+
+Padre Pío lo sabía con una certeza que le quemaba el alma. Por eso lloraba durante la Misa. Por eso sus Misas duraban horas, mientras los fieles lo observaban en silencio sobrecogido, conscientes de que estaban presenciando algo que las palabras no pueden atrapar.
 
 Los médicos vinieron. Examinaron las heridas. No encontraron explicación natural. No eran infecciones, no eran lesiones autoinfligidas, no eran enfermedades de la piel. Eran, simplemente, un misterio.
 
@@ -116,39 +128,57 @@ Padre Pío podía leer las almas.
 
 Cuando un pecador se arrodillaba en su confesionario, Padre Pío sabía sus pecados antes de que los pronunciara. Sabía lo que habían hecho, lo que habían pensado, lo que habían ocultado durante años bajo capas de vergüenza y silencio.
 
-Hubo un hombre que viajó desde Nápoles, decidido a burlarse del fraile. Entró al confesionario con una sonrisa torcida y comenzó a inventar pecados falsos, como quien cuenta un chiste.
+Hubo un hombre que viajó desde Nápoles, decidido a burlarse del fraile. Se llamaba Marco, era joven, fuerte y orgulloso, y les había dicho a sus amigos que demostraría que aquel capuchino era un farsante. Entró al confesionario con una sonrisa torcida y comenzó a inventar pecados falsos, como quien cuenta un chiste.
 
-Padre Pío lo detuvo con una sola mirada.
+Padre Pío lo escuchó en silencio durante un momento. Luego levantó la mano.
 
-— Hijo — le dijo con voz grave —, no has venido aquí a confesarte. Has venido a mentir. Pero yo te diré tus verdaderos pecados.
+— Basta — dijo con voz grave —. No has venido aquí a confesarte. Has venido a mentir. Pero yo te diré tus verdaderos pecados.
 
-Y los enumeró uno por uno, con tal precisión que el hombre palideció, cayó de rodillas y rompió a llorar como un niño. Salió de aquel confesionario transformado, como si alguien le hubiera arrancado una piedra del pecho y en su lugar hubiera plantado una flor.
+Y los enumeró uno por uno. El robo que había cometido a los dieciséis años. La mentira que le había contado a su madre enferma. Las noches en que había blasfemado contra Dios. Cosas que Marco no le había contado a nadie, cosas que creía enterradas para siempre en el rincón más oscuro de su memoria.
 
-Porque eso hacía Padre Pío en la confesión: no juzgaba para destruir, sino para sanar. Era severo, sí — a veces terriblemente severo — pero su severidad era la del cirujano que corta para curar, no la del verdugo que castiga por placer.
+El joven palideció. Las piernas le flaquearon. Cayó de rodillas y rompió a llorar, no con lágrimas de vergüenza, sino con el llanto profundo y violento de quien descubre que ha estado cargando un peso enorme sin saberlo.
+
+— Padre... — balbuceó —. ¿Cómo...?
+
+— No importa cómo — respondió Padre Pío, y su voz se había vuelto suave, casi tierna —. Lo que importa es que Dios te conoce, te ha visto siempre, y aun así te ama. Ahora confiesa de verdad, hijo mío. Y serás libre.
+
+Marco se confesó. Y cuando salió de aquel confesionario, caminaba diferente. Ya no era el muchacho arrogante que había entrado. Era un hombre lavado por dentro, como la tierra después de la tormenta.
+
+Porque eso hacía la confesión en manos de Padre Pío: arrancaba la mentira de raíz y plantaba la verdad en su lugar. El sacerdote no actuaba solo — actuaba en nombre de Cristo mismo, con el poder que Jesús había dado a sus apóstoles de perdonar los pecados. Y ese poder era real. Tan real como las heridas en las manos de Padre Pío.
 
 Las filas para confesarse con él eran interminables. La gente esperaba días enteros, durmiendo en el suelo del pueblo, con la esperanza de arrodillarse ante aquel fraile de manos vendadas y ojos que parecían ver más allá de la carne.
 
 — La confesión — decía Padre Pío — es el tribunal de la misericordia, no el tribunal de la justicia.
 
-## Capítulo 7: Los milagros del fraile
+## Capítulo 7: El soldado y el fraile
 
-Los milagros rodeaban a Padre Pío como las estrellas rodean a la luna.
+Durante la Segunda Guerra Mundial, cuando las bombas caían sobre Italia y el miedo se respiraba en el aire como polvo, ocurrió algo que un joven piloto llamado Giovanni nunca pudo explicar.
 
-Se contaba que podía estar en dos lugares al mismo tiempo — lo que los sabios llaman bilocación. Había testimonios de soldados en el frente de batalla que lo vieron aparecer entre las bombas y las balas, rezando por ellos, cubriéndolos con su manto como una gallina cubre a sus polluelos. Y cuando la batalla terminaba y corrían a buscarlo, Padre Pío estaba en su convento, a cientos de kilómetros, con las rodillas gastadas de tanto rezar.
+Su escuadrón había recibido órdenes de bombardear San Giovanni Rotondo. Los aviones volaban en formación cerrada, con la carga mortal en sus vientres, listos para soltar la destrucción sobre el pueblo. Pero cuando Giovanni miró a través de la ventanilla de su cabina, vio algo imposible.
 
-Se contaba que su cuerpo despedía un perfume de flores — de rosas, de violetas, de lirios — tan intenso que llenaba las habitaciones por las que pasaba. No usaba perfume alguno. Era, decían los que lo conocían, el aroma de la santidad.
+Un fraile.
 
-Se contaba que había curado enfermos desahuciados con solo imponer sus manos vendadas sobre sus cabezas. Ciegos que volvían a ver. Paralíticos que se levantaban de sus sillas. Madres que abrazaban a hijos que los médicos habían dado por muertos.
+Flotaba en el aire, delante de los aviones, con los brazos extendidos y las palmas abiertas, como un muro invisible entre las bombas y el pueblo. Su hábito marrón ondeaba en el viento, y de sus manos brotaba una luz que cegaba más que el sol.
+
+Giovanni gritó por la radio. Los otros pilotos lo habían visto también. Las manos les temblaron sobre los controles. Uno a uno, giraron sus aviones y soltaron las bombas sobre los campos vacíos, lejos del pueblo. Ninguna bomba tocó San Giovanni Rotondo.
+
+Años después de la guerra, Giovanni viajó al convento. Necesitaba saber. Entró a la iglesia y allí, junto al altar, vio al fraile. Lo reconoció al instante: el mismo rostro, las mismas manos vendadas, los mismos ojos.
+
+— Usted — susurró el piloto, con la voz quebrada —. Usted estaba allí, en el cielo, delante de nuestros aviones.
+
+Padre Pío lo miró con calma y no dijo ni que sí ni que no. Solo respondió:
+
+— Menos mal que os disteis cuenta a tiempo, hijo mío.
+
+Este don de estar en dos lugares a la vez — lo que los sabios llaman bilocación — era solo uno de los prodigios que rodeaban a Padre Pío. Su cuerpo despedía un perfume de rosas y violetas tan intenso que llenaba las habitaciones por las que pasaba, aunque él no usara perfume alguno. Y más de un enfermo desahuciado por los médicos recobró la salud después de que Padre Pío impusiera sus manos vendadas sobre su cabeza y rezara en silencio.
 
 Pero Padre Pío nunca se atribuyó ningún milagro.
 
 — Yo no hago nada — decía, bajando la mirada —. Es Dios quien hace. Yo solo soy un instrumento viejo y gastado en sus manos.
 
-Y cuando la gente lo buscaba para tocarlo, para pedirle favores, para venerarlo como si él mismo fuera un dios, Padre Pío se enfadaba.
+Y cuando la gente lo buscaba para tocarlo, para venerarlo como si él mismo fuera un dios, Padre Pío se enfadaba.
 
 — ¡No me miren a mí! — exclamaba —. ¡Miren a Cristo! Él es el médico. Yo soy solo el enfermero.
-
-Porque la humildad era su escudo, y sabía que el día que un santo se cree santo, deja de serlo.
 
 ## Capítulo 8: La prueba más dura
 
@@ -158,37 +188,57 @@ La Iglesia misma lo hizo callar.
 
 Hubo hombres dentro de la Iglesia — hombres de poca fe y mucha sospecha — que no creían en los milagros de Padre Pío. Decían que era un farsante, un enfermo mental, un charlatán que engañaba a los ingenuos. Escribieron informes, levantaron acusaciones y convencieron a las autoridades de Roma de que aquel fraile era peligroso.
 
-Y Roma habló.
+Y no fue una sola vez. En más de una ocasión, Roma envió investigadores al convento. La sospecha volvía como una mala hierba que nadie lograba arrancar del todo.
 
-Le prohibieron celebrar Misa en público. Le prohibieron confesar. Le prohibieron recibir visitas. Lo encerraron en su celda como a un prisionero, y le ordenaron guardar silencio.
+La peor de esas pruebas llegó en los años treinta. Un día, el padre guardián del convento entró a la celda de Padre Pío con un sobre lacrado en la mano y el rostro pálido.
 
-¿Y qué hizo Padre Pío?
+— Padre — dijo, sin atreverse a mirarlo a los ojos —, ha llegado una orden del Santo Oficio.
 
-Obedeció.
+Padre Pío tomó el sobre. Lo abrió con las manos vendadas, despacio, como quien abre una herida. Leyó en silencio. Luego cerró los ojos.
 
-No protestó. No se defendió. No gritó que era inocente. No fundó una rebelión ni abandonó la Iglesia. Simplemente, obedeció. Se retiró a su celda, se arrodilló ante su crucifijo y siguió rezando como había hecho siempre.
+Le prohibían celebrar Misa en público. Le prohibían confesar. Le prohibían recibir visitas. Le prohibían escribir cartas. Lo reducían al silencio y la invisibilidad, como si quisieran borrar su existencia.
 
-— La Iglesia es mi madre — dijo —. Un hijo no se rebela contra su madre, aunque ella lo castigue injustamente. Confío en que Dios aclarará la verdad a su debido tiempo.
+El padre guardián esperaba una protesta, un grito, al menos una lágrima de rabia. Pero Padre Pío dobló la carta, la devolvió al sobre y dijo con voz firme:
 
-Y así fue.
+— Hágase la voluntad de Dios.
 
-Los años pasaron, y la verdad salió a la luz como el sol después de la tormenta. Las investigaciones demostraron que Padre Pío era exactamente lo que parecía: un hombre santo, un sacerdote fiel, un siervo de Dios sin doblez ni engaño. Roma levantó las restricciones, y Padre Pío volvió a su altar, a su confesionario, a su pueblo que lo esperaba con lágrimas de alegría.
+Se levantó, caminó hasta la capilla privada del convento — la única donde aún le permitían celebrar — y se arrodilló ante el crucifijo. Allí se quedó, inmóvil, durante horas. Cuando los frailes pasaban por el pasillo, podían escuchar algo a través de la puerta cerrada: no un sollozo, no una queja, sino el murmullo constante del rosario.
 
-Aquella obediencia silenciosa fue, quizás, su milagro más grande. Porque es fácil obedecer cuando te dan la razón. Pero obedecer cuando te quitan todo, cuando te acusan sin motivo, cuando el mundo entero parece volverse en tu contra — eso es lo que hacen los santos.
+Los meses se convirtieron en años. La capilla pública estaba vacía. El confesionario, cerrado. Los peregrinos que llegaban al pueblo preguntaban por Padre Pío y recibían siempre la misma respuesta: no puede verlos. Los más fieles se sentaban en la plaza, bajo la lluvia o bajo el sol, y rezaban mirando hacia la ventana de su celda, esperando al menos ver su sombra detrás del cristal.
+
+Un joven fraile, indignado por la injusticia, se atrevió un día a entrar en la celda de Padre Pío.
+
+— Padre, esto es una vergüenza — le dijo, con los puños cerrados —. Usted es inocente. Todos lo saben. ¿Por qué no escribe a Roma? ¿Por qué no se defiende?
+
+Padre Pío lo miró con aquellos ojos que veían más allá de las cosas, y respondió con una paciencia que el joven nunca olvidaría:
+
+— La Iglesia es mi madre, hijo. Un hijo no se rebela contra su madre, aunque ella lo castigue injustamente. Confío en que Dios aclarará la verdad a su debido tiempo. Y si no lo aclara en esta vida, lo aclarará en la otra.
+
+Y así fue. La verdad salió a la luz, no de golpe sino poco a poco, como el amanecer. Las investigaciones acabaron demostrando que Padre Pío era exactamente lo que parecía: un hombre santo, un sacerdote fiel, un siervo de Dios sin doblez ni engaño. Roma levantó las restricciones, y Padre Pío volvió a su altar, a su confesionario, a su pueblo que lo esperaba con lágrimas de alegría.
+
+Aquella obediencia silenciosa fue, quizás, su milagro más grande. Porque es fácil obedecer cuando te dan la razón. Pero obedecer cuando te quitan todo, cuando te acusan sin motivo, cuando el mundo parece volverse en tu contra — eso es lo que hacen los santos.
 
 ## Capítulo 9: La casa del alivio
 
-Padre Pío no solo curaba almas. También quiso curar cuerpos.
+Un atardecer de invierno, Padre Pío caminaba por el pueblo cuando vio a una mujer sentada en el borde del camino, con un niño en brazos. El niño tenía fiebre alta, los labios resecos y los ojos vidriosos. La mujer lloraba en silencio.
 
-Con la ayuda de personas generosas de todo el mundo, construyó un gran hospital en San Giovanni Rotondo. Lo llamó "Casa Sollievo della Sofferenza" — la Casa del Alivio del Sufrimiento.
+Padre Pío se detuvo. Se quitó su propio manto — el único que tenía — y envolvió al niño con él. Luego se arrodilló en el polvo del camino, puso sus manos vendadas sobre la frente ardiente del pequeño y rezó. Cuando se levantó, la fiebre había cedido, y el niño dormía con la paz de quien descansa en los brazos de un ángel.
 
-Era un hospital como no se había visto antes en aquella región pobre del sur de Italia. Tenía los mejores médicos, las mejores máquinas, las camas más limpias y las medicinas más modernas. Y atendía a todos: ricos y pobres, creyentes y no creyentes, italianos y extranjeros. Nadie era rechazado.
+— Padre, su manto... — dijo la mujer, intentando devolvérselo.
+
+— Quédeselo — respondió Padre Pío, tiritando bajo el frío —. Él lo necesita más que yo.
+
+Aquella noche, caminando de vuelta al convento con el hábito fino y los pies ateridos, Padre Pío supo con claridad lo que Dios le pedía. No bastaba con curar almas en el confesionario ni con rezar por los enfermos uno a uno. Hacía falta algo más grande. Hacía falta una casa donde el sufrimiento encontrara alivio, donde el cuerpo fuera sanado con la misma dedicación que el espíritu.
+
+Así nació la idea de la "Casa Sollievo della Sofferenza" — la Casa del Alivio del Sufrimiento.
+
+Con la ayuda de personas generosas de todo el mundo, Padre Pío levantó un gran hospital en San Giovanni Rotondo. Era un hospital como no se había visto antes en aquella región pobre del sur de Italia: los mejores médicos, los equipos más modernos, las camas más limpias. Y atendía a todos: ricos y pobres, creyentes y no creyentes, italianos y extranjeros. Nadie era rechazado.
 
 — El enfermo es Cristo — decía Padre Pío —. Cuando curamos a un enfermo, curamos a Cristo mismo. Y a Cristo no se le cobra entrada.
 
-Los fondos llegaban de todas partes. Campesinos que enviaban sus últimas monedas. Millonarios que firmaban cheques enormes. Madres que tejían mantas para los enfermos. Niños que rompían sus alcancías y enviaban el contenido en sobres arrugados.
+Los fondos llegaban de todas partes. Campesinos que enviaban sus últimas monedas. Millonarios que firmaban cheques enormes. Niños que rompían sus alcancías y enviaban el contenido en sobres arrugados. El hospital se inauguró en 1956, y Padre Pío lloró al ver sus puertas abiertas por primera vez.
 
-El hospital creció y creció, como un árbol plantado junto a un río de generosidad. Y allí sigue hoy, curando a miles de personas cada año, como un monumento vivo al amor de un fraile que entendió que la fe sin obras es fe muerta.
+Allí sigue hoy, curando a miles de personas cada año, como un monumento vivo al amor de un fraile que entendió que la fe sin obras es fe muerta.
 
 ## Capítulo 10: El último amanecer
 
@@ -198,6 +248,14 @@ El 22 de septiembre, Padre Pío celebró su última Misa. Apenas podía sostener
 
 Al terminar la Misa, se retiró a su celda. Los frailes que lo ayudaron a caminar notaron algo extraordinario: las heridas de sus manos habían desaparecido. Donde antes había llagas abiertas y sangrantes, ahora había piel lisa y limpia, como la de un niño recién nacido. Como si Dios le estuviera diciendo: tu trabajo ha terminado. Ya no necesitas llevar mis heridas. Pronto llevarás mi gloria.
 
+En la quietud de la noche, mientras los frailes velaban junto a su cama, Padre Pío murmuró algo que casi nadie escuchó. Un viejo fraile que estaba más cerca se inclinó hacia él.
+
+— ¿Qué dice, Padre?
+
+— Mamma — susurró Padre Pío, y sonrió.
+
+Quizá veía a la Virgen María. O quizá veía a Mamma Peppa, su madre, que hacía tiempo lo esperaba al otro lado, con el rosario entre los dedos, tal como la recordaba de niño.
+
 A las dos y media de la madrugada del 23 de septiembre, con el rosario entre los dedos y los nombres de Jesús y María en los labios, Padre Pío cerró los ojos por última vez.
 
 El pueblo entero lloró. Italia lloró. El mundo lloró.
@@ -206,19 +264,21 @@ Pero quienes de verdad lo conocían sabían que no había motivo para llorar. Pa
 
 ## Capítulo 11: Lo que nos dejó
 
-Muchos años después de su muerte, la Iglesia hizo lo que millones de fieles ya sabían en su corazón: declaró santo a Padre Pío. Fue el 16 de junio de 2002, y la Plaza de San Pedro en Roma se llenó de una multitud tan inmensa que parecía un mar de cabezas y manos alzadas bajo el sol.
+El 16 de junio de 2002, un niño llamado Matteo estaba sentado sobre los hombros de su abuelo en la Plaza de San Pedro, en Roma. Hacía un calor sofocante, y la plaza estaba tan llena de gente que parecía un mar de cabezas y manos alzadas bajo el sol. Trescientas mil personas, quizás más, todas mirando hacia el balcón de la basílica.
 
-Pero la santidad de Padre Pío no vive en los documentos de Roma ni en las estatuas de las iglesias. Vive en las lecciones que dejó, tan simples y tan profundas como las raíces de un roble antiguo.
+— Abuelo — preguntó el niño —, ¿por qué estamos aquí?
 
-Nos enseñó que la oración es más poderosa que cualquier espada. Que un rosario rezado con fe puede mover montañas, derrotar ejércitos de demonios y abrir las puertas del cielo.
+El anciano tenía los ojos húmedos. Se tocó el pecho, donde guardaba una fotografía vieja y amarillenta de un fraile de manos vendadas.
 
-Nos enseñó que el sufrimiento no es un castigo, sino un regalo misterioso. Que cuando Dios permite que suframos, nos está invitando a participar en la Cruz de Su Hijo, y que de esa cruz brotará, tarde o temprano, la resurrección.
+— Porque hoy la Iglesia va a decir lo que tu bisabuela siempre supo — respondió —. Que Padre Pío es santo.
 
-Nos enseñó que la confesión es el abrazo de un Padre que espera con los brazos abiertos al hijo que se ha perdido. Que no hay pecado tan grande que Dios no pueda perdonar, ni corazón tan roto que Dios no pueda reparar.
+Y cuando el Papa pronunció las palabras solemnes de la canonización, un rugido brotó de la multitud, como si la plaza entera respirara por primera vez. Matteo no entendió del todo lo que estaba pasando, pero sintió algo extraño: un perfume de rosas que parecía llegar de ninguna parte y de todas partes a la vez. Miró a su abuelo. El viejo lloraba y sonreía al mismo tiempo.
 
-Nos enseñó que la obediencia es la virtud más difícil y la más hermosa. Que obedecer cuando es fácil no tiene mérito, pero obedecer cuando duele, cuando parece injusto, cuando el mundo te grita que te rebeles — eso es lo que separa a los hombres de los santos.
+Aquella noche, de vuelta en casa, el niño le pidió a su abuelo que le contara la historia del fraile de la fotografía. Y el abuelo se la contó, desde el principio — desde el pueblo de Pietrelcina, desde la madre que rezaba el rosario, desde la primera sombra en la noche — tal como se la habían contado a él.
 
-Y sobre todo, nos enseñó que la santidad no es para los perfectos. Es para los que luchan. Para los que caen y se levantan. Para los que rezan aunque no sientan nada. Para los que siguen caminando en la oscuridad, confiando en que al final del túnel hay una luz que nunca se apaga.
+Porque la santidad de Padre Pío no vive en los documentos de Roma ni en las estatuas de las iglesias. Vive en las historias que se pasan de abuelos a nietos, de padres a hijos, de boca en boca y de corazón a corazón.
+
+Vive en el niño que aprende a rezar el rosario cuando tiene miedo. En el muchacho que descubre que obedecer cuando duele vale más que rebelarse cuando es fácil. En el hombre que se arrodilla en un confesionario después de años de silencio y descubre que Dios lo estaba esperando con los brazos abiertos.
 
 Porque eso fue Padre Pío: un hombre pequeño, enfermo, herido, perseguido y cansado, que nunca dejó de caminar hacia Dios.
 
