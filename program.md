@@ -44,7 +44,7 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 
 ## The Content Loop
 
-The loop runs on a dedicated branch (e.g. `book/king-leonidas`). This loop focuses exclusively on the writing — prose, structure, accuracy, audience fit. Design and typesetting happen separately after the content is finalized.
+The loop runs on a dedicated branch (e.g. `book/king-leonidas`).
 
 LOOP FOREVER:
 
@@ -60,16 +60,6 @@ LOOP FOREVER:
     - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit. Then `git push --force` to sync the remote.
 9. **Print the summary** (see Output Format below).
 10. **Go to step 1**.
-
-## Design Phase (future, after content is finalized)
-
-Once the content loop has converged and the user is satisfied with the prose, a separate design phase begins:
-
-1. Generate `book.typ` from the finalized `book.md`, formatted for print using the base template in `template.typ`.
-2. Compile with `typst compile book.typ book.pdf`.
-3. Create a Designer grader prompt and iterate on `book.typ` and `template.typ` until the design is satisfactory.
-
-Design is NOT part of the content loop. Content and design are optimized independently.
 
 ## Output Format
 
