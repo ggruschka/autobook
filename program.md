@@ -6,13 +6,41 @@ Autonomous book writing experiment. An LLM agent writes and iteratively refines 
 
 To set up a new experiment, work with the user to:
 
-1. **Agree on a book slug**: propose a short, URL-safe slug based on the book's title (e.g. `king-leonidas`, `little-prince`). The branch `book/<slug>` must not already exist — this is a fresh run.
-2. **Create the branch**: `git checkout -b book/<slug>` from current main. Push the branch immediately with `git push -u origin book/<slug>`.
-3. **Set up constraints**: Copy `constraints.template.md` to `constraints.md` and fill it in with the user. This defines the book's requirements — genre, audience, style, length, and any other hard constraints. Anything NOT specified is up to your creative interpretation.
-4. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
-5. **Initialize results.tsv**: Create `results.tsv` with just the header row.
-6. **Establish baseline**: Run the full grading process on your first draft. This is your baseline score.
-7. **Confirm and go**: Show the user the baseline scores and confirm the loop should begin.
+1. **Interview the user**: Use the AskUserQuestion tool to collect constraints through a structured interview. Ask in batches of 2-4 questions at a time, covering all fields from `constraints.template.md`. The user can leave any answer blank/empty to let you use your own judgment.
+
+   **Batch 1 — Required fields:**
+   - Title
+   - Genre
+   - Target Audience (age group, background, interests)
+   - Approximate Length (words, chapters, or pages)
+
+   **Batch 2 — Style and voice:**
+   - Writing Style (spare, lush, conversational, formal, etc.)
+   - Point of View (first person, third limited, omniscient, etc.)
+   - Tone (dark, humorous, hopeful, melancholic, etc.)
+   - Language (default: English)
+
+   **Batch 3 — Content:**
+   - Setting (time period, location, world-building)
+   - Themes (central themes to explore)
+   - Characters (required characters, types, constraints)
+   - Structure (linear, nonlinear, epistolary, frame story, etc.)
+
+   **Batch 4 — Guidelines and references:**
+   - Moral/Ethical Guidelines (values to promote or avoid)
+   - Content Warnings (topics to avoid or handle with care)
+   - Reference Works (books the result should feel like)
+   - Conditional graders: does the book involve historical events? Technical subjects?
+
+   After the interview, show the user the filled-in `constraints.md` for confirmation before proceeding.
+
+2. **Agree on a book slug**: Propose a short, URL-safe slug based on the book's title (e.g. `king-leonidas`, `little-prince`). The branch `book/<slug>` must not already exist — this is a fresh run.
+3. **Create the branch**: `git checkout -b book/<slug>` from current main. Push the branch immediately with `git push -u origin book/<slug>`.
+4. **Set up constraints**: Copy `constraints.template.md` to `constraints.md` and fill it in with the interview answers. Anything NOT specified is up to your creative interpretation. Show the final file to the user for confirmation.
+5. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
+6. **Initialize results.tsv**: Create `results.tsv` with just the header row.
+7. **Establish baseline**: Run the full grading process on your first draft. This is your baseline score.
+8. **Confirm and go**: Show the user the baseline scores and confirm the loop should begin.
 
 Once you get confirmation, kick off the content loop.
 
