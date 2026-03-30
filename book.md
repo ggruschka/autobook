@@ -40,7 +40,7 @@ Y ese paso se convertía en dos, y luego en diez, y luego en cien, hasta que el 
 
 A los veinte años, Leónidas enfrentó su prueba final: la krypteia. No era un simple ejercicio de supervivencia. Los jóvenes eran enviados solos al campo, armados únicamente con un cuchillo, para vivir como sombras entre los helotes, los siervos que trabajaban las tierras de Esparta. Debían moverse sin ser vistos, alimentarse sin ser descubiertos, y vigilar en la oscuridad. Era una prueba de astucia, sigilo y resistencia que separaba a los hombres de los muchachos.
 
-Leónidas pasó semanas durmiendo bajo las rocas, soportando la lluvia helada sin fuego, comiendo lo que la tierra le ofrecía. Hubo noches en que la nieve caía tan espesa que no podía ver su propia mano. Hubo días en que el hambre le mordía las entrañas como un lobo. Pero no se quejó ni una sola vez. Sabía que las pruebas que Dios pone ante nosotros no son castigos, sino escalones hacia algo más grande.
+Leónidas pasó semanas durmiendo bajo las rocas, soportando la lluvia helada sin fuego, comiendo lo que la tierra le ofrecía. Hubo noches en que la nieve caía tan espesa que no podía ver su propia mano. Hubo días en que el hambre le mordía las entrañas como un lobo. Pero no se quejó ni una sola vez. Sabía que las pruebas que los dioses ponen ante los hombres no son castigos, sino escalones hacia algo más grande.
 
 Cuando regresó a Esparta con la primavera, ya no era un muchacho. Era un hombre.
 
@@ -125,7 +125,7 @@ Gorgo apretó su mano con fuerza.
 
 —Entonces ve —dijo—. Y cuando te pregunten a dónde vas, diles que un espartano fue a cumplir con su deber.
 
-A la mañana siguiente, Leónidas seleccionó a sus trescientos guerreros. No eligió a los más fuertes ni a los más jóvenes. Eligió a hombres que tuvieran hijos varones, para que sus nombres y su sangre continuaran en Esparta después de ellos. Era su manera de decir: moriremos nosotros, pero lo que somos vivirá en nuestros hijos. Cada uno de esos trescientos sabía, al ser elegido, lo que aquello significaba. Y cada uno aceptó sin vacilar.
+A la mañana siguiente, Leónidas seleccionó a sus trescientos guerreros. No eligió a los más fuertes ni a los más jóvenes. Eligió a hombres que tuvieran hijos varones, para que sus nombres y su sangre continuaran en Esparta después de ellos. Cada uno de esos trescientos sabía, al ser elegido, lo que aquello significaba. Y cada uno aceptó sin vacilar.
 
 Antes de partir, su hijo pequeño, un niño de apenas seis años, corrió hacia él con los ojos muy abiertos.
 
@@ -155,7 +155,7 @@ Leónidas miró a Dieneces, uno de sus guerreros más veteranos, un hombre de ba
 
 —Excelente. Entonces pelearemos a la sombra.
 
-Y los espartanos rieron. Rieron no porque fueran inconscientes del peligro, sino porque el humor en la hora más oscura es el sello de los hombres verdaderamente valientes.
+Y los espartanos rieron. Sus carcajadas rebotaron contra las paredes del paso como si las montañas mismas se burlaran de los persas.
 
 Jerjes, desde su trono portátil elevado sobre la colina, envió un último mensajero.
 
@@ -181,7 +181,7 @@ Leónidas peleaba en primera fila. Un rey espartano no envía a sus hombres dond
 
 Al caer la tarde del primer día, Jerjes había perdido miles de hombres. Los espartanos habían perdido apenas un puñado.
 
-Jerjes envió entonces a sus Inmortales, la guardia de élite del imperio: diez mil guerreros escogidos que se llamaban así porque cuando uno caía, otro ocupaba inmediatamente su lugar, de modo que su número jamás parecía disminuir. Llevaban armaduras ocultas bajo ropas ricamente bordadas, y eran la pesadilla de todos los pueblos desde Egipto hasta la India.
+Jerjes envió entonces a sus Inmortales, la guardia de élite del imperio: diez mil guerreros escogidos que se llamaban así porque cuando uno caía, otro ocupaba inmediatamente su lugar, de modo que su número jamás parecía disminuir. Llevaban túnicas ricamente bordadas sobre corazas de escamas de hierro, y eran la pesadilla de todos los pueblos desde Egipto hasta la India.
 
 Pero en el paso estrecho de las Termópilas, ni la fama ni el número servían de nada. Los Inmortales, acostumbrados a pelear en campo abierto donde podían flanquear y rodear al enemigo, se encontraron aplastados unos contra otros, incapaces de maniobrar. Y los espartanos, que habían entrenado desde niños para exactamente este tipo de combate cerrado, los destrozaron.
 
@@ -201,7 +201,7 @@ Jerjes lo miró con el desprecio que se reserva para los insectos útiles.
 
 —Tendrás tu oro —dijo—. Levántate y guía a mis hombres.
 
-Hay hombres en este mundo que venden a sus hermanos por un puñado de monedas. Efialtes fue uno de ellos, y su nombre sería maldecido por los siglos de los siglos. En griego, la palabra *efialtes* terminaría significando "pesadilla", y así lo recordaría la historia: como la pesadilla de Grecia. La traición rompe la confianza que une a los hombres entre sí y a los hombres con Dios, y quien traiciona carga con esa ruptura para siempre.
+Hay hombres en este mundo que venden a sus hermanos por un puñado de monedas. Efialtes fue uno de ellos, y su nombre sería maldecido por los siglos de los siglos. En griego, la palabra *efialtes* terminaría significando "pesadilla", y así lo recordaría la historia: como la pesadilla de Grecia. La traición rompe la confianza que une a los hombres entre sí y a los hombres con los dioses, y quien traiciona carga con esa ruptura para siempre.
 
 Jerjes envió a sus Inmortales por el sendero secreto bajo la luz de la luna.
 
@@ -245,7 +245,7 @@ Leónidas se colocó al frente, donde siempre había estado. Empuñó su lanza e
 
 —¡Espartanos! —rugió—. ¿Cuál es vuestro oficio?
 
-—¡AHU! ¡AHU! ¡AHU! —respondieron los trescientos, golpeando sus escudos.
+Y los trescientos respondieron golpeando sus escudos con las lanzas al ritmo del peán, el antiguo canto de guerra que sus padres les habían enseñado y que los padres de sus padres habían cantado antes que ellos.
 
 Y avanzaron hacia la muerte como habían vivido: juntos, sin miedo, con honor.
 
@@ -263,7 +263,7 @@ A su alrededor, sus hombres caían uno a uno, pero ninguno de espaldas. Todos ca
 
 Cuando Leónidas finalmente cayó, alcanzado por varias flechas y lanzas, sus hombres hicieron algo que asombró incluso a los persas. Se lanzaron sobre el cuerpo de su rey y formaron un círculo a su alrededor. Cuatro veces los persas intentaron tomar el cuerpo. Cuatro veces fueron rechazados.
 
-No peleaban ya por la victoria. Peleaban por el honor de su rey caído. Peleaban porque eso era lo correcto. Eso es lo que hacen los hombres buenos cuando todo está perdido: se mantienen de pie.
+No peleaban ya por la victoria. Peleaban por el cuerpo de su rey. Ni uno solo miró atrás.
 
 Finalmente, cuando el último espartano cayó sobre el cuerpo de Leónidas, cubriéndolo con su escudo como un padre cubre a su hijo durante una tormenta, la batalla terminó.
 
@@ -292,17 +292,9 @@ Gorgo, la reina de Esparta, recibió la noticia de la muerte de su esposo con la
 
 —Mi esposo no ha muerto —dijo, y su voz no temblaba—. Los hombres como Leónidas no mueren. Viven en cada acto de valor, en cada sacrificio, en cada padre que protege a su familia, en cada hombre que elige el deber sobre la comodidad. Mientras haya un solo hombre dispuesto a hacer lo correcto aunque le cueste todo, Leónidas vivirá.
 
-El hijo de Leónidas, aquel niño que le había preguntado por qué se iba, creció en la agogé como su padre antes que él. Entrenó en las mismas montañas, comió la misma sopa negra, durmió sobre los mismos juncos duros. Y el día que completó su entrenamiento y recibió su escudo, lo primero que hizo fue caminar hasta las Termópilas. Se arrodilló ante el monumento de piedra y colocó su mano sobre las letras grabadas.
+El hijo de Leónidas, aquel niño que le había preguntado por qué se iba, creció en la agogé como su padre antes que él. Su abuela, la madre de Leónidas, lo acompañó el día que partió hacia el entrenamiento, y le susurró al oído las mismas palabras que había dicho a su hijo: que un verdadero hombre es aquel que hace lo correcto a pesar del miedo. El muchacho entrenó en las mismas montañas, comió la misma sopa negra, durmió sobre los mismos juncos duros. Y el día que completó su entrenamiento y recibió su escudo, lo primero que hizo fue caminar hasta las Termópilas. Se arrodilló ante los monumentos de piedra —el de los espartanos y el de los tespios que eligieron quedarse a su lado— y colocó su mano sobre las letras grabadas.
 
 —Ahora lo entiendo, padre —susurró—. Y hoy soy un hombre.
-
-Y así, querido lector, termina la historia del Rey Leónidas y los trescientos espartanos. Pero antes de cerrar este libro, recuerda esto:
-
-Tú también llevas dentro de ti la capacidad de ser valiente. No necesitas una lanza ni un escudo para ser un héroe. A veces, ser valiente significa defender a un amigo cuando otros lo atacan. A veces significa decir la verdad cuando es más fácil mentir. A veces significa hacer lo correcto aunque nadie te esté mirando.
-
-La verdadera grandeza no está en ganar todas las batallas, sino en pelear las que merecen ser peleadas. El sacrificio por los demás es la forma más alta de amor. Y un hombre —ya sea un rey con una corona de oro o un niño con una espada de madera— se mide no por lo que tiene, sino por lo que está dispuesto a dar.
-
-La próxima vez que enfrentes algo difícil, algo que te asuste, algo que te haga querer darte la vuelta y correr, recuerda al Rey Leónidas. Recuerda a los trescientos. Y da un paso adelante.
 
 Solo un paso más.
 

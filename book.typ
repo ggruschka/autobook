@@ -6,26 +6,11 @@
   date: "2026",
 )
 
-// Override language to Spanish
-#set text(lang: "es")
-
-// Drop cap helper for chapter openings
-#let drop-cap(body-text) = {
-  let first-letter = body-text.text.first()
-  let rest = body-text.text.slice(1)
-  grid(
-    columns: (auto, 1fr),
-    column-gutter: 4pt,
-    align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[#first-letter]),
-    par(first-line-indent: 0em)[#rest]
-  )
-}
-
 = Capítulo I: El Niño de Esparta
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[H]),
   [ace muchos, muchos siglos, en una tierra de montañas escarpadas y valles profundos, existía una ciudad como ninguna otra en el mundo. Se llamaba Esparta, y sus hijos eran forjados como espadas: con fuego, con golpes, y con una voluntad que no conocía la rendición.]
 )
@@ -54,7 +39,7 @@ El viejo guerrero sonrió, algo que rara vez hacía.
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: El joven Leónidas entrenando con una lanza de madera bajo la supervisión de un viejo guerrero espartano, con las montañas del Peloponeso al fondo]
     ]
@@ -66,7 +51,7 @@ El viejo guerrero sonrió, algo que rara vez hacía.
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [os años pasaron como pasan las estaciones: con constancia y sin prisa. Leónidas creció alto y fuerte, pero lo que más lo distinguía de los demás jóvenes no eran sus músculos ni su velocidad con la lanza. Era su carácter.]
 )
@@ -79,7 +64,7 @@ Y ese paso se convertía en dos, y luego en diez, y luego en cien, hasta que el 
 
 A los veinte años, Leónidas enfrentó su prueba final: la _krypteia_. No era un simple ejercicio de supervivencia. Los jóvenes eran enviados solos al campo, armados únicamente con un cuchillo, para vivir como sombras entre los helotes, los siervos que trabajaban las tierras de Esparta. Debían moverse sin ser vistos, alimentarse sin ser descubiertos, y vigilar en la oscuridad. Era una prueba de astucia, sigilo y resistencia que separaba a los hombres de los muchachos.
 
-Leónidas pasó semanas durmiendo bajo las rocas, soportando la lluvia helada sin fuego, comiendo lo que la tierra le ofrecía. Hubo noches en que la nieve caía tan espesa que no podía ver su propia mano. Hubo días en que el hambre le mordía las entrañas como un lobo. Pero no se quejó ni una sola vez. Sabía que las pruebas que Dios pone ante nosotros no son castigos, sino escalones hacia algo más grande.
+Leónidas pasó semanas durmiendo bajo las rocas, soportando la lluvia helada sin fuego, comiendo lo que la tierra le ofrecía. Hubo noches en que la nieve caía tan espesa que no podía ver su propia mano. Hubo días en que el hambre le mordía las entrañas como un lobo. Pero no se quejó ni una sola vez. Sabía que las pruebas que los dioses ponen ante los hombres no son castigos, sino escalones hacia algo más grande.
 
 Cuando regresó a Esparta con la primavera, ya no era un muchacho. Era un hombre.
 
@@ -93,7 +78,7 @@ Leónidas aceptó la corona no porque la deseara, sino porque su pueblo lo neces
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Leónidas, ya adulto, de pie sobre una roca, contemplando Esparta al amanecer, con su capa roja ondeando al viento]
     ]
@@ -105,7 +90,7 @@ Leónidas aceptó la corona no porque la deseara, sino porque su pueblo lo neces
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[M]),
   [ientras Leónidas gobernaba Esparta con mano firme y corazón justo, al otro lado del mar se extendía un imperio tan vasto que sus fronteras tocaban el amanecer y el atardecer. Era el Imperio Persa, gobernado por el Rey Jerjes, un hombre que se consideraba a sí mismo un dios.]
 )
@@ -138,7 +123,7 @@ Cuando Leónidas se enteró, no celebró ni condenó. Simplemente dijo:
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Los éforos espartanos señalando el pozo a los mensajeros persas, con el pueblo reunido alrededor]
     ]
@@ -150,7 +135,7 @@ Cuando Leónidas se enteró, no celebró ni condenó. Simplemente dijo:
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [a noticia llegó como llegan siempre las malas noticias: demasiado pronto y sin suficiente tiempo para prepararse. Jerjes había reunido un ejército de un millón de hombres ---algunos decían que más--- y marchaba hacia Grecia como una inundación imparable.]
 )
@@ -194,7 +179,7 @@ Gorgo apretó su mano con fuerza.
 
 --- Entonces ve ---dijo---. Y cuando te pregunten a dónde vas, diles que un espartano fue a cumplir con su deber.
 
-A la mañana siguiente, Leónidas seleccionó a sus trescientos guerreros. No eligió a los más fuertes ni a los más jóvenes. Eligió a hombres que tuvieran hijos varones, para que sus nombres y su sangre continuaran en Esparta después de ellos. Era su manera de decir: moriremos nosotros, pero lo que somos vivirá en nuestros hijos. Cada uno de esos trescientos sabía, al ser elegido, lo que aquello significaba. Y cada uno aceptó sin vacilar.
+A la mañana siguiente, Leónidas seleccionó a sus trescientos guerreros. No eligió a los más fuertes ni a los más jóvenes. Eligió a hombres que tuvieran hijos varones, para que sus nombres y su sangre continuaran en Esparta después de ellos. Cada uno de esos trescientos sabía, al ser elegido, lo que aquello significaba. Y cada uno aceptó sin vacilar.
 
 Antes de partir, su hijo pequeño, un niño de apenas seis años, corrió hacia él con los ojos muy abiertos.
 
@@ -208,7 +193,7 @@ Le dio un beso en la frente, se puso de pie, tomó su escudo y su lanza, y march
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Leónidas arrodillado frente a su hijo pequeño, con su escudo apoyado en el suelo y los 300 guerreros formados detrás, listos para marchar]
     ]
@@ -220,7 +205,7 @@ Le dio un beso en la frente, se puso de pie, tomó su escudo y su lanza, y march
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [as Termópilas. El nombre significaba "Puertas Calientes", por las fuentes termales que brotaban de la roca y llenaban el aire con un olor a azufre. Era un paso estrecho entre las montañas y el mar, apenas lo suficientemente ancho para que pasara un carro. Y fue allí donde Leónidas decidió plantar su escudo.]
 )
@@ -237,7 +222,7 @@ Leónidas miró a Dieneces, uno de sus guerreros más veteranos, un hombre de ba
 
 --- Excelente. Entonces pelearemos a la sombra.
 
-Y los espartanos rieron. Rieron no porque fueran inconscientes del peligro, sino porque el humor en la hora más oscura es el sello de los hombres verdaderamente valientes.
+Y los espartanos rieron. Sus carcajadas rebotaron contra las paredes del paso como si las montañas mismas se burlaran de los persas.
 
 Jerjes, desde su trono portátil elevado sobre la colina, envió un último mensajero.
 
@@ -251,7 +236,7 @@ _Molón labé._ Dos palabras en griego antiguo que significaban: si quieres nues
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Los 300 espartanos en formación de falange en el paso estrecho de las Termópilas, con el mar a un lado y los acantilados al otro, frente al inmenso ejército persa]
     ]
@@ -263,7 +248,7 @@ _Molón labé._ Dos palabras en griego antiguo que significaban: si quieres nues
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [a batalla comenzó al amanecer del primer día. Jerjes envió a sus tropas medas, guerreros experimentados y numerosos. Pero el paso era estrecho, y los persas no podían usar su superioridad numérica. Era como intentar vaciar el mar con un embudo.]
 )
@@ -276,7 +261,7 @@ Leónidas peleaba en primera fila. Un rey espartano no envía a sus hombres dond
 
 Al caer la tarde del primer día, Jerjes había perdido miles de hombres. Los espartanos habían perdido apenas un puñado.
 
-Jerjes envió entonces a sus Inmortales, la guardia de élite del imperio: diez mil guerreros escogidos que se llamaban así porque cuando uno caía, otro ocupaba inmediatamente su lugar, de modo que su número jamás parecía disminuir. Llevaban armaduras ocultas bajo ropas ricamente bordadas, y eran la pesadilla de todos los pueblos desde Egipto hasta la India.
+Jerjes envió entonces a sus Inmortales, la guardia de élite del imperio: diez mil guerreros escogidos que se llamaban así porque cuando uno caía, otro ocupaba inmediatamente su lugar, de modo que su número jamás parecía disminuir. Llevaban túnicas ricamente bordadas sobre corazas de escamas de hierro, y eran la pesadilla de todos los pueblos desde Egipto hasta la India.
 
 Pero en el paso estrecho de las Termópilas, ni la fama ni el número servían de nada. Los Inmortales, acostumbrados a pelear en campo abierto donde podían flanquear y rodear al enemigo, se encontraron aplastados unos contra otros, incapaces de maniobrar. Y los espartanos, que habían entrenado desde niños para exactamente este tipo de combate cerrado, los destrozaron.
 
@@ -284,7 +269,7 @@ El segundo día fue como el primero. Al caer la noche, Jerjes se paseaba por su 
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: La falange espartana en combate cerrado contra los Inmortales persas en el paso estrecho, con escudos chocando y lanzas cruzándose]
     ]
@@ -296,7 +281,7 @@ El segundo día fue como el primero. Al caer la noche, Jerjes se paseaba por su 
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[P]),
   [ero toda historia de héroes tiene también su villano, y esta no es la excepción.]
 )
@@ -309,7 +294,7 @@ Jerjes lo miró con el desprecio que se reserva para los insectos útiles.
 
 --- Tendrás tu oro ---dijo---. Levántate y guía a mis hombres.
 
-Hay hombres en este mundo que venden a sus hermanos por un puñado de monedas. Efialtes fue uno de ellos, y su nombre sería maldecido por los siglos de los siglos. En griego, la palabra _efialtes_ terminaría significando "pesadilla", y así lo recordaría la historia: como la pesadilla de Grecia. La traición rompe la confianza que une a los hombres entre sí y a los hombres con Dios, y quien traiciona carga con esa ruptura para siempre.
+Hay hombres en este mundo que venden a sus hermanos por un puñado de monedas. Efialtes fue uno de ellos, y su nombre sería maldecido por los siglos de los siglos. En griego, la palabra _efialtes_ terminaría significando "pesadilla", y así lo recordaría la historia: como la pesadilla de Grecia. La traición rompe la confianza que une a los hombres entre sí y a los hombres con los dioses, y quien traiciona carga con esa ruptura para siempre.
 
 Jerjes envió a sus Inmortales por el sendero secreto bajo la luz de la luna.
 
@@ -333,7 +318,7 @@ Setecientos tespios se quedaron por voluntad propia. Los tebanos también perman
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Leónidas hablando con los capitanes aliados al amanecer, mientras a lo lejos se ven antorchas del ejército persa descendiendo por el sendero de montaña]
     ]
@@ -345,7 +330,7 @@ Setecientos tespios se quedaron por voluntad propia. Los tebanos también perman
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [eónidas sabía que aquel sería su último día bajo el sol. Y lo recibió como un espartano: con un desayuno abundante.]
 )
@@ -368,13 +353,13 @@ Leónidas se colocó al frente, donde siempre había estado. Empuñó su lanza e
 
 --- ¡Espartanos! ---rugió---. ¿Cuál es vuestro oficio?
 
---- ¡AHU! ¡AHU! ¡AHU! ---respondieron los trescientos, golpeando sus escudos.
+Y los trescientos respondieron golpeando sus escudos con las lanzas al ritmo del peán, el antiguo canto de guerra que sus padres les habían enseñado y que los padres de sus padres habían cantado antes que ellos.
 
 Y avanzaron hacia la muerte como habían vivido: juntos, sin miedo, con honor.
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Los 300 espartanos avanzando en formación cerrada hacia el ejército persa al amanecer, con Leónidas al frente, su escudo con la lambda brillando bajo los primeros rayos del sol]
     ]
@@ -386,7 +371,7 @@ Y avanzaron hacia la muerte como habían vivido: juntos, sin miedo, con honor.
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [o que siguió fue la batalla más feroz que el mundo antiguo había conocido.]
 )
@@ -399,7 +384,7 @@ A su alrededor, sus hombres caían uno a uno, pero ninguno de espaldas. Todos ca
 
 Cuando Leónidas finalmente cayó, alcanzado por varias flechas y lanzas, sus hombres hicieron algo que asombró incluso a los persas. Se lanzaron sobre el cuerpo de su rey y formaron un círculo a su alrededor. Cuatro veces los persas intentaron tomar el cuerpo. Cuatro veces fueron rechazados.
 
-No peleaban ya por la victoria. Peleaban por el honor de su rey caído. Peleaban porque eso era lo correcto. Eso es lo que hacen los hombres buenos cuando todo está perdido: se mantienen de pie.
+No peleaban ya por la victoria. Peleaban por el cuerpo de su rey. Ni uno solo miró atrás.
 
 Finalmente, cuando el último espartano cayó sobre el cuerpo de Leónidas, cubriéndolo con su escudo como un padre cubre a su hijo durante una tormenta, la batalla terminó.
 
@@ -407,7 +392,7 @@ Jerjes caminó por el campo de batalla en silencio. La brisa del mar movía las 
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: Los últimos espartanos formando un círculo defensivo alrededor del cuerpo de Leónidas, con escudos y espadas rotas, rodeados por el ejército persa]
     ]
@@ -419,7 +404,7 @@ Jerjes caminó por el campo de batalla en silencio. La brisa del mar movía las 
 
 #grid(
   columns: (auto, 1fr),
-  column-gutter: 4pt,
+  column-gutter: 8pt,
   align(top, text(size: 38pt, weight: "bold", font: "Libertinus Serif")[L]),
   [a historia no termina con la muerte de Leónidas y sus trescientos. Apenas comienza.]
 )
@@ -445,23 +430,15 @@ Gorgo, la reina de Esparta, recibió la noticia de la muerte de su esposo con la
 
 --- Mi esposo no ha muerto ---dijo, y su voz no temblaba---. Los hombres como Leónidas no mueren. Viven en cada acto de valor, en cada sacrificio, en cada padre que protege a su familia, en cada hombre que elige el deber sobre la comodidad. Mientras haya un solo hombre dispuesto a hacer lo correcto aunque le cueste todo, Leónidas vivirá.
 
-El hijo de Leónidas, aquel niño que le había preguntado por qué se iba, creció en la _agogé_ como su padre antes que él. Entrenó en las mismas montañas, comió la misma sopa negra, durmió sobre los mismos juncos duros. Y el día que completó su entrenamiento y recibió su escudo, lo primero que hizo fue caminar hasta las Termópilas. Se arrodilló ante el monumento de piedra y colocó su mano sobre las letras grabadas.
+El hijo de Leónidas, aquel niño que le había preguntado por qué se iba, creció en la _agogé_ como su padre antes que él. Su abuela, la madre de Leónidas, lo acompañó el día que partió hacia el entrenamiento, y le susurró al oído las mismas palabras que había dicho a su hijo: que un verdadero hombre es aquel que hace lo correcto a pesar del miedo. El muchacho entrenó en las mismas montañas, comió la misma sopa negra, durmió sobre los mismos juncos duros. Y el día que completó su entrenamiento y recibió su escudo, lo primero que hizo fue caminar hasta las Termópilas. Se arrodilló ante los monumentos de piedra ---el de los espartanos y el de los tespios que eligieron quedarse a su lado--- y colocó su mano sobre las letras grabadas.
 
 --- Ahora lo entiendo, padre ---susurró---. Y hoy soy un hombre.
-
-Y así, querido lector, termina la historia del Rey Leónidas y los trescientos espartanos. Pero antes de cerrar este libro, recuerda esto:
-
-Tú también llevas dentro de ti la capacidad de ser valiente. No necesitas una lanza ni un escudo para ser un héroe. A veces, ser valiente significa defender a un amigo cuando otros lo atacan. A veces significa decir la verdad cuando es más fácil mentir. A veces significa hacer lo correcto aunque nadie te esté mirando.
-
-La verdadera grandeza no está en ganar todas las batallas, sino en pelear las que merecen ser peleadas. El sacrificio por los demás es la forma más alta de amor. Y un hombre ---ya sea un rey con una corona de oro o un niño con una espada de madera--- se mide no por lo que tiene, sino por lo que está dispuesto a dar.
-
-La próxima vez que enfrentes algo difícil, algo que te asuste, algo que te haga querer darte la vuelta y correr, recuerda al Rey Leónidas. Recuerda a los trescientos. Y da un paso adelante.
 
 Solo un paso más.
 
 #v(0.8em)
 #align(center)[
-  #block(width: 80%, stroke: 0.5pt + luma(180), inset: 1.5em, radius: 4pt)[
+  #block(width: 80%, height: 2.5in, stroke: 0.5pt + luma(150), inset: 1.5em, radius: 4pt, fill: luma(248))[
     #align(center)[
       #text(style: "italic", size: 9pt)[Ilustración: El hijo de Leónidas, ya joven, arrodillado ante el monumento de las Termópilas, con su mano sobre las letras grabadas en la piedra]
     ]
