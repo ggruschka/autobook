@@ -20,60 +20,24 @@ Once you get confirmation, kick off the experimentation loop.
 
 ## Grading System
 
-You grade the book by spawning specialized subagents in parallel. Each grader reads `book.md` (to save tokens — it's cheaper than the Typst source) and returns a score plus actionable feedback.
+You grade the book by spawning specialized subagents in parallel. Each grader has its own prompt file in the `graders/` directory.
 
-### Grader Prompt Template
+### How to spawn a grader
 
-Every grader subagent receives a prompt structured like this:
-
-```
-You are a {ROLE}. Your job is to evaluate a book manuscript.
-
-## Constraints the book must satisfy
-{contents of constraints.md}
-
-## Your grading criteria
-{role-specific criteria — see below}
-
-## The manuscript
-{contents of book.md OR book.typ for the Designer}
-
-## Instructions
-1. Read the full manuscript carefully.
-2. Evaluate it against your specific criteria.
-3. Return your evaluation in EXACTLY this format:
-
-SCORE: [a single number from 0.0 to 10.0, to one decimal place]
-FEEDBACK:
-- [specific, actionable suggestion 1]
-- [specific, actionable suggestion 2]
-- [... as many as needed, but be concise]
-```
+For each active grader, read `graders/{name}.md` and use its contents as the subagent prompt. The grader will read the manuscript files itself using the Read tool — do NOT paste file contents into the grader prompt.
 
 ### Core Graders (always used)
 
-**Editor**
-Criteria: Prose quality, grammar, punctuation, sentence variety, word choice, voice consistency, rhythm, flow between paragraphs, pacing across chapters, avoidance of cliches, show-don't-tell, dialogue quality (if applicable). A 10 means publishable prose from a skilled author. A 5 means competent but generic. A 1 means unreadable.
-
-**Structural Analyst**
-Criteria: Overall structure, chapter organization, narrative arc (fiction) or argument progression (non-fiction), coherence between sections, setup and payoff, transitions, completeness (no loose threads), satisfying opening and ending. A 10 means masterful structure. A 5 means functional but predictable. A 1 means incoherent.
-
-**Target Audience Reader**
-Criteria: Read as the target audience defined in constraints.md. Would you keep reading past page 1? Past chapter 1? Would you finish it? Would you recommend it? Is the reading level appropriate? Is it engaging? Does it respect the reader's intelligence? A 10 means you'd enthusiastically recommend it. A 5 means it's fine. A 1 means you'd put it down.
-
-**Moral Values** — Only used when constraints.md includes Moral/Ethical Guidelines.
-Criteria: Evaluate the book strictly against the moral and ethical guidelines defined in constraints.md. Score how consistently and effectively the book embodies the stated values throughout — in its narrative choices, character portrayals, consequences, and themes. Only evaluate what the constraints specify. If the constraints say "consequences matter," check that actions have consequences. If they say "no glorification of violence," check for that. Do not impose values beyond what is written in the constraints. A 10 means perfect alignment with every stated guideline. A 5 means partial alignment with notable lapses. A 1 means the book contradicts or ignores the stated guidelines.
+- `graders/editor.md` — Prose quality, grammar, voice, show-don't-tell
+- `graders/structure.md` — Narrative arc, chapter organization, setup/payoff
+- `graders/audience.md` — Target audience engagement, reading level, recommendation
+- `graders/designer.md` — Typography, layout, print-readiness (reads `book.typ` + `template.typ`)
 
 ### Conditional Graders (use when relevant based on constraints.md)
 
-**Historian** — Use when the book involves historical events, periods, or figures.
-Criteria: Historical accuracy of events, settings, customs, language, technology, and social norms depicted. Anachronisms. Plausibility of fictional elements within the historical context.
-
-**Technical Reviewer** — Use when the book covers technical, scientific, or specialized subjects.
-Criteria: Accuracy of technical content. Appropriate depth for the target audience. Correct use of terminology. Whether explanations actually help understanding.
-
-**Designer** — Always used. This grader reads `book.typ` (not book.md).
-Criteria: Typography quality, page layout, margins, font choices, heading hierarchy, paragraph spacing, page breaks (do chapters start on new pages?), title page, table of contents, overall visual impression, print-readiness. Would this look professional on a bookshelf?
+- `graders/values.md` — Moral/ethical alignment (use when constraints.md includes Moral/Ethical Guidelines)
+- `graders/historian.md` — Historical accuracy (use when the book involves historical events)
+- `graders/technical.md` — Technical accuracy (use when the book covers technical subjects)
 
 ### Computing the Score
 
