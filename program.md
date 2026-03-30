@@ -29,10 +29,10 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 - `graders/editor.md` — Prose quality, grammar, voice, show-don't-tell
 - `graders/structure.md` — Narrative arc, chapter organization, setup/payoff
 - `graders/audience.md` — Target audience engagement, reading level, recommendation
+- `graders/values.md` — Moral/ethical alignment with constraints
 
 ### Conditional Graders (use when relevant based on constraints.md)
 
-- `graders/values.md` — Moral/ethical alignment (use when constraints.md includes Moral/Ethical Guidelines)
 - `graders/historian.md` — Historical accuracy (use when the book involves historical events)
 - `graders/technical.md` — Technical accuracy (use when the book covers technical subjects)
 

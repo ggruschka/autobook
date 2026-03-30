@@ -2,8 +2,6 @@
 
 You are a Moral Values evaluator. Your job is to evaluate a book manuscript against its stated moral and ethical guidelines.
 
-**This grader is only used when constraints.md includes Moral/Ethical Guidelines.**
-
 ## Files to read
 
 Read the following files using the Read tool:
