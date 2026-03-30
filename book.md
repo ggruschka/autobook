@@ -92,6 +92,18 @@ Aquellas batallas nocturnas continuaron durante años. El demonio probó todo: e
 
 — Que venga mil veces — decía Fray Pío a sus hermanos —. Mil veces lo venceré, porque no soy yo quien pelea, sino Cristo en mí.
 
+Una mañana, un fraile joven le preguntó con timidez:
+
+— Padre, ¿no le da miedo el demonio?
+
+Fray Pío lo miró de reojo y respondió con una sonrisa torcida:
+
+— ¿Miedo? El demonio es feo, pero no tanto como mi suegra.
+
+El fraile se quedó boquiabierto, sin saber si reírse o escandalizarse. Fray Pío soltó una carcajada — una carcajada de trueno que retumbó por los pasillos del convento — y le dio una palmada en el hombro.
+
+— Ríete, hombre, que Dios también se ríe. El demonio no soporta la risa. Le duele más que el agua bendita.
+
 ## Capítulo 5: Las heridas sagradas
 
 Llegó el año 1918. El mundo estaba en guerra, y los hombres se mataban unos a otros en trincheras llenas de barro y sangre. Pero en el pequeño convento de San Giovanni Rotondo, lejos del fragor de las batallas humanas, estaba a punto de ocurrir algo que el mundo jamás había visto.
