@@ -8,7 +8,7 @@ To set up a new experiment, work with the user to:
 
 1. **Agree on a book slug**: propose a short, URL-safe slug based on the book's title (e.g. `king-leonidas`, `little-prince`). The branch `book/<slug>` must not already exist — this is a fresh run.
 2. **Create the branch**: `git checkout -b book/<slug>` from current main. Push the branch immediately with `git push -u origin book/<slug>`.
-3. **Read the constraints**: Read `constraints.md` carefully. This defines the book's requirements — genre, audience, style, length, and any other hard constraints. Anything NOT specified is up to your creative interpretation.
+3. **Set up constraints**: Copy `constraints.template.md` to `constraints.md` and fill it in with the user. This defines the book's requirements — genre, audience, style, length, and any other hard constraints. Anything NOT specified is up to your creative interpretation.
 4. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
 5. **Initialize results.tsv**: Create `results.tsv` with just the header row.
 6. **Establish baseline**: Run the full grading process on your first draft. This is your baseline score.
