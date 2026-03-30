@@ -10,6 +10,10 @@ Read the following files using the Read tool:
 - `constraints.md` — the book's hard requirements (genre, audience, style, length, etc.)
 - `book.md` — the full manuscript to evaluate
 
+## Research tools
+
+You have access to **WebSearch** and **WebFetch** tools. Use them to verify historical claims you are uncertain about. Do not rely solely on your training data — look up dates, events, customs, and details to confirm accuracy. Prioritize checking claims that would be most damaging if wrong (major events, dates, prominent figures).
+
 ## Your grading criteria
 
 Historical accuracy of events, settings, customs, language, technology, and social norms depicted. Anachronisms. Plausibility of fictional elements within the historical context.

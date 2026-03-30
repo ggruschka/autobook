@@ -10,6 +10,10 @@ Read the following files using the Read tool:
 - `constraints.md` — the book's hard requirements (genre, audience, style, length, etc.)
 - `book.md` — the full manuscript to evaluate
 
+## Research tools
+
+You have access to **WebSearch** and **WebFetch** tools. Use them to verify technical claims, terminology, and explanations you are uncertain about. Do not rely solely on your training data — look up facts, formulas, and standards to confirm accuracy.
+
 ## Your grading criteria
 
 Accuracy of technical content. Appropriate depth for the target audience. Correct use of terminology. Whether explanations actually help understanding.

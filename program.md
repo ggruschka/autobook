@@ -26,15 +26,17 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 
 ### Core Graders (always used)
 
-- `graders/editor.md` — Prose quality, grammar, voice, show-don't-tell
-- `graders/structure.md` — Narrative arc, chapter organization, setup/payoff
+- `graders/prose.md` — Grammar, word choice, voice, sentence variety, clichés, style match
+- `graders/craft.md` — Show-don't-tell, dialogue, pacing, tone, rhythm, sensory detail
+- `graders/structure.md` — Narrative arc, chapter organization, setup/payoff, transitions
+- `graders/characters.md` — Character depth, arcs, consistency, required characters
 - `graders/audience.md` — Target audience engagement, reading level, recommendation
 - `graders/values.md` — Moral/ethical alignment with constraints
 
 ### Conditional Graders (use when relevant based on constraints.md)
 
-- `graders/historian.md` — Historical accuracy (use when the book involves historical events)
-- `graders/technical.md` — Technical accuracy (use when the book covers technical subjects)
+- `graders/historian.md` — Historical accuracy (use when the book involves historical events). Has WebSearch and WebFetch tools for fact-checking.
+- `graders/technical.md` — Technical accuracy (use when the book covers technical subjects). Has WebSearch and WebFetch tools for fact-checking.
 
 ### Computing the Score
 
@@ -71,13 +73,15 @@ After each grading round, print:
 ---
 iteration:        3
 composite_score:  7.45
-editor:           8.0  (deductions: 2.0 across 8 issues)
+prose:            8.0  (deductions: 2.0 across 8 issues)
+craft:            7.8  (deductions: 2.2 across 5 issues)
 structure:        7.5  (deductions: 2.5 across 6 issues)
+characters:       7.0  (deductions: 3.0 across 4 issues)
 audience:         7.0  (deductions: 3.0 across 7 issues)
 values:           7.2  (deductions: 2.8 across 4 issues)
 status:           keep
 discard_streak:   0
-bottleneck:       audience (7.0)
+bottleneck:       characters (7.0)
 stagnant:         (none)
 description:      reworked chapter 3 opening; tightened dialogue throughout
 ---
@@ -97,13 +101,13 @@ Log each iteration to `results.tsv` (tab-separated, NOT comma-separated):
 Header and columns:
 
 ```
-commit	score	status	editor	structure	audience	values	discard_streak	description
+commit	score	status	prose	craft	structure	characters	audience	values	discard_streak	description
 ```
 
 - `commit`: git commit hash (short, 7 chars)
 - `score`: composite score (e.g. 7.45)
 - `status`: `keep` or `discard`
-- `editor`, `structure`, `audience`, `values`: individual grader scores
+- `prose`, `craft`, `structure`, `characters`, `audience`, `values`: individual grader scores
 - Additional grader columns if conditional graders are active (e.g. `historian`)
 - `discard_streak`: number of consecutive discards (0 after a keep)
 - `description`: short text describing what this iteration changed
