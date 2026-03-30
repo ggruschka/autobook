@@ -18,7 +18,7 @@
   paper: "us-trade",
   font-body: "Libertinus Serif",
   font-heading: "Libertinus Serif",
-  font-size: 11pt,
+  font-size: 11.5pt,
   body,
 ) = {
 
@@ -29,10 +29,10 @@
   set page(
     paper: paper,
     margin: (
-      top: 0.9in,
+      top: 1.0in,
       bottom: 1in,
       inside: 0.85in,
-      outside: 0.7in,
+      outside: 0.75in,
     ),
     // Running header with page number, suppressed on chapter openings
     header: context {
@@ -55,7 +55,7 @@
 
   // Typography
   set text(font: font-body, size: font-size, lang: "en")
-  set par(justify: true, leading: 0.65em, first-line-indent: 1.5em)
+  set par(justify: true, leading: 0.75em, first-line-indent: 1.2em)
 
   // Heading styles
   // Level 1 = Chapter headings
@@ -84,7 +84,7 @@
   // ── Title page ──
   page(header: none, footer: none, margin: (top: 3in, bottom: 2in))[
     #align(center)[
-      #text(font: font-heading, size: 28pt, weight: "bold")[#title]
+      #text(font: font-heading, size: 34pt, weight: "bold")[#title]
       #v(2em)
       #text(size: 14pt)[#author]
       #if date != none {
@@ -94,8 +94,17 @@
     ]
   ]
 
-  // ── Blank verso (back of title page) ──
-  page(header: none, footer: none)[]
+  // ── Blank verso / copyright page ──
+  page(header: none, footer: none, margin: (top: auto, bottom: 1.5in))[
+    #align(bottom)[
+      #set text(size: 8pt)
+      #text[Copyright © #if date != none { date } else { "2026" } #author] \
+      #text[Todos los derechos reservados.] \
+      #v(0.5em)
+      #text[Compuesto en #font-body.] \
+      #text[Impreso en formato #paper.]
+    ]
+  ]
 
   // ── Table of contents ──
   page(header: none)[
