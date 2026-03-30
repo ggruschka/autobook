@@ -32,6 +32,7 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 - `graders/characters.md` — Character depth, arcs, consistency, required characters
 - `graders/audience.md` — Target audience engagement, reading level, recommendation
 - `graders/values.md` — Moral/ethical alignment with constraints
+- `graders/authenticity.md` — AI-slop detection: distinctive voice, human-like prose, absence of generated-text patterns
 
 ### Conditional Graders (use when relevant based on constraints.md)
 
@@ -79,6 +80,7 @@ structure:        7.5  (deductions: 2.5 across 6 issues)
 characters:       7.0  (deductions: 3.0 across 4 issues)
 audience:         7.0  (deductions: 3.0 across 7 issues)
 values:           7.2  (deductions: 2.8 across 4 issues)
+authenticity:     7.5  (deductions: 2.5 across 9 issues)
 status:           keep
 discard_streak:   0
 bottleneck:       characters (7.0)
@@ -101,13 +103,13 @@ Log each iteration to `results.tsv` (tab-separated, NOT comma-separated):
 Header and columns:
 
 ```
-commit	score	status	prose	craft	structure	characters	audience	values	discard_streak	description
+commit	score	status	prose	craft	structure	characters	audience	values	authenticity	discard_streak	description
 ```
 
 - `commit`: git commit hash (short, 7 chars)
 - `score`: composite score (e.g. 7.45)
 - `status`: `keep` or `discard`
-- `prose`, `craft`, `structure`, `characters`, `audience`, `values`: individual grader scores
+- `prose`, `craft`, `structure`, `characters`, `audience`, `values`, `authenticity`: individual grader scores
 - Additional grader columns if conditional graders are active (e.g. `historian`)
 - `discard_streak`: number of consecutive discards (0 after a keep)
 - `description`: short text describing what this iteration changed
