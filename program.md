@@ -38,9 +38,10 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 
 ### Computing the Score
 
-1. Collect all grader scores.
-2. Composite score = arithmetic mean of all scores, rounded to 2 decimal places.
-3. This composite score is what you track and optimize.
+1. Collect all grader outputs. Each grader returns a SCORE and a DEDUCTIONS table.
+2. **Validate**: For each grader, verify that the deductions sum to (10.0 - SCORE) within ±0.1. If they don't, trust the SCORE but note the discrepancy.
+3. Composite score = arithmetic mean of all scores, rounded to 2 decimal places.
+4. This composite score is what you track and optimize.
 
 ## The Content Loop
 
@@ -55,11 +56,12 @@ LOOP FOREVER:
 5. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish.
 6. **Score**: Compute the composite score.
 7. **Record**: Append the results to `results.tsv`.
-8. **Decide**:
-    - If the composite score **improved** (higher than previous best) → keep the commit. This is now the new best.
-    - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit. Then `git push --force` to sync the remote.
-9. **Print the summary** (see Output Format below).
-10. **Go to step 1**.
+8. **Track discard streak**: If the previous iteration was a discard, increment the discard streak counter. If it was a keep, reset to 0.
+9. **Decide**:
+    - If the composite score **improved** (higher than previous best) → keep the commit. This is now the new best. Reset discard streak to 0.
+    - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit. Then `git push --force` to sync the remote. Increment discard streak.
+10. **Print the summary** (see Output Format below).
+11. **Go to step 1**.
 
 ## Output Format
 
@@ -69,14 +71,24 @@ After each grading round, print:
 ---
 iteration:        3
 composite_score:  7.45
-editor:           8.0
-structure:        7.5
-audience:         7.0
-values:           7.2
+editor:           8.0  (deductions: 2.0 across 8 issues)
+structure:        7.5  (deductions: 2.5 across 6 issues)
+audience:         7.0  (deductions: 3.0 across 7 issues)
+values:           7.2  (deductions: 2.8 across 4 issues)
 status:           keep
+discard_streak:   0
+bottleneck:       audience (7.0)
+stagnant:         (none)
 description:      reworked chapter 3 opening; tightened dialogue throughout
 ---
 ```
+
+### Trend Tracking
+
+After each grading round, identify:
+
+- **Bottleneck grader**: The grader with the lowest score. Focus revision effort here — bringing a 7.0 to 8.0 moves the composite more than pushing an 8.5 to 9.0.
+- **Stagnant grader**: A grader that has returned the same score (±0.1) for 3+ consecutive iterations. Don't spend revision effort trying to improve it — the remaining issues may be deeply embedded or beyond the grader's resolution.
 
 ## Logging Results
 
@@ -85,7 +97,7 @@ Log each iteration to `results.tsv` (tab-separated, NOT comma-separated):
 Header and columns:
 
 ```
-commit	score	status	editor	structure	audience	values	description
+commit	score	status	editor	structure	audience	values	discard_streak	description
 ```
 
 - `commit`: git commit hash (short, 7 chars)
@@ -93,6 +105,7 @@ commit	score	status	editor	structure	audience	values	description
 - `status`: `keep` or `discard`
 - `editor`, `structure`, `audience`, `values`: individual grader scores
 - Additional grader columns if conditional graders are active (e.g. `historian`)
+- `discard_streak`: number of consecutive discards (0 after a keep)
 - `description`: short text describing what this iteration changed
 
 ## Rules
