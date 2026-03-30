@@ -10,13 +10,11 @@ To set up a new experiment, work with the user to:
 2. **Create the branch**: `git checkout -b book/<slug>` from current main. Push the branch immediately with `git push -u origin book/<slug>`.
 3. **Read the constraints**: Read `constraints.md` carefully. This defines the book's requirements — genre, audience, style, length, and any other hard constraints. Anything NOT specified is up to your creative interpretation.
 4. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
-5. **Generate the Typst version**: Create `book.typ` with the same content, formatted for print output using the base template in `template.typ`. The Typst file must compile to a print-ready PDF.
-6. **Compile the PDF**: Run `typst compile book.typ book.pdf` to verify it builds cleanly.
-7. **Initialize results.tsv**: Create `results.tsv` with just the header row.
-8. **Establish baseline**: Run the full grading process on your first draft. This is your baseline score.
-9. **Confirm and go**: Show the user the baseline scores and confirm the loop should begin.
+5. **Initialize results.tsv**: Create `results.tsv` with just the header row.
+6. **Establish baseline**: Run the full grading process on your first draft. This is your baseline score.
+7. **Confirm and go**: Show the user the baseline scores and confirm the loop should begin.
 
-Once you get confirmation, kick off the experimentation loop.
+Once you get confirmation, kick off the content loop.
 
 ## Grading System
 
@@ -31,7 +29,6 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 - `graders/editor.md` — Prose quality, grammar, voice, show-don't-tell
 - `graders/structure.md` — Narrative arc, chapter organization, setup/payoff
 - `graders/audience.md` — Target audience engagement, reading level, recommendation
-- `graders/designer.md` — Typography, layout, print-readiness (reads `book.typ` + `template.typ`)
 
 ### Conditional Graders (use when relevant based on constraints.md)
 
@@ -45,26 +42,35 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 2. Composite score = arithmetic mean of all scores, rounded to 2 decimal places.
 3. This composite score is what you track and optimize.
 
-## The Experiment Loop
+## The Content Loop
 
-The loop runs on a dedicated branch (e.g. `book/king-leonidas`).
+The loop runs on a dedicated branch (e.g. `book/king-leonidas`). This loop focuses exclusively on the writing — prose, structure, accuracy, audience fit. Design and typesetting happen separately after the content is finalized.
 
 LOOP FOREVER:
 
 1. **Review feedback**: Read all grader feedback from the previous iteration. Identify the weakest areas.
 2. **Plan the revision**: Decide what to change. Focus on the lowest-scoring graders first — bringing a 5.0 to 7.0 matters more than pushing an 8.5 to 9.0. Write a brief revision plan (just for yourself, not a file).
 3. **Rewrite `book.md`**: Apply your revisions. This is the ENTIRE book. Maintain coherence — a change in chapter 3 might require adjustments in chapters 5 and 8.
-4. **Update `book.typ`**: Reflect the new content in the Typst source. If the Designer had feedback, apply layout improvements too.
-5. **Compile**: `typst compile book.typ book.pdf`. If it fails, fix the Typst and retry.
-6. **git commit and push**: Commit `book.md` and `book.typ` (not `book.pdf`, not `results.tsv`). Push to the remote after every commit.
-7. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish.
-8. **Score**: Compute the composite score.
-9. **Record**: Append the results to `results.tsv`.
-10. **Decide**:
+4. **git commit and push**: Commit `book.md` (not `results.tsv`). Push to the remote after every commit.
+5. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish.
+6. **Score**: Compute the composite score.
+7. **Record**: Append the results to `results.tsv`.
+8. **Decide**:
     - If the composite score **improved** (higher than previous best) → keep the commit. This is now the new best.
     - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit. Then `git push --force` to sync the remote.
-11. **Print the summary** (see Output Format below).
-12. **Go to step 1**.
+9. **Print the summary** (see Output Format below).
+10. **Go to step 1**.
+
+## Design Phase (future, after content is finalized)
+
+Once the content loop has converged and the user is satisfied with the prose, a separate design phase begins:
+
+1. Generate `book.typ` from the finalized `book.md`, formatted for print using the base template in `template.typ`.
+2. Compile with `typst compile book.typ book.pdf`.
+3. Run the Designer grader (`graders/designer.md`) to evaluate typography and layout.
+4. Iterate on `book.typ` and `template.typ` until the Designer score is satisfactory.
+
+The Designer grader is NOT part of the content loop. Content and design are optimized independently.
 
 ## Output Format
 
@@ -78,7 +84,6 @@ editor:           8.0
 structure:        7.5
 audience:         7.0
 values:           7.2
-designer:         6.8
 status:           keep
 description:      reworked chapter 3 opening; tightened dialogue throughout
 ---
@@ -91,14 +96,14 @@ Log each iteration to `results.tsv` (tab-separated, NOT comma-separated):
 Header and columns:
 
 ```
-commit	score	status	editor	structure	audience	values	designer	description
+commit	score	status	editor	structure	audience	description
 ```
 
 - `commit`: git commit hash (short, 7 chars)
 - `score`: composite score (e.g. 7.45)
 - `status`: `keep` or `discard`
-- `editor`, `structure`, `audience`, `values`, `designer`: individual grader scores
-- Additional grader columns if conditional graders are active (e.g. `historian`)
+- `editor`, `structure`, `audience`: individual grader scores
+- Additional grader columns if conditional graders are active (e.g. `values`, `historian`)
 - `description`: short text describing what this iteration changed
 
 ## Rules
@@ -112,7 +117,5 @@ commit	score	status	editor	structure	audience	values	designer	description
 **Grader feedback is gold.** The graders' specific suggestions should heavily inform your next revision. Don't ignore feedback, and don't repeat the same mistake twice.
 
 **Don't chase one score.** If one grader gives 9.0 but another gives 4.0, focus entirely on the 4.0. Balanced improvement beats lopsided excellence.
-
-**Simplicity in Typst.** The Typst template should be clean and professional. Don't over-design. Good typography is invisible. Resist the urge to add decorative elements unless the constraints call for it.
 
 **Track your reasoning.** In the `description` column of results.tsv, note what you changed AND why (based on which grader's feedback). This helps you avoid cycling through the same ideas.
