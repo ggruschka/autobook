@@ -20,16 +20,10 @@ Fill in any that matter. Delete or leave blank any that don't — the agent will
 - **Tone**: (e.g., dark, humorous, hopeful, melancholic, satirical)
 - **Structure**: (e.g., linear narrative, nonlinear, epistolary, frame story, anthology of linked stories)
 - **Characters**: (any required characters, character types, or character constraints)
-- **Moral/Ethical Guidelines**: (values the book should promote or avoid — e.g., "no glorification of violence", "emphasize empathy and resilience", "morally complex characters welcome, but consequences matter". The Moral Values grader evaluates strictly against what you write here — leave blank to skip that grader entirely)
+- **Moral/Ethical Guidelines**: (values the book should promote or avoid — e.g., "no glorification of violence", "emphasize empathy and resilience", "morally complex characters welcome, but consequences matter". The Moral Values grader evaluates strictly against what you write here)
 - **Content Warnings**: (topics to avoid or handle with care)
 - **Reference Works**: (books the result should feel like — "in the style of X", "similar to Y")
 - **Language**: (language the book should be written in, default: English)
-
-## Print Format
-
-- **Trim Size**: (e.g., 5.5" x 8.5", 6" x 9" — default: 6" x 9" US trade paperback)
-- **Font Preferences**: (e.g., serif body text, specific fonts if any — default: agent's choice of readable serif)
-- **Special Layout Needs**: (e.g., illustrations placeholders, epigraphs per chapter, footnotes, etc.)
 
 ## Conditional Graders
 
