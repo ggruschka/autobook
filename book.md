@@ -30,7 +30,7 @@ Elena estrechó la mano que le ofrecía. Era como agarrar un trozo de madera. Do
 
 —Está usted muy guapa esta noche —dijo Don Rodrigo, y se volvió hacia su padre antes de que Elena pudiera responder.
 
-Mientras los dos hombres hablaban de cosas aburridas —la salud de Doña Carmen, el cambio de gobierno, algo sobre aranceles—, Elena estudió el salón.
+Mientras los dos hombres hablaban de cosas aburridas —la salud de Doña Carmen, la insurrección minera en Asturias que llevaba una semana en los periódicos, los rumores de que la huelga podía extenderse a las fábricas del norte—, Elena estudió el salón.
 
 Había unas treinta personas. Las reconoció casi a todas de otras cenas similares, ese circuito interminable de la alta sociedad madrileña donde siempre se veían las mismas caras diciendo las mismas cosas. Pero esa noche, algo era diferente. No sabría decir qué exactamente. Era como una nota desafinada en una orquesta: imperceptible para la mayoría, pero Elena tenía buen oído para las disonancias.
 
@@ -76,7 +76,7 @@ Después de la cena, los invitados se dispersaron entre el salón, la biblioteca
 
 Elena se escapó.
 
-No fue difícil. A los dieciséis años, una tiene la ventaja de la invisibilidad social: demasiado mayor para que la vigilen, demasiado joven para que la echen de menos. Se deslizó por el pasillo que conectaba el comedor con el ala este de la casa y se encontró en un corredor silencioso, iluminado por apliques de gas que proyectaban sombras alargadas en las paredes.
+No fue difícil. A los dieciséis años, una tiene la ventaja de la invisibilidad social: demasiado mayor para que la vigilen, demasiado joven para que la echen de menos. Se deslizó por el pasillo que conectaba el comedor con el ala este de la casa y se encontró en un corredor silencioso, iluminado por apliques eléctricos que proyectaban sombras alargadas en las paredes.
 
 Quería ver la biblioteca. Los Arizmendi tenían fama de poseer una de las mejores colecciones privadas de Madrid, y Elena había vislumbrado, en visitas anteriores, estanterías de nogal que llegaban hasta el techo y una escalera de latón sobre raíles. Si podía encontrar diez minutos de silencio y un buen libro, la noche no habría sido un desperdicio total.
 
@@ -504,13 +504,13 @@ Elena abrió su cuaderno en una página nueva y escribió un nombre en la parte 
 
 ## Capítulo 4: El imperio de Don Rodrigo
 
-Para entender la muerte de Don Rodrigo Arizmendi, había que entender primero su vida. Y su vida era, ante todo, un negocio.
+La Hemeroteca Municipal olía a polvo y a tinta vieja. Elena y Tomás estaban sentados a una mesa de roble bajo una ventana alta que dejaba entrar una luz amarillenta de sábado por la tarde. Delante de ellos, una pila de periódicos encuadernados que el funcionario había traído con cara de pocos amigos.
 
-Los Arizmendi llevaban en Madrid desde 1870, cuando el abuelo de Don Rodrigo, un industrial vasco de Bilbao, se trasladó a la capital para estar más cerca de los centros de poder. Abrió una fábrica textil en Arganzuela, al sur de la ciudad, y en diez años la convirtió en la más productiva de Castilla. Su hijo —el padre de Don Rodrigo— amplió el negocio a Barcelona y Valencia. Y Don Rodrigo, que heredó la empresa en 1915 a los cuarenta años, la transformó en un imperio.
+—Empecemos por el principio —dijo Elena—. ¿Quién era Don Rodrigo Arizmendi?
 
-Arizmendi Textiles producía el cuarenta por ciento del algodón manufacturado en España. Tenía fábricas en seis ciudades, dos mil empleados, contratos con el ejército y con las grandes tiendas de Madrid y Barcelona. Don Rodrigo era miembro de la Cámara de Comercio, consejero del Banco de España y amigo personal de tres ministros sucesivos. Su fortuna se estimaba en varios millones de pesetas, una cifra que en 1934 significaba una riqueza casi inconcebible.
+Lo que encontraron en las siguientes dos horas les pintó un retrato que ningún invitado de la fiesta habría reconocido. O mejor dicho, que todos habrían reconocido pero ninguno habría dicho en voz alta.
 
-Todo esto lo descubrió Elena en la hemeroteca de la Biblioteca Nacional, donde pasó la tarde del sábado revisando periódicos viejos con la ayuda de Tomás.
+Los Arizmendi llevaban en Madrid desde 1870: un abuelo vasco que abrió una fábrica textil en Arganzuela, un padre que la expandió a Barcelona y Valencia, y Don Rodrigo, que heredó la empresa en 1915 y la convirtió en un imperio. Arizmendi Textiles producía el cuarenta por ciento del algodón manufacturado en España. Dos mil empleados. Contratos con el ejército. Don Rodrigo era consejero del Banco de España y amigo personal de tres ministros sucesivos. Su fortuna se estimaba en varios millones de pesetas.
 
 —Mira esto —dijo Tomás, señalando un artículo del ABC de mayo de 1934—. «Arizmendi & Salazar Textiles anuncia la apertura de una nueva planta en Sevilla. Don Rodrigo Arizmendi y Don Felipe Salazar presidieron la ceremonia.»
 
@@ -554,7 +554,7 @@ Y luego encontraron algo que Elena no esperaba.
 
 Era una nota breve en la sección de sociedad de El Heraldo de Madrid, de febrero de 1910. Veinticuatro años atrás.
 
-«Don Rodrigo Arizmendi, conocido industrial, y la señorita Isabel Reyes, natural de Aranjuez, fueron vistos juntos en el baile de carnaval del Hotel Palace. Fuentes cercanas a la familia Arizmendi recuerdan que Don Rodrigo contrajo matrimonio con Doña Carmen Solís en 1908.»
+«Don Rodrigo Arizmendi, conocido industrial, y la señorita Isabel Reyes, natural de Aranjuez, fueron vistos juntos en el baile de carnaval del Casino de Madrid. Fuentes cercanas a la familia Arizmendi recuerdan que Don Rodrigo contrajo matrimonio con Doña Carmen Solís en 1908.»
 
 Elena sintió que le ardían las mejillas.
 
@@ -782,9 +782,19 @@ Su padre dejó la taza de café sobre el plato con un clic preciso.
 
 Era lunes. Tenía cuatro días.
 
-Esa tarde, después del colegio, Elena fue al palacete de los Arizmendi. Esta vez no usó pretextos. Pidió ver a Lucía.
+Esa mañana, de camino al colegio, Elena se convenció de que había sido Doña Carmen. Treinta años de matrimonio miserable, acceso diario al estudio, conocimiento íntimo de las costumbres de su marido. El razonamiento era limpio, elegante, satisfactorio.
 
-La encontró en su habitación, sentada en una silla junto a la ventana, con un libro en el regazo que claramente no estaba leyendo. La habitación de Lucía era espartana para ser la de una hija de millonario: una cama estrecha, un escritorio lleno de libros y papeles, un armario modesto. En la pared había un cartel de la República y una fotografía de Federico García Lorca.
+A la salida, se lo contó a Tomás. Él hizo una sola pregunta:
+
+—Si fue Doña Carmen, ¿por qué dio la alarma ella?
+
+Elena abrió la boca. La cerró. Los mismos argumentos que había apuntado como «Contra» en su cuaderno demolían su teoría. Había cometido el error más viejo del oficio: enamorarse de una hipótesis.
+
+—Olvida lo de Doña Carmen —dijo.
+
+Esa tarde, después del colegio, fue al palacete de los Arizmendi. Esta vez no usó pretextos. Pidió ver a Lucía.
+
+La encontró en su habitación, sentada en una silla junto a la ventana, con un libro en el regazo que claramente no estaba leyendo. La habitación de Lucía era espartana para ser la de una hija de millonario: una cama estrecha, un escritorio lleno de libros y papeles, un armario modesto. En la pared había un cartel de la República y un grabado de Mariana Pineda, la heroína liberal que Lorca había llevado al teatro hacía unos años.
 
 —Señorita Arizmendi —dijo Elena desde la puerta.
 
@@ -892,7 +902,7 @@ Pero las cintas de la policía no detienen a las adolescentes decididas.
 
 Elena miró a su alrededor. Gregorio no estaba a la vista. Los agentes que vigilaban la casa estaban en la puerta principal y en la de servicio, no dentro. Se deslizó por el pasillo, levantó la cinta sin despegarla y abrió la puerta del estudio.
 
-La habitación estaba exactamente como la recordaba, excepto por el contorno de tiza en la butaca donde había estado Don Rodrigo. La copa de brandy ya no estaba —se la habían llevado como prueba—, pero el decantador seguía sobre la mesita auxiliar, cubierto con una bolsita de plástico.
+La habitación estaba exactamente como la recordaba, excepto por el contorno de tiza en la butaca donde había estado Don Rodrigo. La copa de brandy ya no estaba —se la habían llevado como prueba—, pero el decantador seguía sobre la mesita auxiliar, cubierto con un paño de tela.
 
 Elena fue directamente al escritorio. Cajón superior derecho: el que Consuelo había intentado abrir la noche del asesinato.
 
@@ -990,7 +1000,19 @@ Pasaron la tarde recorriendo pensiones del centro de Madrid. Empezaron por las m
 
 —No soy un hotel de lujo, pero tampoco un lugar de citas. Espérenla en la calle.
 
-Esperaron. Tomás compró castañas asadas en un puesto de la esquina y las comieron sentados en el portal de enfrente, mirando la puerta de la pensión. A las siete y cuarto, cuando ya empezaba a oscurecer y Elena se preguntaba si el plan había sido una mala idea, una figura apareció al final de la calle.
+Esperaron. Tomás compró castañas asadas en un puesto de la esquina y las comieron sentados en el portal de enfrente, mirando la puerta de la pensión.
+
+—Elena —dijo Tomás—. Si resulta que Consuelo sí lo hizo, ¿qué haces?
+
+—Se lo cuento a Garrido.
+
+—¿Aunque tuviera razones?
+
+—Las razones no cambian los hechos. Solo cambian cómo te sientes al contarlos.
+
+Tomás asintió, pero no parecía convencido.
+
+A las siete y cuarto, cuando ya empezaba a oscurecer, una figura apareció al final de la calle.
 
 Consuelo Reyes caminaba despacio, con un abrigo gris y un pañuelo en la cabeza. Llevaba una bolsa de compras en una mano y un periódico en la otra. Parecía más pequeña que en el palacete, como si la ausencia de Don Rodrigo y su mundo le hubiera quitado volumen.
 
@@ -1677,7 +1699,7 @@ Se levantó. Los agentes de Garrido dieron un paso adelante, pero Don Felipe lev
 
 Consuelo lloraba en silencio.
 
-—Y lo hice —continuó Don Felipe—. Exactamente como has descrito. Durante la cena, en esos diez minutos. Fue sencillo. La parte más difícil fue el cigarrillo. Tenía las manos temblorosas después de tocar el veneno y necesitaba calmarme. Un error estúpido. Debería haberme lavado las manos antes de fumar.
+—Y lo hice —continuó Don Felipe—. Exactamente como has descrito. Durante la cena, en esos diez minutos. Fue sencillo. La parte más difícil fue el cigarrillo. Tenía las manos temblorosas después de tocar el veneno y necesitaba calmarme. Un error estúpido. Debería haberme lavado las manos antes de fumar. —Miró a Elena—. Y la nota en tu colegio fue otra estupidez. Le pagué al portero para que la dejara en tu pupitre.
 
 —No —dijo Elena—. Su error no fue el cigarrillo. Su error fue pensar que podía matar a un hombre y que nadie haría las preguntas correctas.
 
