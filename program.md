@@ -105,7 +105,7 @@ If the regression streak reaches 3, enter single-grader mode:
 2. Read only that grader's `graders/output/{name}.md` feedback file.
 3. Make targeted edits addressing only that grader's feedback.
 4. Commit and push.
-5. Run only that single grader (not all graders).
+5. Run only that single grader (not all graders). Save its output to `graders/output/{name}.md`.
 6. If that grader's score reaches the current best composite score → exit single-grader mode, reset regression streak to 0, return to the full loop (run all graders next iteration).
 7. If not → repeat from step 2 with the updated feedback.
 
