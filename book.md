@@ -20,7 +20,7 @@ No se lo contó a nadie durante años. ¿Quién le habría creído? Y si le hubi
 
 A los cinco años tuvo su primera experiencia que podríamos llamar mística, aunque él no habría usado esa palabra. Estaba arrodillado frente a una imagen del Sagrado Corazón de Jesús en la iglesia de Pietrelcina cuando sintió que algo le quemaba por dentro, como si hubiera tragado una brasa que en vez de dolerle le llenaba de una alegría tan intensa que casi no podía soportarla. En ese momento, sin que nadie se lo enseñara, decidió que su vida entera sería para Dios. Tenía cinco años. La mayoría de los niños de cinco años deciden que quieren ser pastores o herreros o soldados, y luego cambian de opinión cien veces. Francesco no cambió de opinión nunca.
 
-Su familia era pobre, pero no pasaban hambre. Grazio cultivaba un pequeño terreno y María Giuseppa criaba a los hijos con mano firme y fe inquebrantable. En aquella casa se rezaba antes de comer, después de comer, al levantarse y al acostarse. No había libros salvo la Biblia y las vidas de los santos, que María Giuseppa leía en voz alta por las noches a la luz de una lámpara de aceite. Francesco escuchaba aquellas historias con los ojos brillantes: San Francisco que hablaba con los pájaros, Santa Clara que ahuyentaba a los sarracenos con la custodia, San Martín que partía su capa con el mendigo. Aquellos santos eran sus héroes, más reales para él que cualquier persona del pueblo.
+Su familia era pobre, pero no pasaban hambre. Grazio cultivaba un pequeño terreno y María Giuseppa criaba a los hijos con mano firme y el rosario siempre a mano. En aquella casa se rezaba antes de comer, después de comer, al levantarse y al acostarse. No había libros salvo la Biblia y las vidas de los santos, que María Giuseppa leía en voz alta por las noches a la luz de una lámpara de aceite. Francesco escuchaba aquellas historias con los ojos brillantes: San Francisco que hablaba con los pájaros, Santa Clara que ahuyentaba a los sarracenos con la custodia, San Martín que partía su capa con el mendigo. Aquellos santos eran sus héroes, más reales para él que cualquier persona del pueblo.
 
 No iba a la escuela porque no había escuela en Pietrelcina que valiera la pena, y además la familia necesitaba manos para el campo. Francesco cuidaba un pequeño rebaño de ovejas. Se sentaba en las rocas con sus animales alrededor y rezaba el rosario mientras las ovejas pastaban, y cuando terminaba el rosario volvía a empezar. Los otros pastorcitos del pueblo jugaban entre ellos, se tiraban piedras, se insultaban con las palabras que habían aprendido de los mayores. Francesco no. No es que fuera antipático ni tímido; simplemente prefería la compañía de Dios a la de los otros niños, y no le importaba que eso lo hiciera parecer extraño.
 
@@ -28,7 +28,7 @@ Pero también era un niño de carne y hueso. Se enfadaba cuando sus hermanos toc
 
 A los diez años, Francesco le dijo a su padre que quería ser fraile. Grazio Forgione se quedó mirándolo un buen rato. No era una sorpresa, en realidad. Cualquiera que hubiera observado a aquel niño rezando horas y horas con una concentración que ni los adultos conseguían sabía que su destino no estaba en los campos de Pietrelcina. Pero ser fraile significaba estudiar, y estudiar costaba dinero, y dinero era precisamente lo que no tenían.
 
-Grazio hizo algo que muchos padres italianos de aquella época hacían cuando necesitaban dinero: emigró. Se fue a América, a trabajar en los campos de Nueva York, para ganar lo suficiente para pagar la educación de su hijo. La noche antes de partir, mientras María Giuseppa preparaba su maleta de cartón en silencio, Grazio se sentó junto a Francesco y le dijo: "Voy a cruzar el mar para que tú puedas hacer lo que Dios te pide. No me falles." Francesco no contestó. Le agarró la mano a su padre y se la apretó con tanta fuerza que Grazio se quedó mirándolo, sorprendido de que un niño de diez años tuviera tanta fuerza en los dedos.
+Grazio hizo algo que muchos padres italianos de aquella época hacían cuando necesitaban dinero: emigró. Se fue a América, a trabajar como jornalero en los alrededores de Nueva York, para ganar lo suficiente para pagar la educación de su hijo. La noche antes de partir, mientras María Giuseppa preparaba su maleta de cartón en silencio, Grazio se sentó junto a Francesco y le dijo: "Voy a cruzar el mar para que tú puedas hacer lo que Dios te pide. No me falles." Francesco no contestó. Le agarró la mano a su padre y se la apretó con tanta fuerza que Grazio se quedó mirándolo, sorprendido de que un niño de diez años tuviera tanta fuerza en los dedos.
 
 Es difícil imaginar lo que significaba aquello en 1897: un hombre que apenas había salido de su pueblo, que no hablaba ni una palabra de inglés, que nunca había visto el mar, se subía a un barco y cruzaba el Atlántico para que su hijo pudiera cumplir su vocación.
 
@@ -150,8 +150,6 @@ Y confesar era lo que más amaba en el mundo.
 
 Padre Pío confesaba como ningún otro sacerdote. Se sentaba en el confesionario al amanecer y no se levantaba hasta que el último penitente se había ido, lo cual a veces significaba dieciséis o dieciocho horas seguidas. La gente venía de toda Italia, de toda Europa, y más tarde de todo el mundo. Hacían cola durante días. Literalmente días: dormían en las calles de San Giovanni Rotondo, en sacos de dormir, en coches, donde fuera, esperando su turno para confesarse con Padre Pío.
 
-¿Por qué? ¿Qué tenía de especial su confesión?
-
 Tenía dos cosas que ningún otro confesor podía ofrecer. La primera era que Padre Pío sabía tus pecados antes de que se los dijeras. No todos, no siempre, pero a menudo. Entrabas en el confesionario, abrías la boca para hablar y él te interrumpía: "¿Y aquello del martes? ¿Y lo que le dijiste a tu hermana? ¿Y eso que hiciste creyendo que nadie te veía?" La gente salía llorando, temblando, con la cara blanca como un papel. No porque él fuera duro — a veces lo era, pero siempre con razón — sino porque la experiencia de que alguien vea tu alma desnuda, sin disfraces, sin excusas, es aterradora y al mismo tiempo profundamente liberadora.
 
 La segunda cosa era que Padre Pío no aceptaba confesiones falsas. Si alguien entraba en el confesionario sin arrepentimiento verdadero, si alguien venía solo por curiosidad o por costumbre, si alguien intentaba esconder un pecado o minimizarlo, Padre Pío lo echaba. Sin contemplaciones. "¡Fuera de aquí!" le gritaba, y el penitente salía avergonzado ante la mirada de los cientos de personas que esperaban su turno. Era humillante, sí. Pero Padre Pío no confesaba para ser amable. Confesaba para salvar almas, y un alma que no se arrepiente no puede ser salvada. Él lo sabía y no estaba dispuesto a fingir lo contrario.
@@ -182,7 +180,7 @@ No lo llevó. Las bombas cayeron a pocos metros del convento sin tocarlo. Los ha
 
 Hay una historia de la guerra que merece ser contada, aunque no se puede verificar con certeza. Según varios pilotos aliados — americanos y británicos — cuando volaban sobre San Giovanni Rotondo en misiones de bombardeo, veían en el cielo la figura de un fraile con las manos levantadas, como bloqueándoles el paso. Los aviones no podían acercarse: los instrumentos fallaban, los motores perdían potencia, una fuerza inexplicable los desviaba de su ruta. Cuando la guerra terminó y algunos de esos pilotos visitaron San Giovanni Rotondo por curiosidad, reconocieron a Padre Pío como el fraile que habían visto en el cielo.
 
-¿Fue verdad? Quién sabe. Las historias de guerra se mezclan con la leyenda como el humo con la niebla. Lo que sí es verdad es que San Giovanni Rotondo sobrevivió a la guerra prácticamente intacto, lo cual, dada su posición estratégica en las montañas del Gargano, fue cuando menos notable.
+Las historias de guerra se mezclan con la leyenda, y esta puede ser una de ellas. Lo que sí es verdad es que San Giovanni Rotondo sobrevivió a la guerra prácticamente intacto, lo cual, dada su posición estratégica en las montañas del Gargano, fue cuando menos notable.
 
 Cuando la guerra terminó, Italia estaba destruida. Los pueblos del sur, siempre los más pobres, eran ahora los más pobres entre los pobres. La gente pasaba hambre, los heridos no tenían hospitales, los huérfanos no tenían hogares. Padre Pío miró a su alrededor y decidió que rezar no era suficiente. Había que hacer algo concreto.
 
@@ -210,7 +208,9 @@ Su fama había crecido hasta proporciones que él no habría podido imaginar en 
 
 Los años sesenta trajeron cambios enormes a la Iglesia Católica. El Concilio Vaticano II, convocado por el papa Juan XXIII en 1962, reformó la liturgia, abrió diálogos con otras religiones y modernizó muchas prácticas que llevaban siglos sin cambiar. La misa, que siempre se había celebrado en latín con el sacerdote de espaldas al pueblo, pasó a celebrarse en la lengua de cada país con el sacerdote mirando a los fieles.
 
-Padre Pío recibió estos cambios con obediencia pero con dolor. Él amaba la misa en latín como un músico ama su instrumento. Cada palabra, cada gesto, cada silencio de la antigua liturgia tenía para él un significado profundo que había tardado toda la vida en comprender. Cambiar la misa le parecía como cambiar el lenguaje con el que hablaba con Dios. Pero obedeció, porque eso era lo que hacía siempre: obedecer. Celebró la nueva misa en italiano, aunque a veces se le escapaba el latín por costumbre, y nadie lo corregía porque era Padre Pío y a Padre Pío no se le corregía. Fue la misma obediencia de siempre: la que había mostrado cuando la Iglesia lo castigó injustamente, la mostraba ahora que la Iglesia cambiaba legítimamente. Para Padre Pío no había diferencia. Obedecer no era estar de acuerdo. Era confiar.
+Padre Pío recibió las noticias del Concilio con angustia. Amaba la misa en latín como un músico ama su instrumento. Cada palabra, cada gesto, cada silencio de la antigua liturgia tenía para él un significado que había tardado toda la vida en comprender. Cuando los cambios litúrgicos empezaron a aplicarse en algunas parroquias, Padre Pío escribió personalmente al papa Pablo VI pidiéndole una dispensa para seguir celebrando la misa antigua. El Papa se la concedió. Fue uno de los poquísimos sacerdotes en el mundo que obtuvo ese permiso.
+
+No fue un acto de rebeldía. Fue un acto de honestidad dentro de la obediencia: pidió permiso, lo recibió, y siguió celebrando en latín hasta el último día de su vida. La nueva misa entraría en vigor en abril de 1969, seis meses después de su muerte. Nunca llegó a celebrarla.
 
 En sus últimos años tenía un humor seco y afilado que desconcertaba a quienes esperaban encontrarse con un santo grave y solemne. Cuando un visitante le preguntó cómo podía soportar tanto dolor, Padre Pío le respondió: "¿Y usted cómo soporta tanto aburrimiento?" Cuando un obispo pomposo vino a verlo y le preguntó si realmente podía leer las almas, Padre Pío lo miró fijamente y dijo: "La suya necesita una buena limpieza, excelencia." El obispo se puso colorado y no volvió más. Cuando una mujer le pidió que rezara para que su perro se curara, Padre Pío le dijo: "Señora, si Dios cura a su perro y no a tantos enfermos que sufren, ¿qué clase de Dios sería?" Y luego, bajando la voz, añadió: "Pero rece usted también, que no le va a hacer daño."
 
@@ -228,7 +228,7 @@ La madrugada del veintitrés de septiembre de 1968, a las dos y media de la mañ
 
 Estaba sentado en un sillón de su celda, con el rosario entre los dedos. Sus últimas palabras fueron "Gesù... Maria..." — Jesús, María — las mismas palabras que los católicos rezan al final de cada avemaría. Murió como había vivido: rezando.
 
-Tenía ochenta y un años. Había sido sacerdote durante cincuenta y ocho. Había llevado los estigmas durante exactamente cincuenta años. Había confesado a millones de personas. Había construido un hospital. Había soportado décadas de persecución eclesiástica sin una sola palabra de queja. Había sido golpeado por el demonio, investigado por el Vaticano, adorado por multitudes y calumniado por enemigos, y a través de todo ello había mantenido una sola cosa constante: su fe.
+Tenía ochenta y un años. Había sido sacerdote durante cincuenta y ocho. Había llevado los estigmas durante exactamente cincuenta años. Había confesado a millones de personas, construido un hospital, soportado décadas de persecución eclesiástica sin una sola palabra de queja. Había sido golpeado por el demonio, investigado por el Vaticano, adorado por multitudes y calumniado por enemigos.
 
 Cuando lo prepararon para el funeral, confirmaron lo que los frailes habían notado la noche anterior: los estigmas habían desaparecido por completo. En sus manos, donde durante medio siglo habían estado aquellas llagas terribles, solo quedaba piel lisa, nueva, perfecta. Como si las heridas, habiendo cumplido su propósito, se hubieran ido con él.
 
@@ -240,15 +240,13 @@ En la Iglesia Católica, declarar santo a alguien es un proceso largo y meticulo
 
 Para Padre Pío fue relativamente rápido.
 
-En 1982, el obispo de Manfredonia abrió formalmente la causa de canonización. En 1990, el papa Juan Pablo II lo declaró "Siervo de Dios", el primer paso del proceso. En 1997 lo declaró "Venerable". En 1999 lo declaró "Beato", después de aprobar un milagro atribuido a su intercesión: la curación inexplicable de una mujer llamada Consiglia De Martino, que padecía una enfermedad que la estaba matando y que se curó de la noche a la mañana después de que su familia rezara a Padre Pío.
+En 1983, el arzobispo de Manfredonia abrió formalmente la causa de canonización. En 1990, el papa Juan Pablo II lo declaró "Siervo de Dios", el primer paso del proceso. En 1997 lo declaró "Venerable". En 1999 lo declaró "Beato", después de aprobar un milagro atribuido a su intercesión: la curación inexplicable de una mujer llamada Consiglia De Martino, que padecía una enfermedad que la estaba matando y que se curó de la noche a la mañana después de que su familia rezara a Padre Pío.
 
 Y el dieciséis de junio de 2002, ante una multitud de trescientas mil personas reunidas en la Plaza de San Pedro del Vaticano, el papa Juan Pablo II pronunció las palabras solemnes:
 
 "Declaramos y definimos como Santo al Beato Pío de Pietrelcina."
 
-El niño que hablaba con los ángeles en un pueblo polvoriento del sur de Italia, el fraile enfermo que tosía sangre en celdas heladas, el sacerdote de las manos heridas que confesaba dieciséis horas al día, el prisionero obediente que aceptó el castigo de su propia Iglesia sin abrir la boca, el viejo de humor afilado que construyó un hospital con donaciones y fe, era ahora, oficialmente, San Pío de Pietrelcina.
-
-Pero eso, en realidad, ya lo sabía todo el mundo.
+El niño que hablaba con los ángeles en un pueblo polvoriento del sur de Italia, el fraile enfermo que tosía sangre en celdas heladas, el sacerdote de las manos heridas que confesaba dieciséis horas al día, el prisionero obediente que aceptó el castigo de su propia Iglesia sin abrir la boca, el viejo de humor afilado que construyó un hospital con las manos que le sangraban, era ahora, oficialmente, San Pío de Pietrelcina.
 
 ---
 
@@ -260,9 +258,11 @@ El cuerpo de Padre Pío fue exhumado en 2008 y colocado en una urna de cristal e
 
 La Casa Sollievo della Sofferenza sigue funcionando. El confesionario donde Padre Pío pasó miles de horas sigue en su lugar, como una reliquia. Los guantes manchados de sangre están en un museo del convento. Las cartas que escribió — cientos de ellas — han sido publicadas y traducidas a decenas de idiomas.
 
-Reza. Sufre. Obedece. Ama. Eso hizo Padre Pío cada día de su vida, desde los cinco años hasta los ochenta y uno. Cuando le dijeron que estaba loco, rezó. Cuando le dijeron que era un farsante, sufrió. Cuando le prohibieron hacer lo que más amaba, obedeció. Cuando vio a su alrededor un mundo roto, lo amó lo suficiente como para construir un hospital con las manos que le sangraban.
+Reza. Sufre. Obedece. Ama.
 
-La santidad no es para los que no tienen dudas. Es para los que dudan y rezan igual.
+Eso hizo Padre Pío. No porque fuera fácil ni porque nunca dudara — ya sabemos que dudaba, que le temblaban las manos y que una noche en la capilla vacía estuvo a punto de mandar todo al diablo. Lo hizo porque cada mañana, cuando el dolor de las llagas lo despertaba antes de que sonara la campana, elegía levantarse y bajar a la iglesia a celebrar misa. Y al día siguiente volvía a elegir. Y al siguiente.
+
+En algún lugar del convento de San Giovanni Rotondo, fray Raffaele sigue trayendo la sopa.
 
 ---
 
