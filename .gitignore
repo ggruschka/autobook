@@ -5,6 +5,9 @@ book.pdf
 CLAUDE.md
 AGENTS.md
 
+# Ephemeral grader output (overwritten each iteration)
+graders/output/
+
 # OS junk
 .DS_Store
 Thumbs.db

@@ -39,7 +39,7 @@ To set up a new experiment, work with the user to:
 4. **Set up constraints**: Copy `constraints.template.md` to `constraints.md` and fill it in with the interview answers. Anything NOT specified is up to your creative interpretation. Show the final file to the user for confirmation.
 5. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
 6. **Initialize results.tsv**: Create `results.tsv` with just the header row.
-7. **Establish baseline**: Run the full grading process on your first draft. This is your baseline score.
+7. **Establish baseline**: Run the full grading process on your first draft. Save grader outputs to `graders/output/`. Append the baseline row to `results.tsv` with status `improvement`. This is your baseline score.
 8. **Confirm and go**: Show the user the baseline scores and confirm the loop should begin.
 
 Once you get confirmation, kick off the content loop.
@@ -106,7 +106,7 @@ If the regression streak reaches 3, enter single-grader mode:
 3. Make targeted edits addressing only that grader's feedback.
 4. Commit and push.
 5. Run only that single grader (not all graders). Save its output to `graders/output/{name}.md`.
-6. If that grader's score reaches the current best composite score → exit single-grader mode, reset regression streak to 0, return to the full loop (run all graders next iteration).
+6. If that grader's score reaches or exceeds the current best composite score → exit single-grader mode, reset regression streak to 0, return to the full loop (run all graders next iteration).
 7. If not → repeat from step 2 with the updated feedback.
 
 ## Output Format
