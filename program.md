@@ -1,6 +1,6 @@
 # autobook
 
-Autonomous book writing experiment. An LLM agent writes and iteratively refines a book, graded each iteration by specialized subagents. The loop keeps improvements and discards regressions, advancing the branch like a hill-climbing optimizer over prose.
+Autonomous book writing experiment. An LLM agent writes and iteratively refines a book, graded each iteration by specialized subagents. The loop always builds forward, focusing each iteration on the weakest graders.
 
 ## Setup
 
@@ -74,25 +74,40 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 3. Composite score = arithmetic mean of all scores, rounded to 2 decimal places.
 4. This composite score is what you track and optimize.
 
+### Saving Grader Feedback
+
+After each grading round, save each grader's full output (SCORE, DEDUCTIONS, FEEDBACK) to `graders/output/{name}.md`. These files are overwritten each iteration — only the latest feedback is kept. In step 1 of the loop, read these files to plan the next revision.
+
 ## The Content Loop
 
 The loop runs on a dedicated branch (e.g. `book/king-leonidas`).
 
 LOOP FOREVER:
 
-1. **Review feedback**: Read all grader feedback from the previous iteration. Identify the weakest areas.
+1. **Review feedback**: Read the grader output files in `graders/output/`. Focus on graders whose score regressed or stayed flat compared to their previous best.
 2. **Plan the revision**: Decide what to change. Focus on the lowest-scoring graders first — bringing a 5.0 to 7.0 matters more than pushing an 8.5 to 9.0. Write a brief revision plan (just for yourself, not a file).
 3. **Edit `book.md`**: Apply targeted revisions. Maintain coherence — a change in chapter 3 might require adjustments in chapters 5 and 8.
 4. **git commit and push**: Commit `book.md` (not `results.tsv`). Push to the remote after every commit.
-5. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish.
+5. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish. Save each grader's full output (SCORE, DEDUCTIONS, FEEDBACK) to `graders/output/{name}.md`, overwriting the previous iteration's file.
 6. **Score**: Compute the composite score.
 7. **Record**: Append the results to `results.tsv`.
-8. **Track discard streak**: If the previous iteration was a discard, increment the discard streak counter. If it was a keep, reset to 0.
-9. **Decide**:
-    - If the composite score **improved** (higher than previous best) → keep the commit. This is now the new best. Reset discard streak to 0.
-    - If the composite score is **equal or worse** → `git reset --hard` back to the previous best commit. Then `git push --force` to sync the remote. Increment discard streak.
-10. **Print the summary** (see Output Format below).
-11. **Go to step 1**.
+8. **Decide**:
+    - If the composite score **improved** (higher than previous best) → this is now the new best. Status: `improvement`. Reset regression streak to 0.
+    - If the composite score is **equal or worse** → status: `regression`. Increment regression streak. Do NOT reset or revert — keep the commit and address the regressions in the next iteration.
+9. **Print the summary** (see Output Format below).
+10. **Go to step 1**.
+
+### Single-Grader Mode
+
+If the regression streak reaches 3, enter single-grader mode:
+
+1. Pick the lowest-scoring grader.
+2. Read only that grader's `graders/output/{name}.md` feedback file.
+3. Make targeted edits addressing only that grader's feedback.
+4. Commit and push.
+5. Run only that single grader (not all graders).
+6. If that grader's score reaches the current best composite score → exit single-grader mode, reset regression streak to 0, return to the full loop (run all graders next iteration).
+7. If not → repeat from step 2 with the updated feedback.
 
 ## Output Format
 
@@ -109,8 +124,8 @@ characters:       7.0  (deductions: 3.0 across 4 issues)
 audience:         7.0  (deductions: 3.0 across 7 issues)
 values:           7.2  (deductions: 2.8 across 4 issues)
 authenticity:     7.5  (deductions: 2.5 across 9 issues)
-status:           keep
-discard_streak:   0
+status:           improvement
+regression_streak: 0
 bottleneck:       characters (7.0)
 stagnant:         (none)
 description:      reworked chapter 3 opening; tightened dialogue throughout
@@ -131,15 +146,15 @@ Log each iteration to `results.tsv` (tab-separated, NOT comma-separated):
 Header and columns:
 
 ```
-commit	score	status	prose	craft	structure	characters	audience	values	authenticity	discard_streak	description
+commit	score	status	prose	craft	structure	characters	audience	values	authenticity	regression_streak	description
 ```
 
 - `commit`: git commit hash (short, 7 chars)
 - `score`: composite score (e.g. 7.45)
-- `status`: `keep` or `discard`
+- `status`: `improvement` or `regression`
 - `prose`, `craft`, `structure`, `characters`, `audience`, `values`, `authenticity`: individual grader scores
 - Additional grader columns if conditional graders are active (e.g. `historian`)
-- `discard_streak`: number of consecutive discards (0 after a keep)
+- `regression_streak`: number of consecutive regressions (0 after an improvement)
 - `description`: short text describing what this iteration changed
 
 ## Rules
