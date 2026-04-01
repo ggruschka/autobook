@@ -2,7 +2,7 @@
 
 Hubo una vez, en un tiempo que ya nadie recuerda pero que todos conocen, un niño llamado Guille que vivía al borde de un bosque muy antiguo. El pueblo era pequeño: casas de piedra gris con tejados de paja oscura, y en las noches de invierno el viento bajaba de las montañas y hacía temblar las velas en las ventanas. En la iglesia del pueblo, una campana vieja llamaba a misa cada mañana, y los aldeanos decían que mientras esa campana sonara, el bosque no se atrevería a tragarse el pueblo.
 
-En una de aquellas casas vivían dos hermanos. El mayor se llamaba Guille. Era un niño flaco, de pelo castaño rizado y corto, con ojos marrones que siempre parecían estar pensando en algo. La menor era Isa, su hermana, que tenía el cabello rubio como el oro hilado, los ojos verdes como las hojas de mayo y la piel blanca como la cera de las velas que su madre encendía ante la imagen de la Virgen. Isa era terca. Si decidía algo, no había fuerza en el mundo que la hiciera cambiar de opinión, y su madre decía que había nacido con la mandíbula apretada.
+En una de aquellas casas vivían dos hermanos. El mayor se llamaba Guille. Era un niño flaco, de pelo castaño rizado y corto, con ojos marrones que siempre parecían estar pensando en algo. La menor era Isa, su hermana, que tenía el cabello rubio como el oro hilado, los ojos verdes como las hojas de mayo y la piel pálida, tan blanca que su madre decía que parecía hecha de la misma cera de las velas que encendía ante la imagen de la Virgen. Isa era terca. Si decidía algo, no había fuerza en el mundo que la hiciera cambiar de opinión, y su madre decía que había nacido con la mandíbula apretada.
 
 Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz se hacía más débil, como el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando como un reloj de arena.
 
@@ -140,7 +140,7 @@ Del otro lado no había un salón ni una forja. Había un camino de tierra entre
 
 Cuando llegó al final, encontró una capilla pequeña, de piedra vieja, con una ventana redonda por la que salía la luz de una vela. La puerta estaba abierta.
 
-Dentro, la capilla era simple: un suelo de losas gastadas que olía a piedra húmeda, un altar de madera con un mantel blanco, y sobre el altar una vela gruesa que ardía con una llama quieta y dorada. En algún lugar goteaba agua, despacio, como un reloj que contara un tiempo distinto.
+Dentro, la capilla era simple: un suelo de losas gastadas que olía a piedra húmeda, un altar de madera con un mantel blanco, y sobre el altar una vela gruesa que ardía con una llama quieta y dorada. En algún lugar goteaba agua, despacio, gota a gota.
 
 Junto al altar, arrodillado, había un hombre viejo. Tenía el pelo blanco y una barba larga, y vestía un hábito marrón de tela basta, atado con una cuerda. Sobre el hombro llevaba una estola gastada. Estaba remendando el mantel del altar con una aguja y un hilo grueso, y cuando Guille entró dejó la aguja a un lado con cuidado, como si también el mantel fuera algo sagrado.
 
@@ -158,7 +158,7 @@ El viejo se levantó despacio. Sus ojos eran claros, del color del agua en invie
 
 El viejo se acercó al altar, tomó la vela y la bendijo en silencio, haciendo la señal de la cruz sobre la llama. Después la puso en las manos de Guille.
 
-—La vela no tiene poder en sí misma —dijo—. Es la oración la que la enciende, y la fe la que la mantiene. Llévala a tu casa. Ponla junto a la cama de tu madre. Y reza. Rezar es hablar con Dios, que siempre escucha, aunque todo diga lo contrario.
+—La vela no tiene poder en sí misma —dijo—. Es la bendición de la Iglesia y la oración de quien la lleva lo que la enciende. Llévala a tu casa. Ponla junto a la cama de tu madre. Y reza. Rezar es hablar con Dios, que siempre escucha, aunque todo diga lo contrario.
 
 Guille sostuvo la vela. Pesaba menos que una pluma, pero la sentía firme y cálida en las manos.
 
@@ -170,7 +170,7 @@ Guille sostuvo la vela. Pesaba menos que una pluma, pero la sentía firme y cál
 
 Guille volvió por el camino de tierra, cruzó la puerta pequeña, y cuando salió al claro, el tilo seguía ahí, pero las tres puertas habían desaparecido. El tronco era solo un tronco, inmenso y rugoso y viejo. El bosque estaba en silencio.
 
-Caminó de vuelta a casa. La vela ardía sin consumirse, y su luz proyectaba sombras largas entre los árboles. Un calor suave le subía por las manos, por los brazos, hasta el pecho. Mientras caminaba, pensó en la mentira que le había dicho a la mujer de la mesa —«no tengo hambre»— y todavía le ardían las mejillas. La próxima vez diría la verdad, pasara lo que pasara. Los mismos ruidos de antes —las ramas, los aleteos, las respiraciones— seguían ahí, pero ahora parecían más lejanos, y el bosque le dejaba paso. Los árboles que al ir le habían parecido brazos retorcidos, al volver parecían solo árboles. Y cuando salió del bosque y vio las primeras casas del pueblo, oyó la campana de la iglesia que daba la primera hora del alba, y le pareció que le daba la bienvenida.
+Caminó de vuelta a casa. La vela ardía sin consumirse, y su luz proyectaba sombras largas entre los árboles. Un calor suave le subía por las manos, por los brazos, hasta el pecho. Mientras caminaba, pensó en la mentira que le había dicho a la mujer de la mesa —«no tengo hambre»— y todavía le ardían las mejillas. «Perdóname, Señor», susurró, y siguió caminando. Los mismos ruidos de antes —las ramas, los aleteos, las respiraciones— seguían ahí, pero ahora parecían más lejanos, y el bosque le dejaba paso. Los árboles que al ir le habían parecido brazos retorcidos, al volver parecían solo árboles. Y cuando salió del bosque y vio las primeras casas del pueblo, oyó la campana de la iglesia que daba la primera hora del alba, y le pareció que le daba la bienvenida.
 
 ---
 
@@ -276,7 +276,7 @@ La mujer del herrero, que oyó la historia del panadero, mandó a su hijo mayor 
 
 Cada uno dio lo que tenía y lo que le costó. Y así, uno tras otro, los vecinos del pueblo fueron ayudando a los dos hermanos y a su madre enferma.
 
-La madre mejoró. Despacio, como mejoran las cosas de verdad: un día comió un poco de sopa, otro día se sentó en la cama. Pero un jueves la fiebre volvió y Guille se pasó toda la noche sentado junto a ella, enfadado, pensando que nada servía para nada y que la vela era solo una vela y que el viejo de la capilla le había mentido. Estuvo a punto de no rezar. Pero al final rezó, porque rezar cuando no quieres rezar es más difícil y vale más que rezar cuando te apetece. Al amanecer la fiebre bajó. Otro día la madre pidió que le abrieran la ventana para que entrara el sol.
+La madre mejoró. Despacio, como mejoran las cosas de verdad: un día comió un poco de sopa, otro día se sentó en la cama. Pero un jueves la fiebre volvió y Guille se pasó toda la noche sentado junto a ella, enfadado, pensando que nada servía para nada y que la vela era solo una vela y que el viejo de la capilla le había mentido. Estuvo a punto de no rezar. Pero al final se arrodilló junto a la vela y rezó, aunque las palabras le sabían a ceniza en la boca. Al amanecer la fiebre bajó. Otro día la madre pidió que le abrieran la ventana para que entrara el sol.
 
 Y la vela siguió ardiendo en la mesa de noche, junto a la imagen de la Virgen. No se consumía. Guille no entendía cómo, pero tampoco se preocupaba por entenderlo.
 
@@ -325,8 +325,6 @@ Isa asintió despacio.
 —Hiciste bien —dijo Guille.
 
 —Sí —dijo Isa—. Pero a veces todavía me cuesta.
-
-Y así es siempre con lo que vale de verdad: nunca deja de costar.
 
 Los dos hermanos se quedaron mirando la vela, como habían hecho de niños, rezando mientras la noche se convertía en mañana.
 
