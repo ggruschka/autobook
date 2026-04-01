@@ -36,7 +36,7 @@ Con el dinero que su padre enviaba desde América, Francesco empezó a recibir c
 
 El seis de enero de 1903, a los quince años, Francesco Forgione entró como novicio en el convento de los frailes capuchinos de Morcone. Su madre lo acompañó hasta la puerta y empezó a llorar antes de llegar, delante de los otros novicios, delante del padre guardián, delante de todo el mundo, porque María Giuseppa era muchas cosas pero no era una mujer que supiera esconder lo que sentía. Le dijo entre hipos: "Reza por tu padre, que está solo." Francesco asintió. Su padre, todavía en América, recibió la noticia por carta semanas después. Dicen que Grazio leyó la carta tres veces, se la guardó en el bolsillo del pecho y volvió al trabajo sin decir nada a nadie.
 
-El veintidós de enero recibió el hábito marrón de los capuchinos y un nuevo nombre: Fray Pío. El hábito le quedaba grande. Le arrastraba por el suelo cuando caminaba por los pasillos del convento, y los otros novicios se reían, pero a él no le importaba. Olía a lana vieja y a incienso. Por las noches, en la celda que le habían asignado, el frío se metía por las rendijas de la ventana y las sombras volvían.
+El veintidós de enero recibió el hábito marrón de los capuchinos y un nuevo nombre: Fray Pío. El hábito le quedaba grande. Le arrastraba por el suelo cuando caminaba por los pasillos del convento, y los otros novicios se reían.
 
 ---
 
@@ -126,7 +126,11 @@ En 1923, el Santo Oficio — el tribunal del Vaticano encargado de investigar as
 
 Y luego vinieron las restricciones.
 
-En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, un prisionero que no había cometido ningún delito. Hay que decirlo con todas las letras: hombres que no lo habían visto nunca, que no habían olido la sangre de sus manos ni habían escuchado a los penitentes llorar en su confesionario, decidieron destruirle la vida basándose en las cartas de un obispo mentiroso. Perdón. Perdón por el tono. Pero es que esto — un hombre que sangraba por las manos mientras rezaba, encerrado en una celda durante dos años porque un obispo tenía celos — esto no se puede contar con calma.
+En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, un prisionero que no había cometido ningún delito. Hay que decirlo con todas las letras: hombres que no lo habían visto nunca, que no habían olido la sangre de sus manos ni habían escuchado a los penitentes llorar en su confesionario, decidieron destruirle la vida basándose en las cartas de un obispo mentiroso.
+
+Aquí hay que parar un momento.
+
+Porque lo que acabo de escribir suena a resumen. Suena a algo que pasó hace mucho tiempo y que ya no importa. Pero imagínate que eres tú. Que llevas años sangrando por las manos. Que la gente viene de toda Italia a pedirte ayuda. Que no has hecho nada malo. Y que un día llega una carta de Roma que dice que ya no puedes hablar con nadie, que ya no puedes confesar, que ya no puedes escribir. Que tienes que quedarte solo en tu celda hasta que ellos decidan qué hacer contigo. ¿Qué harías tú?
 
 Fue la prueba más dura de su vida. Más dura que los estigmas y los ataques del demonio, más dura que todas las enfermedades juntas, porque esta vez el sufrimiento venía de la Iglesia a la que había jurado obedecer. La Iglesia que era su madre, su hogar, la razón de su existencia. Y esa madre lo estaba castigando sin explicarle por qué.
 
