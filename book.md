@@ -98,33 +98,35 @@ Guille miró la primera puerta, la de hierro negro con olor a metal y humo. Le d
 
 Abrió la primera puerta.
 
-Del otro lado había una forja. El calor golpeó a Guille como una mano abierta. Las paredes brillaban rojas y del techo colgaban jaulas de hierro con pájaros dentro, cuyos cantos sonaban rotos, como oraciones dichas a medias.
+Del otro lado había una forja. El calor golpeó a Guille como una mano abierta. Las paredes brillaban rojas y del techo colgaban jaulas de hierro con pájaros dentro, cuyos cantos sonaban rotos, como si hubieran olvidado la canción entera.
 
-Junto al yunque trabajaba un hombre enorme, sin camisa, con la piel del color del hollín y los ojos amarillos como los de un lobo. Golpeaba el hierro sin mirar a Guille.
+Junto al yunque trabajaba un hombre enorme, sin camisa, con la piel del color del hollín y los ojos amarillos como los de un lobo. No dijo nada cuando vio a Guille. Solo le señaló un martillo pequeño que estaba apoyado contra la pared, y después señaló el yunque.
 
-—¿Qué quieres? —dijo sin mirarlo.
+Guille no entendió.
 
-—Mi madre está enferma —dijo Guille, y esta vez su voz sonó más firme—. ¿Qué quiere a cambio de curarla?
+—Trabaja —dijo el herrero—. Golpea el hierro. Cada golpe que des forja un poco de la moneda que curará a tu madre.
 
-El herrero dejó de golpear. Se volvió y miró a Guille de arriba abajo, despacio, como un carnicero que pesa la carne con los ojos.
+No hubo oferta. No hubo negociación. Solo el martillo, el yunque y el calor. Guille cogió el martillo. Pesaba más de lo que esperaba. Golpeó el hierro y le dolieron los brazos hasta los hombros, y del golpe saltaron chispas que le quemaron la muñeca. Pero siguió. Golpeó otra vez, y otra, y otra. El sudor le corría por la frente y el calor le secaba los labios y le escocían las manos, pero no paró, porque cada golpe era un golpe por su madre.
 
-—Vaya —dijo—. Uno que viene derecho al grano. Raro.
+No supo cuánto tiempo estuvo golpeando. Pudieron ser minutos o pudieron ser horas. Pero en algún momento miró hacia abajo y vio que sus manos habían cambiado. Los nudillos estaban lisos. Las líneas de las palmas se habían borrado. Las manos ya no le dolían, pero tampoco sentían nada: ni el calor del martillo, ni la vibración del hierro, ni el aire. Eran sus manos, pero ya no eran suyas.
 
-—Tus manos. Si me las das, te forjo una moneda de oro rojo que cura cualquier enfermedad. Pero nunca más podrás abrazar a tu hermana, ni encender un fuego, ni partir el pan. Tus dedos tocarán las cosas, pero será como tocar el agua: sin dejar marca.
+Guille soltó el martillo. Retrocedió un paso.
 
-Sacó del fuego una tenaza con la moneda al rojo vivo. Brillaba tanto que Guille tuvo que entrecerrar los ojos. El sudor le corría por la frente y el calor le secaba los labios.
+—¿Qué me has hecho? —preguntó.
 
-Y por un instante, en el brillo de la moneda, le pareció ver la cara de su madre. Sus ojos cerrados, su pelo en la almohada, su respiración cada vez más débil. La moneda podía curarla. Esta noche. Antes del amanecer.
+El herrero seguía golpeando, como si Guille no estuviera.
 
-Guille cerró los ojos. Apretó los puños dentro de los bolsillos.
+—Cada golpe te cuesta un poco —dijo, sin mirarlo—. Unos cuantos más y la moneda estará lista. Pero tus manos ya no volverán. No podrás abrazar a tu hermana. No podrás partir el pan. No podrás hacer la señal de la cruz.
 
-—No —dijo, más bajo que la otra vez, pero más firme—. No acepto.
+Guille se miró las manos. Lisas, extrañas, insensibles. Pensó en Isa. Pensó en cómo cada noche, antes de dormir, le cogía la mano y no la soltaba hasta que se quedaba dormida. Si seguía golpeando, Isa le cogería la mano y no sentiría nada.
 
-El herrero soltó una risa seca, corta, sin humor.
+—No —dijo. Le salió ronco, como si le costara hablar—. Devuélvemelas.
 
-—Valiente o tonto —dijo—. Da igual. Vete.
+El herrero se rio. Una risa seca, sin humor.
 
-Y volvió a golpear el yunque como si Guille ya no existiera.
+—No puedo devolverte lo que tú mismo has entregado. Pero como no has terminado la moneda, te devuelvo lo que queda.
+
+Guille sintió un hormigueo en los dedos, como cuando se despierta un pie dormido. Las líneas de las palmas volvieron, despacio. Los nudillos raspados reaparecieron. El dolor volvió también. Y Guille nunca se había alegrado tanto de sentir dolor.
 
 La puerta de hierro se cerró. Detrás de ella, el golpeteo del martillo se fue haciendo más débil, más lento, hasta que enmudeció. Y Guille estaba otra vez en el claro. La primera puerta había desaparecido, como la segunda. Solo quedaba la tercera: la puerta pequeña, gris, sin adornos, que no olía a nada.
 
@@ -270,11 +272,7 @@ Volvió con un puchero de sopa caliente y medio pan. Lo puso en las manos de Gui
 
 —Come —dijo—. Y dale a tu madre. Volveré esta tarde.
 
-El panadero pasó esa mañana camino de su horno y vio a la vieja Ana salir de la casa. Dudó, porque tenía prisa y el pan no se hace solo. Pero dejó en la puerta tres hogazas y un trozo de queso, y se fue sin decir nada.
-
-La mujer del herrero, que oyó la historia del panadero, mandó a su hijo mayor con leña para la chimenea y un tarro de miel. Y el molinero, que al principio pensó en sus propios hijos y en lo que le costaría dar algo, al final resopló, cortó medio saco de harina, y lo dejó en la puerta sin llamar.
-
-Cada uno dio lo que tenía y lo que le costó. Y así, uno tras otro, los vecinos del pueblo fueron ayudando a los dos hermanos y a su madre enferma.
+Y después pasó lo que siempre pasa cuando alguien da el primer paso: otros le siguieron. El panadero dejó pan en la puerta. La mujer del herrero mandó leña y miel. El molinero, que al principio pensó en sus propios hijos, al final cortó medio saco de harina y lo dejó sin llamar. Cada uno dio lo que tenía y lo que le costó.
 
 La madre mejoró. Despacio, como mejoran las cosas de verdad: un día comió un poco de sopa, otro día se sentó en la cama. Pero un jueves la fiebre volvió y Guille se pasó toda la noche sentado junto a ella, enfadado, pensando que nada servía para nada y que la vela era solo una vela y que el viejo de la capilla le había mentido. Estuvo a punto de no rezar. Pero al final se arrodilló junto a la vela y rezó, aunque las palabras le sabían a ceniza en la boca. Al amanecer la fiebre bajó. Otro día la madre pidió que le abrieran la ventana para que entrara el sol.
 
