@@ -8,7 +8,7 @@
 
 En el sur de Italia, donde las colinas — espaldas secas de viejos labradores — se levantan pedregosas, existe un pueblo llamado Pietrelcina. En el año 1887 no era más que un puñado de casas de piedra amontonadas alrededor de una iglesia, con sus calles de tierra, sus burros flacos y sus huertos raquíticos que daban higos y aceitunas a fuerza de pura terquedad del suelo. Los inviernos eran duros y los veranos más duros todavía, y la gente que vivía allí tenía la piel curtida por el sol y las manos agrietadas de tanto trabajar una tierra que no quería dar nada.
 
-En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a su cuarto hijo. Era un niño pequeño, moreno, con unos ojos oscuros que no se cerraban ni para dormir. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la iglesia de Santa Ana. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
+En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a su cuarto hijo. Era un niño pequeño, moreno, con unos ojos oscuros que no se cerraban ni para dormir. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la capilla de Santa Anna. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
 
 Desde muy pequeño, Francesco hablaba con alguien que nadie más podía ver. Su madre lo encontraba a veces en su cuarto, de rodillas, con los ojos cerrados y los labios moviéndose sin sonido, y cuando le preguntaba qué hacía, el niño decía: "Rezo". Lo decía con tanta naturalidad como otro niño habría dicho "juego" o "como". María Giuseppa se quedaba en la puerta mirándolo y no sabía qué pensar. Una parte de ella se alegraba, porque ¿qué madre católica no quiere un hijo devoto? Pero otra parte — la parte práctica, la que contaba las monedas y remendaba las camisas — se preguntaba qué iba a ser de un niño así en un mundo que no tenía paciencia para los que hablaban con Dios en vez de arar la tierra.
 
@@ -86,7 +86,7 @@ La catedral olía a cera vieja y a incienso. El obispo le ungió las manos con e
 
 Su madre estaba en el primer banco, con su vestido negro de los domingos, las manos apretadas en el regazo, sin quitarle los ojos de encima.
 
-Su padre no estaba. Grazio había cruzado el océano por segunda vez — ahora a Argentina — porque el dinero de la primera emigración se había acabado y las deudas de los estudios de Francesco seguían sin pagarse. El día más importante de la vida de su hijo, Grazio estaba al otro lado del mundo cavando zanjas.
+Su padre no estaba. Grazio había cruzado el océano por segunda vez — de nuevo a los Estados Unidos — porque el dinero de la primera emigración se había acabado y las deudas de los estudios de Francesco seguían sin pagarse. El día más importante de la vida de su hijo, Grazio estaba al otro lado del mundo cavando zanjas.
 
 Cuando le llegó la noticia por carta, semanas después, se sentó en el borde de su catre en el barracón y se puso a llorar de esa manera fea en que lloran los hombres que no saben llorar, con la cara arrugada y la boca abierta y un ruido que daba vergüenza. Nadie en el barracón le preguntó por qué. No volvería a Italia hasta 1912.
 
@@ -96,7 +96,7 @@ Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebr
 
 No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
 
-Pero ningún sacerdote había llevado los estigmas de forma visible. Padre Pío no quería ser el primero. No quería ser nada.
+Pero en la historia reciente de la Iglesia, ningún sacerdote había llevado los estigmas de forma tan visible y duradera. Padre Pío no quería ser el primero. No quería ser nada.
 
 ---
 
@@ -172,7 +172,7 @@ Una vez, durante aquellos años de encierro, una mujer consiguió colar un mensa
 
 En 1929, antes de que llegara el decreto más duro de 1931, le llegó la noticia de que su madre había muerto. María Giuseppa se había mudado cerca de San Giovanni Rotondo para poder asistir cada día a la misa de su hijo, y allí había vivido sus últimos años, con el rosario gastado entre los dedos y las manos todavía agrietadas de los campos de Pietrelcina. Murió como había vivido: sin esconder lo que sentía, apretando la mano de una vecina que le rezaba el rosario al oído. Padre Pío no pudo ir al entierro. Celebró la misa por ella solo, en la capilla vacía, y cuando levantó la hostia, las manos le sangraron más de lo habitual. Después volcó el plato de sopa de Raffaele contra la pared y se quedó mirando la mancha que chorreaba por las piedras. Raffaele limpió la pared sin decir nada y volvió con otro plato.
 
-Gagliardi, mientras tanto, había sido removido discretamente de su diócesis por Roma. Los motivos oficiales no mencionaban a Padre Pío. No mencionaban nada. Nadie sabe si Gagliardi se fue convencido de que había tenido razón o si algo le carcomía por dentro en los años que le quedaban.
+Gagliardi, mientras tanto, había sido removido discretamente de su diócesis por Roma. Los motivos oficiales no mencionaban a Padre Pío. No mencionaban nada. Padre Pío nunca habló mal de él. Rezaba por él, como rezaba por todos los que le habían hecho daño.
 
 En 1933, el papa Pío XI empezó a levantar las restricciones. Primero permitió que Padre Pío celebrara misa en público. Luego, poco a poco, entre 1933 y 1934, fue restaurando las demás facultades: las confesiones de hombres primero, las de mujeres después. No dio explicaciones, del mismo modo que no las habían dado al imponerlas. A Padre Pío no le importó el porqué. Le importó el hecho: podía volver a confesar.
 
@@ -188,7 +188,7 @@ Padre Pío sabía tus pecados antes de que se los dijeras. Un hombre entró una 
 
 Padre Pío no aceptaba confesiones falsas. Si alguien entraba en el confesionario sin arrepentimiento verdadero, si alguien venía solo por curiosidad o por costumbre, Padre Pío lo echaba. "¡Fuera de aquí!" le gritaba. Un hombre, un comerciante de Foggia que había esperado tres días en la cola, salió del confesionario rojo de furia, dio un portazo y gritó delante de toda la iglesia: "¡Este fraile está loco! ¡Es un salvaje!" Los fieles lo miraron horrorizados. El comerciante se fue dando zancadas, insultando a los santos del camino. Volvió dos meses después y esperó otros tres días. Pero lo que la gente no veía era lo que pasaba después: Padre Pío mandaba a uno de los frailes a buscar al rechazado, lo hacía volver a la iglesia, y lo confesaba cuando estaba realmente dispuesto a arrepentirse. A veces tardaba un día. A veces una semana. Pero Padre Pío no olvidaba ningún alma que hubiera pasado por su confesionario, ni siquiera las que había echado a gritos.
 
-Entre las miles de personas que se confesaron con Padre Pío, algunas volvieron una y otra vez, año tras año, convirtiéndose en lo que él llamaba sus "hijos espirituales". Una de ellas fue Cleonice Morcaldi, una mujer pequeña y nerviosa de San Giovanni Rotondo que escribía todo lo que Padre Pío le decía en un cuaderno de tapas azules que todavía existe. Lo visitó por primera vez en 1920. Escribió después que la primera vez que entró en el confesionario, Padre Pío le dijo sus pecados antes de que ella abriera la boca, y que salió llorando no de vergüenza sino de alivio, porque por primera vez en su vida alguien la había visto de verdad. Volvió cada semana durante más de treinta años. Padre Pío la regañaba, la hacía llorar, la hacía reír. Una vez le dijo: "Cleonice, tú eres más terca que yo, y eso ya es decir mucho." La última vez que lo vio, en 1968, Padre Pío le dijo al despedirse: "Nos veremos pronto, pero no aquí." Cleonice no entendió lo que quería decir hasta unas semanas después.
+Entre las miles de personas que se confesaron con Padre Pío, algunas volvieron una y otra vez, año tras año, convirtiéndose en lo que él llamaba sus "hijos espirituales". Una de ellas fue Cleonice Morcaldi, una mujer pequeña y nerviosa de San Giovanni Rotondo que escribía todo lo que Padre Pío le decía en un cuaderno de tapas azules que todavía existe. Lo visitó por primera vez en 1920. Escribió después que la primera vez que entró en el confesionario, Padre Pío le dijo sus pecados antes de que ella abriera la boca, y que salió llorando no de vergüenza sino de alivio, porque por primera vez en su vida alguien la había visto de verdad. Volvió cada semana durante más de treinta años. Era posesiva con él: se enfadaba cuando otros hijos espirituales recibían más tiempo, y una vez armó un escándalo en el locutorio porque la habían hecho esperar. Padre Pío la regañaba, la hacía llorar, la hacía reír. Una vez le dijo: "Cleonice, tú eres más terca que yo, y eso ya es decir mucho." La última vez que lo vio, en 1968, Padre Pío le dijo al despedirse: "Nos veremos pronto, pero no aquí." Cleonice no entendió lo que quería decir hasta unas semanas después.
 
 La gente que visitaba a Padre Pío empezó a reportar cosas que no debían ser posibles. Un hombre llamado Giovanni Savino, al que los médicos habían dado tres meses de vida por un cáncer terminal, viajó a San Giovanni Rotondo en un tren nocturno con su mujer, que no paraba de llorar. Esperó en la cola tres días. Cuando por fin entró en el confesionario, Padre Pío le puso la mano en la cabeza y le dijo: "Vete en paz, estás curado." Savino volvió a casa, fue al hospital, le hicieron las pruebas. El tumor había desaparecido. Vivió treinta años más y cada año volvía a San Giovanni Rotondo con una caja de naranjas de su huerto que dejaba en la puerta del convento. Historias así llegaban de todas partes.
 
@@ -206,7 +206,7 @@ En 1939, la cola de penitentes que esperaban para confesarse con Padre Pío empe
 
 Una mañana de 1942, una mujer llamada Filomena subió al convento con la carta del Ministerio en la mano. Tenía el pelo suelto, lo cual en aquella época significaba que algo terrible había pasado, porque las mujeres del sur de Italia no salían de casa sin recogerse el pelo. Se sentó en un banco de la iglesia y se quedó allí dos horas sin moverse. Cuando Padre Pío salió de la sacristía y la vio, fue hasta ella y le puso la mano en la cabeza. Filomena levantó la cara y le dijo: "Mi hijo. Tenía diecinueve años. ¿Para qué sirve rezar?" Padre Pío no tenía respuesta para eso. Se arrodilló a su lado y rezó con ella. Rezó por el alma de aquel muchacho de diecinueve años al que nunca había conocido, pidiendo que Dios lo recibiera y que la oración llegara donde el consuelo no podía llegar.
 
-Filomena no se convirtió en una mujer de fe renovada. No tuvo una revelación. Bajó del convento una hora después, se recogió el pelo y volvió a su casa a dar de comer a los otros tres hijos que le quedaban. Subió cada martes durante el resto de la guerra, siempre con el pelo suelto, siempre con la misma pregunta que Padre Pío nunca supo contestar. Cuando la guerra terminó, siguió subiendo. El pelo lo llevaba suelto hasta el final.
+Bajó del convento una hora después, se recogió el pelo y volvió a su casa a dar de comer a los otros tres hijos que le quedaban. Subió cada martes durante el resto de la guerra, siempre con el pelo suelto, siempre con la misma pregunta que Padre Pío nunca supo contestar. Cuando la guerra terminó, siguió subiendo. El pelo lo llevaba suelto hasta el final.
 
 La guerra llegó hasta las puertas del convento. En septiembre de 1943, cuando Italia cambió de bando y los ejércitos aliados avanzaban por el sur, los bombarderos pasaron sobre San Giovanni Rotondo. Toda la provincia de Foggia fue arrasada. Pero las bombas no cayeron sobre el pueblo.
 
@@ -216,7 +216,7 @@ Mientras los aviones zumbaban sobre las montañas, Padre Pío se quedó en la ig
 
 San Giovanni Rotondo sobrevivió a la guerra prácticamente intacto.
 
-Grazio había sobrevivido a su mujer diecisiete años. Se había mudado a San Giovanni Rotondo para estar cerca de su hijo, y allí vivía en una casa pequeña cerca del convento, cada día más callado, cada día más parecido a las colinas secas de Pietrelcina de las que había venido. Padre Pío lo visitaba cuando podía, cruzando la calle entre el convento y la casita donde Grazio vivía solo. La última vez que fue, encontró a su padre sentado en una silla junto a la ventana, con las manos — las mismas manos que habían cavado zanjas en dos continentes — quietas en el regazo. Padre Pío se sentó a su lado y le agarró la mano. No hablaron. No hacía falta.
+Grazio había sobrevivido a su mujer diecisiete años. Se había mudado a San Giovanni Rotondo para estar cerca de su hijo, y allí vivía en una casa pequeña cerca del convento, cada día más callado, cada día más parecido a las colinas secas de Pietrelcina de las que había venido. Padre Pío lo visitaba cuando podía, cruzando la calle entre el convento y la casita donde Grazio vivía solo. La última vez que fue, encontró a su padre sentado en una silla junto a la ventana, con las manos — las mismas manos que habían cavado zanjas en dos continentes — quietas en el regazo. El cuarto olía a tabaco viejo y a sopa recalentada. En la pared había una foto de María Giuseppa que Grazio había colgado torcida y que nadie había enderezado. Padre Pío se sentó a su lado y le agarró la mano. Grazio le dijo, con una voz que ya era casi un susurro: "Francesquillo." Era el nombre de la infancia, el nombre de las cartas que dictaba desde los barracones. Padre Pío apretó la mano de su padre y se quedó así hasta que oscureció.
 
 En octubre de 1946, Grazio murió. Tenía ochenta y seis años. Había cruzado dos océanos para que su hijo fuera fraile, y lo último que vio fue la iglesia donde su hijo celebraba misa cada mañana.
 
@@ -238,7 +238,7 @@ Cleonice Morcaldi, que para entonces llevaba veinticinco años visitándolo cada
 
 La Casa Sollievo della Sofferenza abrió sus puertas el cinco de mayo de 1956. No era un hospital cualquiera: era uno de los mejores de todo el sur de Italia, con doscientas cincuenta camas, quirófanos modernos y laboratorios equipados con lo último en tecnología médica. Y, tal como Padre Pío había exigido, los pobres eran atendidos sin pagar un centavo.
 
-El día de la inauguración, Padre Pío se asomó a una ventana del convento y vio la enorme multitud que se había reunido frente al hospital. Sonrió — una de sus raras sonrisas sin tristeza — y dijo: "Esta es la criatura de la Providencia." No dijo "mi hospital" ni "mi obra". La Providencia.
+El día de la inauguración, Padre Pío se asomó a una ventana del convento y vio la enorme multitud que se había reunido frente al hospital. Sonrió — una de sus raras sonrisas sin tristeza — y dijo: "Esta es la criatura de la Providencia." No dijo "mi hospital" ni "mi obra". La Providencia. Si Grazio hubiera vivido para verlo — Grazio, que había cruzado dos océanos para que su hijo fuera fraile — habría entendido.
 
 ---
 
@@ -256,11 +256,9 @@ En 1963 murió el padre Agostino, el hombre al que Padre Pío le había confiado
 
 Cuando salió, horas después, no dijo nada de lo que había pensado. Pero los frailes notaron que durante semanas rezaba el rosario más despacio, como si estuviera buscando las palabras de nuevo.
 
-Los años sesenta trajeron un cambio enorme: la misa, que siempre se había celebrado en latín, iba a cambiar. El Concilio Vaticano II decidió que la liturgia se renovara.
+Los años sesenta trajeron un cambio enorme. Los obispos de todo el mundo se reunieron en Roma en un gran concilio — el Concilio Vaticano II — y decidieron que la misa, que siempre se había celebrado en latín, iba a cambiar.
 
-Cuando Padre Pío se enteró, lo encontraron en la sacristía acariciando el viejo misal romano con las manos vendadas, pasando las páginas despacio. Cada palabra de aquella misa, cada gesto, cada silencio, tenía para él un significado que había tardado toda la vida en comprender. Escribió personalmente al papa Pablo VI pidiéndole una dispensa para seguir celebrando la misa antigua. El Papa se la concedió. Fue uno de los poquísimos sacerdotes en el mundo que obtuvo ese permiso.
-
-Pidió permiso como un hijo pide permiso a su padre, lo recibió, y siguió celebrando en latín hasta el último día de su vida. La nueva misa entraría en vigor poco más de un año después de su muerte.
+Cuando Padre Pío se enteró, lo encontraron en la sacristía acariciando el viejo misal romano con las manos vendadas, pasando las páginas despacio. Cada palabra de aquella misa, cada gesto, cada silencio, tenía para él un significado que había tardado toda la vida en comprender. Escribió personalmente al papa Pablo VI expresando su preocupación por los cambios. Y siguió celebrando la misa en latín hasta el último día de su vida, porque los cambios aún no eran obligatorios y nadie se lo impidió. La nueva misa entraría en vigor poco más de un año después de su muerte.
 
 En sus últimos años tenía un humor seco y afilado que desconcertaba a quienes esperaban encontrarse con un santo grave y solemne. Un obispo de visita oficial se sentó frente a él en el locutorio del convento y le preguntó con tono de examen si realmente podía leer las almas. Padre Pío lo miró fijamente durante unos segundos que debieron de parecer eternos y dijo: "La suya necesita una buena limpieza, excelencia." El obispo se puso colorado y no volvió más.
 
@@ -272,7 +270,7 @@ Después de la misa, se retiró a su celda. Pellegrino, que lo ayudó a desvesti
 
 Esa noche, el padre Raffaele — que llevaba cuarenta años trayéndole la sopa y que había aprendido a rezar el rosario entero sin darse cuenta, de tanto sentarse a su lado mientras las cuentas del rosario pasaban entre los dedos del fraile — le llevó el plato como siempre. Pero esta vez, en lugar de dejarlo en la mesa y sentarse, se quedó de pie en la puerta un momento y dijo: "Buenas noches, Padre." Era la primera vez en cuarenta años que le decía buenas noches. Padre Pío lo miró y asintió.
 
-Cuando un santo muere, la Iglesia no tiene prisa. Hay que esperar, investigar, probar. A veces pasan siglos.
+A la mañana siguiente, el convento amaneció más callado de lo que nadie recordaba.
 
 ---
 
@@ -284,7 +282,9 @@ Estaba sentado en un sillón de su celda, con el rosario entre los dedos. Pelleg
 
 Tenía ochenta y un años. Había llevado los estigmas durante medio siglo. Cuando Pellegrino le retiró las vendas, se quedó mirando las manos un largo rato sin entender lo que veía. Las llagas habían desaparecido. No quedaban costras, no quedaba sangre, no quedaban cicatrices. Solo piel nueva, rosada, lisa, como la de un recién nacido. Los pies, lo mismo. El costado, lo mismo. Cincuenta años de heridas abiertas, y en una noche la carne se había cerrado como si nunca hubiera estado rota.
 
-Cien mil personas asistieron a su funeral. Cien mil personas en un pueblo que normalmente tenía cinco mil habitantes. Llenaron las calles, las plazas, los campos alrededor del pueblo.
+Cleonice Morcaldi supo lo que había querido decir con "nos veremos pronto, pero no aquí" cuando leyó la noticia de su muerte. Esa noche abrió su cuaderno de tapas azules por la última página y lo cerró.
+
+Cien mil personas asistieron a su funeral. Llenaron las calles, las plazas, los campos alrededor del pueblo.
 
 Su cuerpo fue enterrado en una cripta bajo la iglesia del convento. Y allí empezó la espera.
 
