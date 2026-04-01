@@ -8,7 +8,7 @@
 
 En el sur de Italia, donde las colinas — espaldas secas de viejos labradores — se levantan pedregosas, existe un pueblo llamado Pietrelcina. En el año 1887 no era más que un puñado de casas de piedra amontonadas alrededor de una iglesia, con sus calles de tierra, sus burros flacos y sus huertos raquíticos que daban higos y aceitunas a fuerza de pura terquedad del suelo. Los inviernos eran duros y los veranos más duros todavía, y la gente que vivía allí tenía la piel curtida por el sol y las manos agrietadas de tanto trabajar una tierra que no quería dar nada.
 
-En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a su cuarto hijo. Era un niño pequeño, moreno, con unos ojos oscuros que no se cerraban ni para dormir. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la capilla de Santa Anna. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
+En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a un hijo. Era un niño pequeño, moreno, con unos ojos oscuros que no se cerraban ni para dormir. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la capilla de Santa Anna. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
 
 Desde muy pequeño, Francesco hablaba con alguien que nadie más podía ver. Su madre lo encontraba a veces en su cuarto, de rodillas, con los ojos cerrados y los labios moviéndose sin sonido, y cuando le preguntaba qué hacía, el niño decía: "Rezo". Lo decía con tanta naturalidad como otro niño habría dicho "juego" o "como". María Giuseppa se quedaba en la puerta mirándolo y no sabía qué pensar. Una parte de ella se alegraba, porque ¿qué madre católica no quiere un hijo devoto? Pero otra parte — la parte práctica, la que contaba las monedas y remendaba las camisas — se preguntaba qué iba a ser de un niño así en un mundo que no tenía paciencia para los que hablaban con Dios en vez de arar la tierra.
 
@@ -16,7 +16,7 @@ Lo cierto es que Francesco veía cosas. Veía ángeles. Los veía con la misma c
 
 Pero no todo lo que veía era luminoso. Desde los cinco años, Francesco empezó a recibir también otras visitas. De noche, cuando la casa estaba en silencio y sus hermanos dormían, aparecían en su cuarto sombras que no eran sombras normales. Figuras oscuras, deformes, que se acercaban a su cama y le susurraban cosas horribles. Monstruos que a veces tenían forma de animales y a veces no tenían forma ninguna, solo oscuridad con voz. El niño se despertaba empapado en sudor, temblando, con el corazón golpeándole las costillas tan fuerte que le dolía el pecho. No gritaba. Apretaba los dientes, agarraba el rosario que tenía debajo de la almohada y rezaba hasta que las sombras se iban.
 
-No se lo contó a nadie durante años. ¿Quién le habría creído? Y si le hubieran creído, ¿qué habrían podido hacer? Él sabía que aquella batalla era suya y que nadie podía pelearla por él.
+No se lo contó a nadie durante años. ¿Quién le habría creído? Hubo noches en que él mismo no se creía. Se preguntaba si las sombras eran reales o si algo estaba mal en su cabeza, si los ángeles que veía de día y los monstruos que lo golpeaban de noche no serían todo la misma cosa: la imaginación de un niño que rezaba demasiado. Pero luego venía la mañana y las marcas estaban ahí, los moretones en los brazos, y entonces sabía que no era imaginación. Sabía que aquella batalla era suya y que nadie podía pelearla por él.
 
 A los cinco años, estaba arrodillado frente a una imagen del Sagrado Corazón de Jesús en la iglesia de Pietrelcina cuando sintió que algo le quemaba por dentro, como si hubiera tragado una brasa. Se le doblaron las rodillas. Le salieron lágrimas que no entendía. Y en ese momento, sin que nadie se lo enseñara, decidió que su vida entera sería para Dios. Tenía cinco años. Francesco no cambió de opinión nunca.
 
@@ -96,21 +96,25 @@ Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebr
 
 No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
 
-Pero en la historia reciente de la Iglesia, ningún sacerdote había llevado los estigmas de forma tan visible y duradera. Padre Pío no quería ser el primero. No quería ser nada.
+Pero en la historia reciente de la Iglesia, ningún sacerdote había llevado los estigmas de forma tan visible y duradera. Le pidió a Agostino que no se lo dijera a nadie.
 
 ---
 
 ## Capítulo 3: Las llagas
 
-El veinte de septiembre de 1918, Padre Pío estaba solo en el coro de la iglesia del convento de San Giovanni Rotondo, un pueblo aún más pequeño y remoto que Pietrelcina, encaramado en la montaña del Gargano. Acababa de celebrar la misa y se había quedado rezando frente al crucifijo, como hacía todos los días.
+El veinte de septiembre de 1918, Padre Pío estaba solo en el coro de la iglesia del convento de San Giovanni Rotondo, un pueblo aún más pequeño y remoto que Pietrelcina, encaramado en la montaña del Gargano. El coro olía a cera apagada y a piedra húmeda. La luz de la mañana entraba por una ventana estrecha y dibujaba un rectángulo en el suelo de baldosas. Acababa de celebrar la misa y se había quedado rezando frente al crucifijo, de rodillas, con las manos apoyadas en el banco y la cabeza inclinada.
 
 Lo que sucedió a continuación lo contó él mismo, años después:
 
 "Vi delante de mí un personaje misterioso, semejante al que había visto la noche del cinco de agosto, pero con las manos y los pies y el costado chorreando sangre. Su visión me aterró. No sabré decir lo que sentí en aquel momento. Me sentía morir y habría muerto si el Señor no hubiera intervenido para sostenerme el corazón. El personaje desapareció y me di cuenta de que mis manos, mis pies y mi costado estaban traspasados y chorreaban sangre."
 
-Las heridas eran reales. No eran marcas rojizas como las de antes, sino llagas abiertas, profundas, que sangraban abundantemente. En las palmas de las manos, dos agujeros que las atravesaban de lado a lado. En los pies, lo mismo. En el costado izquierdo, una herida en forma de cruz de la que manaba sangre y un líquido transparente. El dolor era atroz.
+Las heridas eran reales. No eran marcas rojizas como las de antes, sino llagas abiertas, profundas, que sangraban abundantemente. En las palmas de las manos, dos agujeros que las atravesaban de lado a lado. En los pies, lo mismo. En el costado izquierdo, una herida profunda de la que manaba sangre y un líquido transparente. El dolor era atroz.
 
-Padre Pío se envolvió las manos con trapos y se fue a su celda. Quería esconder las heridas, quería que nadie las viera, quería que desaparecieran. Rezó para que Dios le quitara las marcas visibles. "Que me duela, Señor, pero que no se vea", pidió. Dios no le concedió esa petición.
+Padre Pío se envolvió las manos con trapos y se fue a su celda. Las piernas apenas lo sostenían. Se sentó en el catre y se miró las manos: la sangre empapaba los trapos y goteaba sobre la manta gris. Los pies le ardían dentro de las sandalias. La herida del costado pulsaba con cada latido, caliente y húmeda contra la tela del hábito.
+
+Aquella primera noche no durmió. Se quedó sentado en la oscuridad con las manos en el regazo, escuchando su propia respiración y el goteo de la sangre sobre el suelo de la celda. Quería esconder las heridas, quería que nadie las viera, quería que desaparecieran. Rezó para que Dios le quitara las marcas visibles. "Que me duela, Señor, pero que no se vea", pidió. Dios no le concedió esa petición.
+
+Al amanecer se levantó, se vendó las manos lo mejor que pudo y fue a celebrar misa. Le temblaban los brazos al levantar el cáliz. Los frailes que lo vieron aquella mañana notaron que algo había cambiado en su cara, pero ninguno se atrevió a preguntar.
 
 Sangraban constantemente. Padre Pío usaba guantes de cuero sin dedos para celebrar la misa, pero la sangre los empapaba y goteaba sobre el altar. El olor de la sangre era extraño: no olía a sangre sino a algo dulce, como a flores o a perfume. Muchos testigos lo confirmaron a lo largo de los años. Un médico que examinó las vendas usadas las olió varias veces, las guardó en un frasco y se las llevó a su laboratorio. No publicó ningún informe.
 
@@ -122,13 +126,15 @@ Padre Pío se echaba la capucha sobre la cara cuando cruzaba el patio y los pere
 
 El Vaticano envió doctores. El primero, Luigi Romanelli, el médico jefe del hospital civil de Barletta, un hombre con las uñas amarillas de tanto fumar, visitó al padre cinco veces. Cada vez medía las heridas, las fotografiaba, les aplicaba desinfectantes, y cada vez las heridas seguían exactamente igual. Romanelli salió de la quinta visita sin decir una palabra. El segundo fue más interesante.
 
-El doctor Amico Bignami, profesor de la Universidad de Roma, llegó a San Giovanni Rotondo un martes de otoño, ateo, sin paciencia y sin ninguna intención de dejarse impresionar. Examinó las heridas durante media hora, midió los bordes con un compás, tomó muestras de la sangre y de la piel alrededor de las llagas, y escribió en su informe que eran "necrosis superficiales de la piel, probablemente mantenidas por medios químicos, consciente o inconscientemente". Es decir: el doctor creía que Padre Pío se estaba haciendo las heridas él mismo, a propósito o sin darse cuenta. Caso cerrado. Pero Bignami era un buen científico, y un buen científico no cierra un caso sin comprobarlo. Pidió que le vendaran las manos con sellos oficiales y que nadie se las tocara durante varios días.
+El doctor Amico Bignami, profesor de la Universidad de Roma, llegó a San Giovanni Rotondo un martes de otoño, ateo, sin paciencia y sin ninguna intención de dejarse impresionar. Examinó las heridas durante media hora, midió los bordes con un compás, tomó muestras de la sangre y de la piel alrededor de las llagas, y escribió en su informe que eran "necrosis superficiales de la piel, probablemente mantenidas por medios químicos, consciente o inconscientemente". Es decir: el doctor creía que Padre Pío se estaba haciendo las heridas él mismo, a propósito o sin darse cuenta.
+
+Pero los investigadores del Vaticano no se dieron por satisfechos. Pidieron que le vendaran las manos con sellos oficiales y que nadie se las tocara durante varios días.
 
 Le vendaron las manos. Les pusieron sellos. Esperaron.
 
 Cuando quitaron las vendas, las heridas estaban exactamente igual. Sangrando. Abiertas.
 
-Bignami se quedó un largo rato mirando las manos del fraile. Se quitó las gafas. Se frotó los ojos. Le preguntaron qué pensaba. "Pienso que necesito un café", contestó.
+Bignami, que presenció el resultado, se quedó un largo rato mirando las manos del fraile. Se quitó las gafas. Se frotó los ojos. Le preguntaron qué pensaba. "Pienso que necesito un café", contestó.
 
 No todos en la Iglesia veían con buenos ojos al fraile estigmatizado. Las sospechas iban de lo razonable a lo absurdo: que los capuchinos habían organizado un engaño para atraer peregrinos, que el fraile estaba enfermo de la cabeza, que era cosa del demonio, que se hacía las heridas él mismo por la noche. Y en más de un palacio episcopal hervía un rencor que nadie quería nombrar.
 
@@ -137,6 +143,8 @@ El más peligroso de estos enemigos era el arzobispo Pasquale Gagliardi, de Manf
 Los peregrinos no venían a Manfredonia a ver al arzobispo: venían a San Giovanni Rotondo a ver al fraile. Las donaciones no iban a la diócesis: iban al convento. La gente no hablaba de Gagliardi: hablaba de Padre Pío.
 
 Desde aquel escritorio de caoba, Gagliardi escribió carta tras carta al Vaticano. En una de ellas decía: "Este fraile está convirtiendo mi diócesis en una feria." Mucho de lo que escribió era exagerado o directamente falso, pero el Santo Oficio no tenía forma de saberlo.
+
+El padre Benedetto, por su parte, le escribió una sola frase que Padre Pío copió en el margen de su misal: "Aguanta."
 
 Padre Pío sabía lo que Gagliardi decía de él.
 
@@ -305,6 +313,8 @@ Francesco Forgione, de Pietrelcina, era ahora San Pío de Pietrelcina.
 La Casa Sollievo della Sofferenza sigue funcionando. Tiene cientos de camas y atiende a miles de pacientes cada año. En los pasillos huele a desinfectante y a café de máquina, y las enfermeras caminan deprisa con los zapatos chirriando sobre el linóleo. En la entrada hay una estatua de Padre Pío con las manos abiertas. La mayoría de los pacientes pasan por delante sin mirarla. Pero los que llegan con miedo y salen curados, a veces la miran al salir.
 
 En San Giovanni Rotondo hay hoy una iglesia nueva, enorme, donde los peregrinos entran y sus pasos resuenan bajo una bóveda tan alta que la voz se pierde antes de llegar al techo. En una cripta debajo del altar, el cuerpo de Padre Pío descansa en una urna de cristal. Sus manos están al descubierto. Parecen las manos de un hombre dormido.
+
+Filomena siguió subiendo los martes. Ya vieja, ya con bastón, con el pelo suelto.
 
 El padre Raffaele sigue trayendo la sopa.
 
