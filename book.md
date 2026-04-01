@@ -42,13 +42,13 @@ La tercera era pequeña y sencilla, sin adornos, hecha de madera vieja y gris, y
 
 Guille se quedó mirando las tres puertas. No había ninguna inscripción, ninguna pista, ninguna señal. Solo tres puertas en el tronco de un árbol imposible, en medio de un bosque donde nadie iba.
 
-Eligió la segunda puerta. Olía a pan y a miel, y Guille tenía hambre, y su madre necesitaba comida. «Ten cuidado», le había dicho su madre. Pero el hambre era más fuerte que el cuidado.
+Eligió la segunda puerta. Olía a pan y a miel, y Guille tenía hambre, y su madre necesitaba comida. Le pareció lo más sensato.
 
 La puerta se abrió sin ruido.
 
 ---
 
-Del otro lado había un salón enorme, iluminado por cientos de velas. Las paredes eran de piedra dorada y el suelo de mármol pulido. En el centro había una mesa tan larga que no se veía el final, y sobre la mesa había más comida de la que Guille había visto en toda su vida: panes redondos con la corteza crujiente, quesos amarillos, jamones enteros, fuentes de fruta brillante, jarras de leche espesa, tartas de manzana con azúcar quemada por encima, y en el centro un cordero asado del que subía un vapor que olía a romero y a fiesta. Entre tanta abundancia, solo una pera tenía una mancha oscura, y Guille se fijó en eso.
+Del otro lado había un salón enorme, iluminado por cientos de velas. Las paredes eran de piedra dorada y el suelo de mármol pulido. En el centro había una mesa tan larga que no se veía el final, y sobre la mesa había más comida de la que Guille había visto en toda su vida: panes redondos con la corteza crujiente, quesos amarillos, jamones enteros, fuentes de fruta brillante, jarras de leche espesa, tartas de manzana con azúcar quemada por encima, y en el centro un cordero asado del que subía un vapor que olía a romero y a fiesta. Entre tanta abundancia, solo una pera tenía un golpe oscuro, y Guille se fijó en eso sin saber por qué.
 
 Detrás de la mesa, sentada en una silla alta de respaldo tallado, había una mujer. Era hermosa, con el pelo negro como la tinta y los labios rojos como las bayas de acebo. Llevaba un vestido del color de las cenizas que se movía solo, sin que hubiera viento, y un collar de perlas grises y frías como piedras de río en invierno.
 
@@ -94,7 +94,7 @@ En la casa, al otro lado del bosque, Isa se movió en la cama y buscó a Guille 
 
 ---
 
-Guille miró la primera puerta, la de hierro negro con olor a metal y humo. Le daba miedo. «Ten cuidado», oyó en su cabeza. Apretó los dientes.
+Guille miró la primera puerta, la de hierro negro con olor a metal y humo. Le daba miedo. Le daba miedo. Pensó en su madre, en su voz diciéndole «ten cuidado», y apretó los dientes.
 
 Abrió la primera puerta.
 
@@ -254,7 +254,7 @@ Y los dos hermanos se arrodillaron juntos y rezaron mientras la noche se convert
 
 ---
 
-La madre de Guille e Isa no se curó de la noche a la mañana. La vela no era una moneda mágica ni un banquete encantado. Pero aquella mañana, mirando la llama que ardía firme junto a la cama de su madre, Guille pensó: «Si no estoy solo, puedo pedir ayuda.» Salió a la calle y llamó a la puerta de la vieja Ana, que vivía enfrente.
+La madre de Guille e Isa no se curó de la noche a la mañana. La vela no era una moneda mágica ni un banquete encantado. Pero aquella mañana, cuando salió el sol, Guille hizo algo que antes no se había atrevido a hacer: salió a la calle y llamó a la puerta de la vieja Ana, que vivía enfrente.
 
 —Mi madre está enferma —le dijo—. Y no tenemos comida.
 
@@ -274,7 +274,7 @@ Volvió con un puchero de sopa caliente y medio pan. Lo puso en las manos de Gui
 
 Y después pasó lo que siempre pasa cuando alguien da el primer paso: otros le siguieron. El panadero dejó pan en la puerta. La mujer del herrero mandó leña y miel. El molinero, que al principio pensó en sus propios hijos, al final cortó medio saco de harina y lo dejó sin llamar. Cada uno dio lo que tenía y lo que le costó.
 
-La madre mejoró. Despacio: un día comió un poco de sopa, otro día se sentó en la cama. Pero un jueves la fiebre volvió y Guille se pasó toda la noche sentado junto a ella, enfadado, pensando que nada servía para nada y que la vela era solo una vela y que el viejo de la capilla le había mentido. Estuvo a punto de no rezar. Pero al final se arrodilló junto a la vela y rezó, aunque las palabras le sabían a ceniza en la boca. Al amanecer la fiebre bajó. Otro día la madre pidió que le abrieran la ventana para que entrara el sol.
+La madre mejoró. Despacio, como mejoran las cosas de verdad: un día comió un poco de sopa, otro día se sentó en la cama. Pero un jueves la fiebre volvió y Guille se pasó toda la noche sentado junto a ella, enfadado, pensando que nada servía para nada y que la vela era solo una vela y que el viejo de la capilla le había mentido. Estuvo a punto de no rezar. Pero al final se arrodilló junto a la vela y rezó, aunque las palabras le sabían a ceniza en la boca. Al amanecer la fiebre bajó. Otro día la madre pidió que le abrieran la ventana para que entrara el sol.
 
 Y la vela siguió ardiendo en la mesa de noche, junto a la imagen de la Virgen. No se consumía. Guille no entendía cómo, pero tampoco se preocupaba por entenderlo.
 
@@ -290,7 +290,7 @@ Hubo un año, sin embargo, en que la madre empezó a cansarse más de lo habitua
 
 ---
 
-Un invierno la madre se puso peor. El cura del pueblo vino a verla y le dio los últimos sacramentos. Ella recibió la comunión con los ojos cerrados y una paz en la cara que Guille no le había visto en mucho tiempo.
+Un invierno la madre se puso peor.
 
 Y una noche de febrero, Guille se despertó porque faltaba algo. Tardó un momento en entender qué era: el sonido de la respiración de su madre, que llevaba años oyendo cada noche, se había callado. Y la casa estaba oscura.
 
