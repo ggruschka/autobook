@@ -1,8 +1,10 @@
 # autobook
 
-Autonomous book writing experiment. An LLM agent writes and iteratively refines a book, graded each iteration by specialized subagents. The loop always builds forward, focusing each iteration on the weakest graders.
+Autonomous book writing experiment. An LLM agent writes and iteratively refines a book, graded each iteration by specialized subagents. The loop always builds forward, addressing all grader feedback comprehensively each iteration.
 
 ## Setup
+
+Before starting a new experiment, check if the current branch is already a `book/*` branch with existing files (`book.md`, `constraints.md`, `results.tsv`). If so, this is a **continuation** of an existing run — skip setup entirely and go straight to the content loop.
 
 To set up a new experiment, work with the user to:
 
@@ -34,7 +36,7 @@ To set up a new experiment, work with the user to:
 
    After the interview, show the user the filled-in `constraints.md` for confirmation before proceeding.
 
-2. **Agree on a book slug**: Propose a short, URL-safe slug based on the book's title (e.g. `king-leonidas`, `little-prince`). The branch `book/<slug>` must not already exist — this is a fresh run.
+2. **Agree on a book slug**: Propose a short, URL-safe slug based on the book's title (e.g. `king-leonidas`, `little-prince`). The branch `book/<slug>` should not already exist for a new run.
 3. **Create the branch**: `git checkout -b book/<slug>` from current main. Push the branch immediately with `git push -u origin book/<slug>`.
 4. **Set up constraints**: Copy `constraints.template.md` to `constraints.md` and fill it in with the interview answers. Anything NOT specified is up to your creative interpretation. Show the final file to the user for confirmation.
 5. **Write the first draft**: Create `book.md` with a complete first draft that satisfies all constraints. This is the full book — no placeholders, no "chapter TBD", no summaries. Every word of the actual book.
@@ -76,7 +78,7 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 
 ### Saving Grader Feedback
 
-After each grading round, save each grader's full output (SCORE, DEDUCTIONS, FEEDBACK) to `graders/output/{name}.md`. These files are overwritten each iteration — only the latest feedback is kept. In step 1 of the loop, read these files to plan the next revision.
+After each grading round, save each grader's full output (SCORE, DEDUCTIONS, FEEDBACK) to `graders/output/{name}.md`. These files are overwritten each iteration — only the latest feedback is kept. In step 1 of the loop, read all of these files to collect every deduction for the revision plan.
 
 ## The Content Loop
 
@@ -84,9 +86,9 @@ The loop runs on a dedicated branch (e.g. `book/king-leonidas`).
 
 LOOP FOREVER:
 
-1. **Review feedback**: Read the grader output files in `graders/output/`. Focus on graders whose score regressed or stayed flat compared to their previous best.
-2. **Plan the revision**: Decide what to change. Focus on the lowest-scoring graders first — bringing a 5.0 to 7.0 matters more than pushing an 8.5 to 9.0. Write a brief revision plan (just for yourself, not a file).
-3. **Edit `book.md`**: Apply targeted revisions. Maintain coherence — a change in chapter 3 might require adjustments in chapters 5 and 8.
+1. **Collect all deductions**: Read every grader output file in `graders/output/`. From each file, extract every deduction. Compile a single master list of every deduction across all graders.
+2. **Write a revision plan**: If a `plan.md` exists from the previous iteration, rename it to `plan_last.md`. Read `plan_last.md` alongside the grader feedback to identify: issues that persisted despite being addressed last round, new issues introduced by last round's edits, and trends across iterations. Then write a new `plan.md` that addresses every current deduction simultaneously. For each planned edit, note which deductions it resolves. When deductions pull in opposite directions (e.g., one grader wants cuts, another wants expansion), find a single edit that satisfies both — add material that is also better crafted, restructure so it is both better paced and less formulaic. The plan must not leave any deduction unaddressed. Delete `plan_last.md` after the new plan is written.
+3. **Edit `book.md`**: Execute the plan. Every edit should resolve one or more deductions from the master list. Do not make edits that are not in the plan.
 4. **git commit and push**: Commit `book.md` (not `results.tsv`). Push to the remote after every commit.
 5. **Grade**: Spawn all grader subagents in parallel. Wait for all to finish. Save each grader's full output (SCORE, DEDUCTIONS, FEEDBACK) to `graders/output/{name}.md`, overwriting the previous iteration's file.
 6. **Score**: Compute the composite score.
@@ -96,18 +98,6 @@ LOOP FOREVER:
     - If the composite score is **equal or worse** → status: `regression`. Increment regression streak. Do NOT reset or revert — keep the commit and address the regressions in the next iteration.
 9. **Print the summary** (see Output Format below).
 10. **Go to step 1**.
-
-### Single-Grader Mode
-
-If the regression streak reaches 3, enter single-grader mode:
-
-1. Pick the lowest-scoring grader.
-2. Read only that grader's `graders/output/{name}.md` feedback file.
-3. Make targeted edits addressing only that grader's feedback.
-4. Commit and push.
-5. Run only that single grader (not all graders). Save its output to `graders/output/{name}.md`.
-6. If that grader's score reaches or exceeds the current best composite score → exit single-grader mode, reset regression streak to 0, return to the full loop (run all graders next iteration).
-7. If not → repeat from step 2 with the updated feedback.
 
 ## Output Format
 
@@ -136,8 +126,8 @@ description:      reworked chapter 3 opening; tightened dialogue throughout
 
 After each grading round, identify:
 
-- **Bottleneck grader**: The grader with the lowest score. Focus revision effort here — bringing a 7.0 to 8.0 moves the composite more than pushing an 8.5 to 9.0.
-- **Stagnant grader**: A grader that has returned the same score (±0.1) for 3+ consecutive iterations. Don't spend revision effort trying to improve it — the remaining issues may be deeply embedded or beyond the grader's resolution.
+- **Bottleneck grader**: The grader with the lowest score.
+- **Stagnant grader**: A grader that has returned the same score (±0.1) for 3+ consecutive iterations.
 
 ## Logging Results
 
@@ -167,6 +157,6 @@ commit	score	status	prose	craft	structure	characters	audience	values	authenticit
 
 **Grader feedback is gold.** The graders' specific suggestions should heavily inform your next revision. Don't ignore feedback, and don't repeat the same mistake twice.
 
-**Don't chase one score.** If one grader gives 9.0 but another gives 4.0, focus entirely on the 4.0. Balanced improvement beats lopsided excellence.
+**Don't chase one score.** Address all graders in every iteration. The revision plan must cover deductions from every grader, not just the lowest-scoring one.
 
 **Track your reasoning.** In the `description` column of results.tsv, note what you changed AND why (based on which grader's feedback). This helps you avoid cycling through the same ideas.
