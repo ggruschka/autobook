@@ -68,6 +68,7 @@ For each active grader, read `graders/{name}.md` and use its contents as the sub
 
 - `graders/historian.md` — Historical accuracy (use when the book involves historical events). Has WebSearch and WebFetch tools for fact-checking.
 - `graders/technical.md` — Technical accuracy (use when the book covers technical subjects). Has WebSearch and WebFetch tools for fact-checking.
+- `graders/theologian.md` — Doctrinal accuracy (use when the book involves religious/theological content). Has WebSearch and WebFetch tools for verification.
 
 ### Computing the Score
 
