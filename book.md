@@ -34,7 +34,7 @@ Es difícil imaginar lo que significaba aquello en 1899: un hombre que apenas ha
 
 Con el dinero que su padre enviaba desde América, Francesco empezó a recibir clases particulares de un maestro del pueblo, don Domenico Tizzani. Aprendió a leer y escribir, estudió gramática y aritmética y algo de latín. Era un estudiante mediocre en todo lo que no tuviera que ver con la religión y brillante en todo lo que sí. Devoraba las vidas de los santos como otros niños devoran cuentos de aventuras. Su favorito era San Francisco de Asís, cuyo nombre llevaba y cuya orden soñaba con ingresar.
 
-El seis de enero de 1903, a los quince años, Francesco Forgione entró como novicio en el convento de los frailes capuchinos de Morcone. Su madre lo acompañó hasta la puerta. No lloró delante de él — esperó a que la puerta se cerrara para eso — pero antes de soltarle la mano le dijo: "Reza por tu padre, que está solo." Francesco asintió. Su padre, todavía en América, recibió la noticia por carta semanas después. Dicen que Grazio leyó la carta tres veces, se la guardó en el bolsillo del pecho y volvió al trabajo sin decir nada a nadie.
+El seis de enero de 1903, a los quince años, Francesco Forgione entró como novicio en el convento de los frailes capuchinos de Morcone. Su madre lo acompañó hasta la puerta y empezó a llorar antes de llegar, delante de los otros novicios, delante del padre guardián, delante de todo el mundo, porque María Giuseppa era muchas cosas pero no era una mujer que supiera esconder lo que sentía. Le dijo entre hipos: "Reza por tu padre, que está solo." Francesco asintió. Su padre, todavía en América, recibió la noticia por carta semanas después. Dicen que Grazio leyó la carta tres veces, se la guardó en el bolsillo del pecho y volvió al trabajo sin decir nada a nadie.
 
 El veintidós de enero recibió el hábito marrón de los capuchinos y un nuevo nombre: Fray Pío. El hábito le quedaba grande. Le arrastraba por el suelo cuando caminaba por los pasillos del convento, y los otros novicios se reían, pero a él no le importaba. Olía a lana vieja y a incienso. Por las noches, en la celda que le habían asignado, el frío se metía por las rendijas de la ventana y las sombras volvían.
 
@@ -76,7 +76,7 @@ Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebr
 
 No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
 
-Pero ningún sacerdote había llevado los estigmas de forma visible. Padre Pío no quería ser el primero. Él solo quería ser un fraile capuchino que celebraba misa, oía confesiones y rezaba en su celda hasta morirse.
+Pero ningún sacerdote había llevado los estigmas de forma visible. Padre Pío no quería ser el primero. No quería ser nada.
 
 ---
 
@@ -126,7 +126,7 @@ En 1923, el Santo Oficio — el tribunal del Vaticano encargado de investigar as
 
 Y luego vinieron las restricciones.
 
-En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, un prisionero que no había cometido ningún delito. Hay que decirlo con todas las letras: hombres que no lo habían visto nunca, que no habían olido la sangre de sus manos ni habían escuchado a los penitentes llorar en su confesionario, decidieron destruirle la vida basándose en las cartas de un obispo mentiroso. No sé cómo contar esta parte de la historia sin que me tiemblen las manos. No sé cómo explicar que la misma Iglesia que un día lo canonizaría fue la que lo encerró en una celda durante dos años por un delito que nunca cometió. Pero así fue.
+En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, un prisionero que no había cometido ningún delito. Hay que decirlo con todas las letras: hombres que no lo habían visto nunca, que no habían olido la sangre de sus manos ni habían escuchado a los penitentes llorar en su confesionario, decidieron destruirle la vida basándose en las cartas de un obispo mentiroso. Perdón. Perdón por el tono. Pero es que esto — un hombre que sangraba por las manos mientras rezaba, encerrado en una celda durante dos años porque un obispo tenía celos — esto no se puede contar con calma.
 
 Fue la prueba más dura de su vida. Más dura que los estigmas y los ataques del demonio, más dura que todas las enfermedades juntas, porque esta vez el sufrimiento venía de la Iglesia a la que había jurado obedecer. La Iglesia que era su madre, su hogar, la razón de su existencia. Y esa madre lo estaba castigando sin explicarle por qué.
 
@@ -136,7 +136,7 @@ No protestó. No se quejó. No escribió cartas a los periódicos ni organizó c
 
 Durante dos años, Padre Pío vivió encerrado en su celda. Celebraba misa solo, a las cinco de la mañana, en una capilla vacía. Las heridas de sus manos y sus pies y su costado seguían sangrando, indiferentes a los decretos del Vaticano.
 
-Hubo una noche — él se la contó después al padre Agostino — en que estuvo a punto de quebrarse. Estaba arrodillado en la capilla a oscuras, con las manos apoyadas en el reclinatorio y la sangre goteando sobre la madera como siempre, y de pronto le vino una rabia tan intensa que le sorprendió a él mismo. Quiso levantarse, quiso escribir una carta, quiso gritar. Apretó los puños — y el dolor de las llagas al cerrarse le atravesó los brazos como un latigazo. Se quedó quieto. Respiró. Y en vez de la carta que quería escribir, rezó un avemaría. Y luego otra. Y otra más, hasta que la rabia se fue apagando como una brasa que nadie sopla.
+Hubo una noche — él se la contó después al padre Agostino — en que estuvo a punto de quebrarse. Estaba arrodillado en la capilla a oscuras, con las manos apoyadas en el reclinatorio y la sangre goteando sobre la madera como siempre, y de pronto le vino una rabia tan intensa que le sorprendió a él mismo. Quiso levantarse, quiso escribir una carta, quiso gritar. Apretó los puños — y el dolor de las llagas al cerrarse le atravesó los brazos como un latigazo. Se quedó quieto. Respiró. Y en vez de la carta que quería escribir, rezó un avemaría. Y luego otra. Y otra más, hasta que la rabia se fue apagando — la vieja brasa otra vez, pero al revés, enfriándose en lugar de arder.
 
 Los frailes del convento lo trataban con distancia. Fray Pellegrino, que llevaba treinta años en San Giovanni Rotondo sin que nadie se molestara en aprender su nombre, le dijo un día en el refectorio: "Ahora ya sabes lo que es ser un fraile normal." No lo dijo con crueldad exactamente, pero tampoco con compasión. Padre Pío lo miró un momento y luego siguió comiendo su sopa. Solo uno se atrevía a visitarlo cada día: fray Raffaele da Sant'Elia a Pianisi, un hermano lego bajito y calvo que cantaba canciones napolitanas mientras fregaba los suelos del convento y que le llevaba un plato de sopa por las noches y se sentaba a su lado sin hablar. No hacía falta hablar. Fray Raffaele se quedaba media hora, recogía el plato — a veces vacío, a veces intacto — y se iba. Padre Pío le dijo una vez: "Raffaele, tú eres la prueba de que Dios no me ha abandonado del todo." Fray Raffaele se encogió de hombros y contestó: "Yo solo traigo la sopa, Padre."
 
@@ -188,7 +188,7 @@ La Casa Sollievo della Sofferenza abrió sus puertas el cinco de mayo de 1956. N
 
 El día de la inauguración, Padre Pío se asomó a una ventana del convento y vio la enorme multitud que se había reunido frente al hospital. Dicen que sonrió — una de sus raras sonrisas sin tristeza — y dijo: "Esta es la criatura de la Providencia." No dijo "mi hospital" ni "mi obra." La Providencia. Como si él no hubiera tenido nada que ver.
 
-Hoy, la Casa Sollievo della Sofferenza sigue funcionando. Tiene más de mil camas y atiende a cientos de miles de pacientes cada año. En la entrada hay una estatua de Padre Pío con las manos abiertas. Los pacientes pasan por delante sin mirarla, porque cuando uno va al hospital tiene cosas más urgentes en la cabeza que los santos.
+Hoy, la Casa Sollievo della Sofferenza sigue funcionando. Tiene más de mil camas y atiende a cientos de miles de pacientes cada año. En la entrada hay una estatua de Padre Pío con las manos abiertas. Los pacientes pasan por delante sin mirarla. Huele a desinfectante y a café de máquina.
 
 ---
 
