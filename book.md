@@ -8,7 +8,7 @@
 
 En el sur de Italia, donde las colinas se levantan secas y pedregosas como espaldas de viejos labradores, existe un pueblo llamado Pietrelcina. En el año 1887 no era más que un puñado de casas de piedra amontonadas alrededor de una iglesia, con sus calles de tierra, sus burros flacos y sus huertos raquíticos que daban higos y aceitunas a fuerza de pura terquedad del suelo. Los inviernos eran duros y los veranos más duros todavía, y la gente que vivía allí tenía la piel curtida por el sol y las manos agrietadas de tanto trabajar una tierra que no quería dar nada.
 
-En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a su cuarto hijo. Era un niño pequeño, moreno, con ojos oscuros muy abiertos, como si ya quisiera ver todo lo que el mundo tenía preparado para él. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la iglesia de Santa Ana. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
+En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a su cuarto hijo. Era un niño pequeño, moreno, con unos ojos oscuros que no se cerraban ni para dormir. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la iglesia de Santa Ana. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
 
 Francesco fue un niño raro, de una manera difícil de explicar. Desde muy pequeño, hablaba con alguien que nadie más podía ver. Su madre lo encontraba a veces en su cuarto, de rodillas, con los ojos cerrados y los labios moviéndose sin sonido, y cuando le preguntaba qué hacía, el niño decía: "Rezo". Lo decía con tanta naturalidad como otro niño habría dicho "juego" o "como". María Giuseppa se quedaba en la puerta mirándolo y no sabía qué pensar. Una parte de ella se alegraba, porque ¿qué madre católica no quiere un hijo devoto? Pero otra parte — la parte práctica, la que contaba las monedas y remendaba las camisas — se preguntaba qué iba a ser de un niño así en un mundo que no tenía paciencia para los que hablaban con Dios en vez de arar la tierra.
 
@@ -36,7 +36,7 @@ Con el dinero que su padre enviaba desde América, Francesco empezó a recibir c
 
 El seis de enero de 1903, a los quince años, Francesco Forgione entró como novicio en el convento de los frailes capuchinos de Morcone. Su madre lo acompañó hasta la puerta. No lloró delante de él — esperó a que la puerta se cerrara para eso — pero antes de soltarle la mano le dijo: "Reza por tu padre, que está solo." Francesco asintió. Su padre, todavía en América, recibió la noticia por carta semanas después. Dicen que Grazio leyó la carta tres veces, se la guardó en el bolsillo del pecho y volvió al trabajo sin decir nada a nadie.
 
-El veintidós de enero recibió el hábito marrón de los capuchinos y un nuevo nombre: Fray Pío. El hábito le quedaba grande. Le arrastraba por el suelo cuando caminaba por los pasillos del convento, y los otros novicios se reían, pero a él no le importaba. Olía a lana vieja y a incienso, y eso le bastaba.
+El veintidós de enero recibió el hábito marrón de los capuchinos y un nuevo nombre: Fray Pío. El hábito le quedaba grande. Le arrastraba por el suelo cuando caminaba por los pasillos del convento, y los otros novicios se reían, pero a él no le importaba. Olía a lana vieja y a incienso. Por las noches, en la celda que le habían asignado, el frío se metía por las rendijas de la ventana y las sombras volvían.
 
 ---
 
@@ -46,7 +46,7 @@ El convento de Morcone era un edificio austero, frío en invierno y sofocante en
 
 Pero su cuerpo no estaba de acuerdo con su alma.
 
-Desde los primeros meses en el convento, Fray Pío empezó a enfermarse. Fiebres altísimas que aparecían sin explicación y desaparecían igual. Vómitos que le impedían comer durante días. Tos que le sacudía el cuerpo entero como si alguien lo estuviera zarandeando. Los médicos que lo examinaron no entendían nada: le tomaban la temperatura y el termómetro subía hasta los cuarenta y un grados, una fiebre que debería haberlo matado o al menos dejado postrado, pero Fray Pío seguía levantándose para rezar, arrastrándose hasta la capilla como un soldado herido que se niega a abandonar su puesto.
+Desde los primeros meses en el convento, Fray Pío empezó a enfermarse. Fiebres altísimas que aparecían sin explicación y desaparecían igual. Vómitos que le impedían comer durante días. Tos que le sacudía el cuerpo entero. Los médicos que lo examinaron no entendían nada: le tomaban la temperatura y el termómetro subía hasta los cuarenta y un grados, una fiebre que debería haberlo matado o al menos dejado postrado, pero Fray Pío seguía levantándose para rezar, arrastrándose hasta la capilla con las rodillas temblando y las manos agarradas a la pared.
 
 Los superiores no sabían qué hacer con él. Un novicio tan enfermo era una carga para la comunidad, y las reglas eran claras: quien no puede seguir la vida del convento debe irse. Varias veces lo enviaron de vuelta a Pietrelcina para que se recuperara, y cada vez que volvía a casa, las fiebres bajaban y la tos se calmaba. Y cada vez que regresaba al convento, la enfermedad volvía con él, como una sombra fiel que no lo dejaba en paz.
 
@@ -54,7 +54,7 @@ Hubo quien pensó que el problema era el clima del convento. Otros pensaron que 
 
 Durante aquellos años de idas y venidas, Fray Pío encontró a la persona que se convertiría en el ancla de su vida interior: el padre Agostino de San Marco in Lamis, un fraile capuchino alto y delgado, con una barba que le llegaba hasta el pecho y unos ojos que no juzgaban. Fue asignado como director espiritual de Fray Pío, lo cual significaba que era la única persona en el mundo a la que el joven fraile podía contarle todo sin miedo.
 
-La primera vez que Fray Pío le habló de las visiones — los ángeles de su infancia, las sombras, el fuego en el pecho — el padre Agostino no dijo nada durante un buen rato. Luego preguntó: "¿Tienes miedo?" Fray Pío pensó antes de contestar. "No de lo que veo," dijo. "Tengo miedo de no ser digno de verlo." El padre Agostino asintió despacio, como si aquella respuesta confirmara algo que ya sospechaba. "Escríbemelo todo," le dijo. "Cada visión, cada ataque, cada duda. No te guardes nada." Y Fray Pío le obedeció. Le escribiría cientos de cartas a lo largo de los años, las cartas que hoy son la ventana principal a su vida interior.
+La primera vez que Fray Pío le habló de las visiones — los ángeles de su infancia, las sombras, el fuego en el pecho — el padre Agostino no dijo nada durante un buen rato. Luego preguntó: "¿Tienes miedo?" Fray Pío pensó antes de contestar. "No de lo que veo," dijo. "Tengo miedo de no ser digno de verlo." El padre Agostino asintió despacio. "Escríbemelo todo," le dijo. "Cada visión, cada ataque, cada duda. No te guardes nada." Y Fray Pío le obedeció. Le escribiría cientos de cartas a lo largo de los años, las cartas que hoy son la ventana principal a su vida interior.
 
 Las sombras de su infancia no habían desaparecido. Al contrario: ahora eran peores. Mucho peores.
 
@@ -72,11 +72,11 @@ Su madre había viajado desde Pietrelcina para verlo. Se sentó en el primer ban
 
 Fray Pío — ahora Padre Pío — sintió de nuevo aquella brasa en el pecho que había sentido de niño. Pero esta vez ardía más fuerte.
 
-Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebraba la misa, sentía un dolor agudo en las manos y en los pies, como si alguien le clavara agujas al rojo vivo. El dolor era tan intenso que a veces tenía que agarrarse al altar para no caerse. Cuando se miraba las manos después, veía unas manchas rojizas, no heridas abiertas sino como marcas de algo que quería abrirse paso desde dentro de la carne.
+Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebraba la misa, sentía un dolor agudo en las manos y en los pies, un ardor de agujas al rojo vivo. El dolor era tan intenso que a veces tenía que agarrarse al altar para no caerse. Cuando se miraba las manos después, veía unas manchas rojizas, no heridas abiertas sino como marcas de algo que quería abrirse paso desde dentro de la carne.
 
 No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
 
-Desde San Francisco, que las recibió en 1224, la Iglesia había reconocido centenares de casos de estigmas, casi todos en monjas y laicos. Ningún sacerdote los había llevado de forma visible. Padre Pío no quería ser el primero. No por humildad, aunque era humilde, sino porque sabía lo que eso traería consigo: atención, fama, investigaciones, sospechas. Todo lo que él no quería. Él solo quería ser un fraile capuchino que celebraba misa, oía confesiones y rezaba en su celda hasta morirse.
+Desde San Francisco, que las recibió en 1224, la Iglesia había reconocido centenares de casos de estigmas, casi todos en monjas y laicos. Ningún sacerdote los había llevado de forma visible. Padre Pío no quería ser el primero. Sabía lo que eso traería consigo: atención, fama, investigaciones, sospechas. Él solo quería ser un fraile capuchino que celebraba misa, oía confesiones y rezaba en su celda hasta morirse.
 
 ---
 
@@ -94,13 +94,13 @@ Padre Pío se envolvió las manos con trapos y se fue a su celda. Quería escond
 
 Las heridas no sanaban. Ni en días, ni en semanas, ni en meses. Sangraban constantemente. Padre Pío usaba guantes de cuero sin dedos para celebrar la misa, pero la sangre los empapaba y goteaba sobre el altar. El olor de la sangre era extraño: no olía a sangre sino a algo dulce, como a flores o a perfume. Muchos testigos lo confirmaron a lo largo de los años. Un médico que examinó las vendas usadas las olió varias veces, las guardó en un frasco y se las llevó a su laboratorio. No publicó ningún informe.
 
-La noticia se supo rápidamente, porque en un pueblo como San Giovanni Rotondo no existían los secretos. Los frailes del convento fueron los primeros en enterarse. Algunos lo miraron con reverencia, como a un santo viviente. Otros lo miraron con desconfianza, como a un posible farsante. El padre guardián del convento informó a los superiores de la orden, que informaron al obispo, que informó al Vaticano.
+La noticia se supo rápidamente, porque en un pueblo como San Giovanni Rotondo no existían los secretos. Los frailes del convento fueron los primeros en enterarse. La mayoría lo miró con reverencia. Unos pocos, con desconfianza. El padre guardián del convento informó a los superiores de la orden, que informaron al obispo, que informó al Vaticano.
 
-Pero mucho antes de que el Vaticano respondiera, la gente ya estaba llegando. Gente de los pueblos cercanos, luego de las ciudades, luego de toda Italia. Querían ver al fraile de las llagas. Querían tocarlo. Querían que los bendijera, que rezara por ellos, que los curara. Hacían cola durante horas frente al convento, bajo el sol o bajo la lluvia, como si Padre Pío fuera una fuente de agua milagrosa en medio del desierto. Algunos se arrodillaban cuando lo veían pasar y besaban el suelo que él había pisado. Otros le arrancaban trozos del hábito como reliquias.
+Pero mucho antes de que el Vaticano respondiera, la gente ya estaba llegando. Gente de los pueblos cercanos, luego de las ciudades, luego de toda Italia. Querían ver al fraile de las llagas. Querían tocarlo. Querían que los bendijera, que rezara por ellos, que los curara. Hacían cola durante horas frente al convento, bajo el sol o bajo la lluvia. Algunos se arrodillaban cuando lo veían pasar y besaban el suelo que él había pisado. Otros le arrancaban trozos del hábito como reliquias.
 
-Padre Pío odiaba todo aquello. Era un hombre que deseaba el silencio y la soledad como un sediento desea el agua, y de pronto su vida se había convertido en un espectáculo. Pero no se quejaba, porque quejarse habría sido cuestionar la voluntad de Dios, y eso era algo que Padre Pío no hacía.
+Padre Pío odiaba todo aquello. Era un hombre hecho para el silencio y la soledad, y de pronto su vida se había convertido en un espectáculo. Pero no se quejaba, porque quejarse habría sido cuestionar la voluntad de Dios, y eso era algo que Padre Pío no hacía.
 
-El Vaticano envió a varios doctores para que examinaran las heridas y determinaran si eran auténticas o autoinfligidas. El primero fue el doctor Luigi Romanelli, que visitó al padre cinco veces entre 1919 y 1920. Su conclusión: las heridas eran reales, no respondían a ninguna patología que él conociera, no mostraban signos de infección a pesar de estar abiertas y no sanaban ni empeoraban. Simplemente estaban ahí, sangrando, como si el tiempo no pasara para ellas.
+El Vaticano envió a varios doctores para que examinaran las heridas y determinaran si eran auténticas o autoinfligidas. El primero fue el doctor Luigi Romanelli, que visitó al padre cinco veces entre 1919 y 1920. Su conclusión: las heridas eran reales, no respondían a ninguna patología que él conociera, no mostraban signos de infección a pesar de estar abiertas y no sanaban ni empeoraban. Simplemente estaban ahí, sangrando, iguales el primer día que el último.
 
 El segundo fue el doctor Amico Bignami, profesor de la Universidad de Roma, que era ateo y no creía en milagros. Examinó las heridas con la frialdad de un científico y concluyó que eran "necrosis superficiales de la piel, probablemente mantenidas por medios químicos, consciente o inconscientemente" — según él, Padre Pío se las producía él mismo. Recomendó que le vendaran las manos con sellos oficiales y que nadie se las tocara durante varios días, para ver si las heridas sanaban cuando él no podía manipularlas.
 
@@ -108,7 +108,7 @@ Le vendaron las manos. Les pusieron sellos. Esperaron. Cuando quitaron las venda
 
 Bignami no se retractó de su diagnóstico. Pero quienes estuvieron presentes cuando quitaron las vendas dijeron que el profesor se quedó un largo rato mirando las heridas sin decir nada, que se quitó las gafas y se frotó los ojos, y que cuando le preguntaron qué pensaba, contestó: "Pienso que necesito un café." Nunca volvió a San Giovanni Rotondo.
 
-No todos en la Iglesia veían con buenos ojos al fraile estigmatizado. Algunos sospechaban que todo era un engaño montado por los capuchinos para atraer peregrinos y dinero. Otros lo consideraban un enfermo o un loco. Y más de un obispo no soportaba que un fraile de pueblo recibiera más atención que toda su diócesis junta.
+No todos en la Iglesia veían con buenos ojos al fraile estigmatizado. Las sospechas iban de lo razonable a lo absurdo: engaño organizado por los capuchinos, enfermedad mental, posesión demoníaca. Y en más de un palacio episcopal hervía un rencor que nadie quería nombrar.
 
 El más peligroso de estos enemigos era el arzobispo Pasquale Gagliardi, de Manfredonia, la diócesis a la que pertenecía San Giovanni Rotondo. Gagliardi era un hombre que había llegado a obispo por méritos y ambición, que administraba su diócesis con mano de hierro y que no toleraba que nada escapara a su control. Y Padre Pío escapaba a su control. Los peregrinos no venían a Manfredonia a ver al arzobispo: venían a San Giovanni Rotondo a ver al fraile. Las donaciones no iban a la diócesis: iban al convento. La gente no hablaba de Gagliardi: hablaba de Padre Pío. Y eso, para un hombre como Gagliardi, era insoportable.
 
@@ -122,7 +122,7 @@ Padre Pío sabía lo que Gagliardi decía de él. Lo sabía y no se defendía.
 
 En 1923, el Santo Oficio — el tribunal del Vaticano encargado de investigar asuntos de fe — emitió un decreto demoledor. Declaró que los hechos atribuidos a Padre Pío "no constaba que fueran de origen sobrenatural" y ordenó a los fieles que dejaran de visitarlo. No lo acusó directamente de fraude, pero tampoco lo defendió. Lo dejó en un limbo que era peor que una condena, porque le quitaba la protección sin darle la oportunidad de defenderse.
 
-Y luego vinieron las restricciones.
+Y luego vinieron las restricciones. Esto hay que decirlo claramente, porque duele.
 
 En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, como un prisionero, aunque no hubiera cometido ningún delito.
 
@@ -130,7 +130,7 @@ Fue la prueba más dura de su vida. Más dura que los estigmas y los ataques del
 
 ¿Qué hizo Padre Pío? Obedeció.
 
-No protestó. No se quejó. No escribió cartas a los periódicos ni organizó campañas de sus seguidores ni amenazó con abandonar la orden. Obedeció en silencio, como un hijo obedece a un padre injusto, porque sabía que la obediencia no es solo para cuando las órdenes son justas. La obediencia verdadera — la obediencia que cuesta, la que vale — es la que se mantiene cuando las órdenes parecen absurdas o crueles.
+No protestó. No se quejó. No escribió cartas a los periódicos ni organizó campañas de sus seguidores ni amenazó con abandonar la orden. Obedeció en silencio.
 
 Durante dos años, Padre Pío vivió encerrado en su celda. Celebraba misa solo, a las cinco de la mañana, en una capilla vacía. Las heridas de sus manos y sus pies y su costado seguían sangrando, indiferentes a los decretos del Vaticano.
 
@@ -138,7 +138,7 @@ Hubo una noche — él se la contó después al padre Agostino — en que estuvo
 
 Los frailes del convento lo trataban con respeto pero con distancia, porque nadie quería que lo vieran demasiado cerca del fraile castigado. Solo uno se atrevía a visitarlo cada día: fray Raffaele da Sant'Elia a Pianisi, un hermano lego bajito y calvo que cantaba canciones napolitanas mientras fregaba los suelos del convento y que le llevaba un plato de sopa por las noches y se sentaba a su lado sin hablar. No hacía falta hablar. Fray Raffaele se quedaba media hora, recogía el plato — a veces vacío, a veces intacto — y se iba. Padre Pío le dijo una vez: "Raffaele, tú eres la prueba de que Dios no me ha abandonado del todo." Fray Raffaele se encogió de hombros y contestó: "Yo solo traigo la sopa, Padre."
 
-En 1933, el papa Pío XI levantó las restricciones. No dio explicaciones, del mismo modo que no las habían dado al imponerlas. Simplemente ordenó que Padre Pío pudiera volver a ejercer su ministerio sacerdotal completo. Algunos dicen que el Papa había recibido informes favorables sobre el fraile. Otros dicen que había tenido un sueño. Otros dicen que la presión popular fue demasiado grande. La verdad es que nadie sabe por qué, y a Padre Pío no le importó el porqué. Le importó el hecho: podía volver a confesar.
+En 1933, el papa Pío XI levantó las restricciones. No dio explicaciones, del mismo modo que no las habían dado al imponerlas. Simplemente ordenó que Padre Pío pudiera volver a ejercer su ministerio sacerdotal completo. Nadie sabe exactamente por qué, y a Padre Pío no le importó el porqué. Le importó el hecho: podía volver a confesar.
 
 Padre Pío confesaba como ningún otro sacerdote. Se sentaba en el confesionario al amanecer y no se levantaba hasta que el último penitente se había ido, lo cual a veces significaba dieciséis o dieciocho horas seguidas. La gente venía de toda Italia, de toda Europa, y más tarde de todo el mundo. Hacían cola durante días. Literalmente días: dormían en las calles de San Giovanni Rotondo, en sacos de dormir, en coches, donde fuera, esperando su turno para confesarse con Padre Pío.
 
@@ -154,7 +154,7 @@ La gente que visitaba a Padre Pío empezó a reportar cosas que no debían ser p
 
 Y había algo más extraño todavía. Personas de distintos países contaron historias asombrosamente similares: estaban en peligro, o enfermos, o a punto de rendirse, y de pronto veían a un fraile capuchino con guantes en las manos que les hablaba, los consolaba, los curaba. Cuando más tarde veían una fotografía de Padre Pío, lo reconocían inmediatamente. Él nunca había salido del convento.
 
-Cuando le preguntaban cómo podía aparecer en lugares donde no estaba, Padre Pío respondía con evasivas o con humor. "¿Y usted cómo sabe que yo no estaba allí?" Nunca la negó abiertamente, pero tampoco la explicó. Algunos frailes que lo conocían bien decían que después de ciertos episodios de bilocación, Padre Pío estaba agotado, como si hubiera corrido una maratón, aunque llevara horas sentado en su celda.
+Cuando le preguntaban cómo podía aparecer en lugares donde no estaba, Padre Pío respondía con evasivas o con humor. "¿Y usted cómo sabe que yo no estaba allí?" Nunca la negó abiertamente, pero tampoco la explicó. Algunos frailes que lo conocían bien decían que después de ciertos episodios de bilocación, Padre Pío estaba agotado, empapado en sudor, aunque llevara horas sentado en su celda.
 
 La Iglesia investigó muchos de estos supuestos milagros. Algunos fueron descartados. Otros hicieron callar a los investigadores. Y unos pocos — los que sobrevivirían a décadas de escrutinio — serían utilizados mucho después para su proceso de canonización.
 
@@ -170,7 +170,7 @@ No lo llevó. Las bombas cayeron a pocos metros del convento sin tocarlo. Los ha
 
 Según varios pilotos aliados — americanos y británicos — cuando volaban sobre San Giovanni Rotondo en misiones de bombardeo, veían en el cielo la figura de un fraile con las manos levantadas, como bloqueándoles el paso. Los aviones no podían acercarse: los instrumentos enloquecían, los motores perdían potencia, las manos de los pilotos giraban el timón sin que ellos supieran por qué. Cuando la guerra terminó y algunos de esos pilotos visitaron San Giovanni Rotondo por curiosidad, reconocieron a Padre Pío como el fraile que habían visto en el cielo.
 
-Las historias de guerra se mezclan con la leyenda, y esta puede ser una de ellas. Lo que sí es verdad es que San Giovanni Rotondo sobrevivió a la guerra prácticamente intacto, lo cual, dada su posición estratégica en las montañas del Gargano, fue cuando menos notable.
+San Giovanni Rotondo sobrevivió a la guerra prácticamente intacto.
 
 Grazio Forgione murió en 1946, pocos meses después de que terminara la guerra. María Giuseppa lo había cuidado hasta el final en Pietrelcina, sola, sin quejarse, como hacía todo. Padre Pío celebró la misa por su padre en la misma iglesia donde cada mañana celebraba la misa por todos. No pidió ningún trato especial. Solo que esa mañana tardó más de lo habitual en la consagración, y que cuando levantó la hostia, las manos le temblaron más que de costumbre. María Giuseppa sobrevivió a su marido tres años. Murió en 1949 sin haber vuelto a ver a su hijo. Padre Pío no pudo ir al funeral — los superiores no se lo permitieron — pero fray Raffaele, que para entonces llevaba veinte años trayéndole la sopa, dijo que aquella semana el plato volvió intacto todas las noches.
 
@@ -178,7 +178,7 @@ Italia estaba destruida. Los pueblos del sur, siempre los más pobres, eran ahor
 
 En 1947, con la ayuda de un médico llamado Guglielmo Sanguinetti — un hombre práctico que hablaba poco y resolvía mucho, y que cuando Padre Pío le describió el hospital que quería construir, no le dijo que estaba loco sino que sacó un lápiz y empezó a dibujar planos en una servilleta — y con donaciones que llegaban de todo el mundo — muchas de ellas enviadas por personas que afirmaban haber sido curadas por las oraciones de Padre Pío — se puso la primera piedra de la Casa Sollievo della Sofferenza: la Casa del Alivio del Sufrimiento.
 
-Era un proyecto absurdo. Un fraile que no tenía un céntimo, en un pueblo perdido en las montañas del sur de Italia, quería construir un hospital moderno, con los mejores equipos y los mejores médicos, donde los pobres fueran atendidos gratis. Los que lo conocían bien decían que estaba loco. Los que no lo conocían decían que era un estafador que recaudaba dinero para su propia gloria.
+Era un proyecto absurdo. Un fraile que no tenía un céntimo, en un pueblo perdido en las montañas del sur de Italia, quería construir un hospital moderno, con los mejores equipos y los mejores médicos, donde los pobres fueran atendidos gratis. Todo el mundo decía que estaba loco.
 
 Padre Pío no era ni loco ni estafador. Era un hombre que creía que la caridad no podía quedarse en las palabras ni en las oraciones. "Reza como si todo dependiera de Dios," decía, "y trabaja como si todo dependiera de ti." Y trabajó. Durante años supervisó la construcción del hospital, negoció con arquitectos y proveedores, escribió cartas pidiendo donaciones, revisó planos, discutió presupuestos. Todo esto mientras seguía celebrando misa a las cinco de la madrugada, confesando durante dieciséis horas al día y sufriendo los dolores de los estigmas y los ataques nocturnos del demonio.
 
@@ -212,7 +212,7 @@ El año 1968 fue el último. Padre Pío lo sabía. No porque tuviera una revelac
 
 El veinte de septiembre de 1968 se cumplían cincuenta años exactos de los estigmas, pero Padre Pío estaba demasiado débil para celebrar misa ese día. Dos días después, el veintidós de septiembre, celebró su última misa solemne. Apenas podía mantenerse de pie. Dos frailes lo sostenían por los brazos. Su voz, que en otros tiempos retumbaba en la iglesia como un trueno, era ahora un hilo apenas audible. Pero celebró la misa entera, palabra por palabra, gesto por gesto, sin saltarse nada, sin abreviar nada. Cuando levantó la hostia en la consagración, las manos le temblaban tanto que parecía que la iba a dejar caer. No la dejó caer.
 
-Después de la misa, se retiró a su celda. Los frailes que lo acompañaron notaron algo extraño: las heridas de los estigmas estaban desapareciendo. No de golpe, sino lentamente, como si la piel se estuviera cerrando por primera vez en medio siglo. Las costras cayeron, la sangre se secó, las llagas se convirtieron en piel nueva, rosada, sin cicatriz. Como si nunca hubieran existido.
+Después de la misa, se retiró a su celda. Los frailes que lo acompañaron notaron algo extraño: las heridas de los estigmas estaban desapareciendo. No de golpe, sino lentamente, como si la piel se estuviera cerrando por primera vez en medio siglo. Las costras cayeron, la sangre se secó, las llagas se convirtieron en piel nueva, rosada, sin cicatriz.
 
 ---
 
@@ -222,11 +222,11 @@ La madrugada del veintitrés de septiembre de 1968, a las dos y media de la mañ
 
 Estaba sentado en un sillón de su celda, con el rosario entre los dedos. Sus últimas palabras fueron "Gesù... Maria..." — Jesús, María — las mismas palabras que los católicos rezan al final de cada avemaría. Murió como había vivido: rezando.
 
-Tenía ochenta y un años. Había llevado los estigmas durante medio siglo. Y ahora las llagas se habían ido con él, como si ya no hicieran falta.
+Tenía ochenta y un años. Había llevado los estigmas durante medio siglo. Y ahora las llagas se habían ido con él.
 
 Cuando lo prepararon para el funeral, confirmaron lo que los frailes habían notado la noche anterior: los estigmas habían desaparecido por completo. En sus manos, donde durante medio siglo habían estado aquellas llagas terribles, solo quedaba piel lisa, nueva, perfecta. Como si las heridas, habiendo cumplido su propósito, se hubieran ido con él.
 
-Cien mil personas asistieron a su funeral. Cien mil personas en un pueblo que normalmente tenía cinco mil habitantes. Vinieron en autobuses, en coches, en burros, a pie. Llenaron las calles, las plazas, los campos alrededor del pueblo. Muchos lloraban. Algunos rezaban en voz alta. Otros simplemente estaban allí, en silencio, como si la presencia fuera suficiente.
+Cien mil personas asistieron a su funeral. Cien mil personas en un pueblo que normalmente tenía cinco mil habitantes. Vinieron en autobuses, en coches, en burros, a pie. Llenaron las calles, las plazas, los campos alrededor del pueblo. La mayoría lloraba. El resto estaba en silencio, apretados unos contra otros, sin saber bien por qué habían venido ni qué esperaban encontrar.
 
 Su cuerpo fue enterrado en una cripta bajo la iglesia del convento. Y allí empezó la espera.
 
@@ -247,10 +247,6 @@ En San Giovanni Rotondo hay hoy una iglesia nueva, enorme, diseñada por el arqu
 El cuerpo de Padre Pío fue exhumado en 2008 y colocado en una urna de cristal en la cripta de la iglesia nueva, donde los fieles pueden verlo. Su rostro está cubierto por una máscara de silicona, porque después de cuarenta años bajo tierra la descomposición hizo lo suyo. Pero sus manos están al descubierto, y quienes las ven dicen que parecen las manos de un hombre dormido, no de un hombre muerto hace décadas.
 
 La Casa Sollievo della Sofferenza sigue funcionando. El confesionario donde Padre Pío pasó miles de horas sigue en su lugar, como una reliquia. Los guantes manchados de sangre están en un museo del convento. Las cartas que escribió — cientos de ellas — han sido publicadas y traducidas a decenas de idiomas.
-
-Reza. Sufre. Obedece. Ama.
-
-Eso hizo Padre Pío. No porque fuera fácil ni porque nunca dudara — ya sabemos que dudaba, que le temblaban las manos y que una noche en la capilla vacía estuvo a punto de dejarlo todo. Lo hizo porque cada mañana, cuando el dolor de las llagas lo despertaba antes de que sonara la campana, elegía levantarse y bajar a la iglesia a celebrar misa. Y al día siguiente volvía a elegir. Y al siguiente.
 
 En algún lugar del convento de San Giovanni Rotondo, fray Raffaele sigue trayendo la sopa.
 
