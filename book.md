@@ -32,7 +32,7 @@ Grazio hizo algo que muchos padres italianos de aquella época hacían cuando ne
 
 Es difícil imaginar lo que significaba aquello en 1898: un hombre que apenas había salido de su pueblo, que no hablaba ni una palabra de inglés, que nunca había visto el mar, se subía a un barco y cruzaba el Atlántico para que su hijo pudiera cumplir su vocación. En América, Grazio dormía en barracones con otros italianos, cavaba zanjas desde el amanecer hasta el anochecer, comía lo que había, y cada mes mandaba a casa casi todo lo que ganaba. No se quejaba en las cartas que dictaba a un compañero que sabía escribir. Solo preguntaba por los niños, por la cosecha, por la salud de María Giuseppa. Y al final de cada carta, siempre lo mismo: "Dile a Francesquillo que rece por mí."
 
-Con el dinero que su padre enviaba desde América, Francesco empezó a recibir clases particulares de un maestro del pueblo, don Domenico Tizzani. Aprendió a leer y escribir, estudió gramática y aritmética y algo de latín. Era un estudiante mediocre en todo lo que no tuviera que ver con la religión y brillante en todo lo que sí. Devoraba las vidas de los santos como otros niños devoran cuentos de aventuras. Su favorito era San Francisco de Asís, cuyo nombre llevaba y cuya orden soñaba con ingresar.
+Con el dinero que su padre enviaba desde América, Francesco empezó a recibir clases particulares de un maestro del pueblo, don Domenico Tizzani, un hombre seco y paciente que olía a tabaco y a tinta. "Francesco, ¿cuánto es siete por ocho?" "No sé, don Domenico." "¿Y las cinco llagas de Cristo, cuáles son?" "Manos, pies y costado." "Eso sí te lo sabes. Pues a ver si le pones a las matemáticas la mitad de la atención que le pones a los santos." Era un estudiante mediocre en todo lo que no tuviera que ver con la religión y brillante en todo lo que sí. Devoraba las vidas de los santos como otros niños devoran cuentos de aventuras. Su favorito era San Francisco de Asís, cuyo nombre llevaba y cuya orden soñaba con ingresar.
 
 El seis de enero de 1903, a los quince años, Francesco Forgione entró como novicio en el convento de los frailes capuchinos de Morcone. Su madre lo acompañó hasta la puerta y empezó a llorar antes de llegar, delante de los otros novicios, delante del padre guardián, delante de todo el mundo, porque María Giuseppa era muchas cosas pero no era una mujer que supiera esconder lo que sentía. Le dijo entre hipos: "Reza por tu padre, que está solo." Francesco asintió. Grazio había vuelto de su primer viaje a América en 1903, a tiempo para ver a su hijo entrar en el convento, pero pronto tendría que volver a marcharse.
 
@@ -98,7 +98,7 @@ La noticia se supo rápidamente, porque en un pueblo como San Giovanni Rotondo n
 
 Pero mucho antes de que el Vaticano respondiera, la gente ya estaba llegando. Gente de los pueblos cercanos, luego de las ciudades, luego de toda Italia. Querían ver al fraile de las llagas. Querían tocarlo. Querían que los bendijera, que rezara por ellos, que los curara. Hacían cola durante horas frente al convento, bajo el sol o bajo la lluvia. Algunos se arrodillaban cuando lo veían pasar y besaban el suelo que él había pisado. Otros le arrancaban trozos del hábito como reliquias.
 
-Padre Pío odiaba todo aquello. Era un hombre hecho para el silencio y la soledad, y de pronto su vida se había convertido en un espectáculo. Pero no se quejaba, porque quejarse habría sido cuestionar la voluntad de Dios, y eso era algo que Padre Pío no hacía.
+Padre Pío se echaba la capucha sobre la cara cuando cruzaba el patio y los peregrinos lo llamaban a gritos. Un hombre hecho para el silencio y la soledad, y de pronto su vida se había convertido en un espectáculo. Pero no se quejaba, porque quejarse habría sido cuestionar la voluntad de Dios, y eso era algo que Padre Pío no hacía.
 
 El Vaticano envió doctores. El primero, Luigi Romanelli, visitó al padre cinco veces y no pudo explicar lo que veía. El segundo fue más interesante.
 
@@ -136,7 +136,7 @@ Fue la prueba más dura de su vida. Más dura que los estigmas y los ataques del
 
 No protestó. No se quejó. No escribió cartas a los periódicos ni organizó campañas de sus seguidores ni amenazó con abandonar la orden. Obedeció en silencio.
 
-Durante dos años, Padre Pío vivió encerrado en su celda. Celebraba misa solo, a las cinco de la mañana, en una capilla vacía. Las heridas de sus manos y sus pies y su costado seguían sangrando, indiferentes a los decretos del Vaticano.
+Durante dos años, Padre Pío vivió encerrado en su celda. El suelo era de piedra fría, y en invierno se le entumecían las rodillas de tanto rezar arrodillado. Celebraba misa solo, a las cinco de la mañana, en una capilla vacía donde el eco de su propia voz le devolvía las palabras. Las heridas de sus manos y sus pies y su costado seguían sangrando, indiferentes a los decretos del Vaticano. La sangre seca se acumulaba en las grietas del reclinatorio de madera.
 
 Hubo una noche — él se la contó después al padre Agostino — en que estuvo a punto de quebrarse. Estaba arrodillado en la capilla a oscuras, con las manos apoyadas en el reclinatorio y la sangre goteando sobre la madera como siempre, y de pronto le vino una rabia tan intensa que le sorprendió a él mismo. Quiso levantarse, quiso escribir una carta, quiso gritar. Apretó los puños — y el dolor de las llagas al cerrarse le atravesó los brazos como un latigazo. Se quedó quieto. Respiró. Y en vez de la carta que quería escribir, rezó un avemaría. Y luego otra. Y otra más, hasta que la rabia se fue apagando — la vieja brasa otra vez, pero al revés, enfriándose en lugar de arder.
 
@@ -158,7 +158,7 @@ La gente que visitaba a Padre Pío empezó a reportar cosas que no debían ser p
 
 Y había algo más extraño todavía. Personas de distintos países contaron historias asombrosamente similares: estaban en peligro, o enfermos, o a punto de rendirse, y de pronto veían a un fraile capuchino con guantes en las manos que les hablaba, los consolaba, los curaba. Cuando más tarde veían una fotografía de Padre Pío, lo reconocían inmediatamente. Él nunca había salido del convento.
 
-Cuando le preguntaban cómo podía aparecer en lugares donde no estaba, Padre Pío respondía con evasivas o con humor. "¿Y usted cómo sabe que yo no estaba allí?" Nunca la negó abiertamente, pero tampoco la explicó. Algunos frailes que lo conocían bien decían que después de ciertos episodios de bilocación, Padre Pío estaba agotado, empapado en sudor, aunque llevara horas sentado en su celda.
+Cuando le preguntaban cómo podía aparecer en lugares donde no estaba, Padre Pío respondía con evasivas o con humor. "¿Y usted cómo sabe que yo no estaba allí?" Nunca la negó abiertamente, pero tampoco la explicó. Después de esos episodios, Padre Pío estaba agotado, empapado en sudor, aunque llevara horas sentado en su celda.
 
 La Iglesia investigó muchos de estos supuestos milagros. Algunos fueron descartados. Otros hicieron callar a los investigadores. Y unos pocos — los que sobrevivirían a décadas de escrutinio — serían utilizados mucho después para su proceso de canonización.
 
@@ -180,7 +180,7 @@ María Giuseppa había muerto en 1929, años antes de la guerra. En sus últimos
 
 Italia estaba destruida. Los pueblos del sur, siempre los más pobres, eran ahora los más pobres entre los pobres. La gente pasaba hambre, los heridos no tenían hospitales, los huérfanos no tenían hogares. Padre Pío miró a su alrededor y decidió que rezar no era suficiente. Había que hacer algo concreto.
 
-En 1947, con la ayuda de un médico llamado Guglielmo Sanguinetti — un hombre práctico que hablaba poco y resolvía mucho, y que cuando Padre Pío le describió el hospital que quería construir, no le dijo que estaba loco sino que sacó un lápiz y empezó a dibujar planos en una servilleta — y con donaciones que llegaban de todo el mundo — muchas de ellas enviadas por personas que afirmaban haber sido curadas por las oraciones de Padre Pío — se puso la primera piedra de la Casa Sollievo della Sofferenza: la Casa del Alivio del Sufrimiento.
+En 1947, con la ayuda de un médico llamado Guglielmo Sanguinetti — un hombre práctico que hablaba poco y resolvía mucho. Cuando Padre Pío le describió el hospital que quería construir, Sanguinetti sacó un lápiz y empezó a dibujar en una servilleta. "¿Cuántas camas?" preguntó. "Las que hagan falta." "¿Dinero?" "No tengo." "¿Terreno?" "Tampoco." Sanguinetti siguió dibujando. "¿Y cuándo quiere empezar?" "Ayer," dijo Padre Pío. Las manos vendadas le dejaron unas manchas rosadas en la servilleta mientras señalaba dónde quería los quirófanos — y con donaciones que llegaban de todo el mundo — muchas de ellas enviadas por personas que afirmaban haber sido curadas por las oraciones de Padre Pío — se puso la primera piedra de la Casa Sollievo della Sofferenza: la Casa del Alivio del Sufrimiento.
 
 Era un proyecto absurdo. Un fraile que no tenía un céntimo, en un pueblo perdido en las montañas del sur de Italia, quería construir un hospital moderno, con los mejores equipos y los mejores médicos, donde los pobres fueran atendidos gratis. Todo el mundo decía que estaba loco.
 
@@ -188,7 +188,7 @@ Padre Pío no era ni loco ni estafador. Era un hombre que creía que la caridad 
 
 La Casa Sollievo della Sofferenza abrió sus puertas el cinco de mayo de 1956. No era un hospital cualquiera: era uno de los mejores de todo el sur de Italia, con doscientas cincuenta camas, quirófanos modernos y laboratorios equipados con lo último en tecnología médica. Y, tal como Padre Pío había exigido, los pobres eran atendidos sin pagar un centavo.
 
-El día de la inauguración, Padre Pío se asomó a una ventana del convento y vio la enorme multitud que se había reunido frente al hospital. Dicen que sonrió — una de sus raras sonrisas sin tristeza — y dijo: "Esta es la criatura de la Providencia." No dijo "mi hospital" ni "mi obra." La Providencia. Como si él no hubiera tenido nada que ver.
+El día de la inauguración, Padre Pío se asomó a una ventana del convento y vio la enorme multitud que se había reunido frente al hospital. Sonrió — una de sus raras sonrisas sin tristeza — y dijo: "Esta es la criatura de la Providencia." No dijo "mi hospital" ni "mi obra." La Providencia. Como si él no hubiera tenido nada que ver.
 
 Hoy, la Casa Sollievo della Sofferenza sigue funcionando. Tiene más de mil camas y atiende a cientos de miles de pacientes cada año. En la entrada hay una estatua de Padre Pío con las manos abiertas. Los pacientes pasan por delante sin mirarla. Huele a desinfectante y a café de máquina.
 
@@ -206,7 +206,7 @@ En 1963 murió el padre Agostino, el hombre al que Padre Pío le había confiado
 
 Los años sesenta trajeron también cambios enormes a la Iglesia Católica. El Concilio Vaticano II, anunciado por el papa Juan XXIII en 1959 y abierto en 1962, reformó la liturgia, abrió diálogos con otras religiones y modernizó muchas prácticas que llevaban siglos sin cambiar. La misa, que siempre se había celebrado en latín con el sacerdote de espaldas al pueblo, pasó a celebrarse en la lengua de cada país con el sacerdote mirando a los fieles.
 
-Padre Pío recibió las noticias del Concilio con angustia. Amaba la misa en latín como un músico ama su instrumento. Cada palabra, cada gesto, cada silencio de la antigua liturgia tenía para él un significado que había tardado toda la vida en comprender. Cuando los cambios litúrgicos empezaron a aplicarse en algunas parroquias, Padre Pío escribió personalmente al papa Pablo VI pidiéndole una dispensa para seguir celebrando la misa antigua. El Papa se la concedió. Fue uno de los poquísimos sacerdotes en el mundo que obtuvo ese permiso.
+Cuando Padre Pío se enteró de los cambios, lo encontraron en la sacristía acariciando el viejo misal romano con las manos vendadas, pasando las páginas como quien se despide. Amaba la misa en latín como un músico ama su instrumento. Cada palabra, cada gesto, cada silencio de la antigua liturgia tenía para él un significado que había tardado toda la vida en comprender. Cuando los cambios litúrgicos empezaron a aplicarse en algunas parroquias, Padre Pío escribió personalmente al papa Pablo VI pidiéndole una dispensa para seguir celebrando la misa antigua. El Papa se la concedió. Fue uno de los poquísimos sacerdotes en el mundo que obtuvo ese permiso.
 
 No fue un acto de rebeldía. Fue un acto de honestidad dentro de la obediencia: pidió permiso, lo recibió, y siguió celebrando en latín hasta el último día de su vida. La nueva misa entraría en vigor meses después de su muerte. Nunca llegó a celebrarla.
 
@@ -248,7 +248,7 @@ Francesco Forgione, de Pietrelcina, era ahora San Pío de Pietrelcina.
 
 En San Giovanni Rotondo hay hoy una iglesia nueva, enorme, diseñada por el arquitecto Renzo Piano, que puede albergar a seis mil quinientas personas sentadas y treinta mil de pie en las explanadas. Se construyó porque la vieja iglesia del convento ya no podía contener a los millones de peregrinos que visitan la tumba de Padre Pío cada año. Es el segundo santuario más visitado del mundo católico, después de la Basílica de Nuestra Señora de Guadalupe en México.
 
-El cuerpo de Padre Pío fue exhumado en 2008 y colocado en una urna de cristal en la cripta de la iglesia nueva, donde los fieles pueden verlo. Su rostro está cubierto por una máscara de silicona, porque después de cuarenta años bajo tierra la descomposición hizo lo suyo. Pero sus manos están al descubierto, y quienes las ven dicen que parecen las manos de un hombre dormido, no de un hombre muerto hace décadas.
+El cuerpo de Padre Pío fue exhumado en 2008 y colocado en una urna de cristal en la cripta de la iglesia nueva, donde los fieles pueden verlo. Su rostro está cubierto por una máscara de silicona, porque después de cuarenta años bajo tierra la descomposición hizo lo suyo. Pero sus manos están al descubierto, y parecen las manos de un hombre dormido, no de un hombre muerto hace décadas.
 
 La Casa Sollievo della Sofferenza sigue funcionando. El confesionario donde Padre Pío pasó miles de horas sigue en su lugar, como una reliquia. Los guantes manchados de sangre están en un museo del convento. Las cartas que escribió — cientos de ellas — han sido publicadas y traducidas a decenas de idiomas.
 
