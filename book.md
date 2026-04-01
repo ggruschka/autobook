@@ -4,7 +4,7 @@ Hubo una vez, en un tiempo que ya nadie recuerda pero que todos conocen, un niñ
 
 En una de aquellas casas vivían dos hermanos. El mayor se llamaba Guille. Era un niño flaco, de pelo castaño rizado y corto, con ojos marrones que siempre parecían estar pensando en algo. La menor era Isa, su hermana, que tenía el cabello rubio como el oro hilado, los ojos verdes como las hojas de mayo y la piel pálida, tan blanca que su madre decía que parecía hecha de la misma cera de las velas que encendía ante la imagen de la Virgen. Si Isa decidía algo, no había fuerza en el mundo que la hiciera cambiar de opinión. Su madre decía que había nacido con la mandíbula apretada.
 
-Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz era ya el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando como un reloj de arena.
+Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz era ya el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando día a día.
 
 Una noche, mientras Isa dormía junto a la cama de su madre, Guille se sentó ante el fuego que se moría en la chimenea. Quedaban tres leños y medio saco de harina. Nada más.
 
@@ -142,13 +142,13 @@ Del otro lado no había un salón ni una forja. Había un camino de tierra entre
 
 Cuando llegó al final, encontró una capilla pequeña, de piedra vieja, con una ventana redonda por la que salía la luz de una vela. La puerta estaba abierta.
 
-Dentro, la capilla era simple: un suelo de losas gastadas que olía a piedra húmeda, un altar de madera con un mantel blanco, y sobre el altar una vela gruesa que ardía con una llama quieta y dorada. En algún lugar goteaba agua, despacio, gota a gota.
+Dentro, la capilla era simple: un suelo de losas gastadas que olía a piedra húmeda, un altar de madera con un mantel blanco que tenía una mancha de vino viejo en una esquina, y sobre el altar una vela gruesa que ardía con una llama quieta y dorada. En algún lugar goteaba agua, despacio, gota a gota.
 
 Junto al altar, arrodillado, había un hombre viejo. Tenía el pelo blanco y una barba larga, y vestía un hábito marrón de tela basta, atado con una cuerda. Sobre el hombro llevaba una estola gastada. Estaba remendando el mantel del altar con una aguja y un hilo grueso, y cuando Guille entró dejó la aguja a un lado con cuidado, como si también el mantel fuera algo sagrado.
 
 —Has rechazado la mesa y la forja —dijo—. ¿Qué buscas aquí, hijo?
 
-—Busco algo para salvar a mi madre —dijo Guille—. Pero no tengo nada que dar.
+—Busco algo para salvar a mi madre —contestó Guille—. Pero no tengo nada que dar.
 
 El viejo se levantó despacio. Sus ojos eran claros, del color del agua en invierno, y miraban a Guille con una atención tranquila.
 
@@ -320,9 +320,9 @@ Isa asintió despacio.
 
 —Aquella noche —dijo—. La noche que fuiste al bosque. Alguien llamó a la puerta. Me ofreció una medicina. Yo no abrí. —Se quedó callada un momento—. A veces me pregunto si hice bien.
 
-—Hiciste bien —dijo Guille.
+—Hiciste bien —respondió Guille.
 
-—Sí —dijo Isa—. Pero a veces todavía me cuesta.
+—Sí —susurró Isa—. Pero a veces todavía me cuesta.
 
 Los dos hermanos se quedaron mirando la vela, como habían hecho de niños, rezando mientras la noche se convertía en mañana.
 
