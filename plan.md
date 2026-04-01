@@ -1,136 +1,134 @@
-# Revision Plan — Iteration 2
+# Revision Plan — Iteration 3
 
-## Trends from Iteration 1
-- **Fixed**: máquina anachronism, hermit speech, explicit moral glosses, candle simile collision, mechanical parallelism in growing-up, return journey asymmetry, tempter differentiation (partially), neighbor friction
-- **Persisted**: Isa not true co-protagonist (WORSE — now 7.0), two refusals too parallel in psychology, bird-cage circular simile, epilogue time-skip issues
-- **New issues introduced**: grammar error "Isa le pareció", "piedras de río" repeated, Guille's lie unexamined, molinero breaks litany rhythm, door-disappearance inconsistency, POV shift lacks bridge, opening doesn't introduce character immediately, Isa interlude too late
+## Trends
+- **Iteration 1→2**: Characters improved +1.0 (Isa's trial worked), craft +0.2, authenticity +0.2
+- **Regressions**: Theologian -1.3 (prayer metaphor, hermit phrasing, candle nature), structure -0.2 (bruised pear, epilogue recap), values -0.1 (narrator moral statements)
+- **Stagnant**: Prose at 8.8 for 2 iterations
 
-## Master Deduction List
+## Master Deduction List (36 total deductions across 8 graders)
 
-### Prose (8.8) — 6 deductions
-1. [-0.2] Grammar: "Isa le pareció" → needs "a Isa le pareció"
-2. [-0.2] Circular bird-cage simile
-3. [-0.2] "como las cuentas de un rosario" — borderline cliché
-4. [-0.2] "fuego muerto" → "fuego apagado"
-5. [-0.2] "piedras de río" used twice for same character
-6. [-0.2] "quieta y dorada y fiel" repeated — vary first occurrence
+### Critical — Theologian (8.5, dropped from 9.8)
+1. [-0.5] Mother's prayer metaphor "respiración del alma" — reduces prayer to involuntary
+2. [-0.5] Hermit's "lo que no es tuyo sino de Dios" — imprecise on faculty ownership
+3. [-0.5] Candle's perpetual nature under-explained sacramentally
 
-### Craft (8.5) — 5 deductions
-1. [-0.3] Return journey still needs more sensory grounding
-2. [-0.3] Years-passing section tells routines, needs vivid vignette
-3. [-0.3] Mother's death — "se fue" too abstract at charged moment
-4. [-0.3] Opening campana setup with no payoff
-5. [-0.3] Caged-birds simile circular
+### High Priority — Structure (8.2)
+4. [-0.4] Epilogue dialogue recaps what reader already saw
+5. [-0.4] Time passage to death needs intermediary beat
+6. [-0.3] Isa's trial structurally lighter than Guille's two
+7. [-0.3] Community cascade reads as list not scene
+8. [-0.2] Bruised pear — planted, never paid off
+9. [-0.2] Door numbering order confusion
 
-### Structure (8.4) — 5 deductions
-1. [-0.4] Epilogue compresses 4 temporal phases — mother's death needs own section break
-2. [-0.3] Door-disappearance mechanics inconsistent
-3. [-0.3] Molinero breaks litany rhythm
-4. [-0.3] POV shift to Isa lacks narrator bridge
-5. [-0.3] Opening predictability
+### High Priority — Authenticity (8.2)
+10. [-0.4] "quieta y dorada" 3x — vary motif
+11. [-0.3] "rechazaron lo fácil" — narrator explains theme
+12. [-0.3] Simile density metronomic (~25+ "como")
+13. [-0.3] Emotional arc too perfectly calibrated
+14. [-0.3] Village-helping template-identical
+15. [-0.2] "como si" 10x
 
-### Characters (7.0) — 4 deductions
-1. [-1.2] Isa has no trial/test with real stakes (co-protagonist requirement)
-2. [-0.8] Guille's arc loses depth in final third
-3. [-0.5] Mother never speaks in present action
-4. [-0.5] Isa only interviews in epilogue, no own perspective
+### Medium — Craft (8.7)
+16. [-0.4] Post-climax pacing too compressed
+17. [-0.3] Meta-narrator "lo que pasó después..." intrusion
+18. [-0.3] Over-explains after mother's remembered voice
+19. [-0.2] Return journey thin
+20. [-0.1] Forge needs more sustained heat
 
-### Audience (8.5) — 4 deductions
-1. [-0.5] Second trial too similar to first
-2. [-0.4] Epilogue time-skip disorienting for 5yo
-3. [-0.3] Opening dense before character introduced
-4. [-0.3] Isa interlude arrives too late
+### Medium — Characters (8.0)
+21. [-0.8] Isa's trial still lighter than Guille's
+22. [-0.5] Guille's forge refusal too certain
+23. [-0.4] Two antagonists functionally identical
+24. [-0.3] Isa's visitor not linked to Woman sensorially
 
-### Values (9.5) — 2 deductions
-1. [-0.3] Guille's lie unexamined
-2. [-0.2] Temperance only shown as refusal, not daily moderation
+### Medium — Audience (8.4)
+25. [-0.4] Time-skip loses 5yo
+26. [-0.3] Mother's death transition jarring
+27. [-0.3] Elderly epilogue adult register
+28. [-0.3] Food list + bruised pear
+29. [-0.3] Forge too similar to feast
 
-### Authenticity (8.0) — 7 deductions
-1. [-0.3] Two refusals follow identical internal arc
-2. [-0.3] Stock similes (silk, blood)
-3. [-0.3] Final paragraph triple negation too tidy
-4. [-0.3] "necesidad/miedo/amor" — too epigrammatic
-5. [-0.2] Feast description too orderly — needs discordant detail
-6. [-0.2] Chapel defined by negations — needs positive sensory detail
-7. [-0.4] Three doors equally weighted — should compress forge
+### Lower — Prose (8.8)
+30. [-0.2] Bruised pear
+31. [-0.2] "quieta" 4x
+32. [-0.3] Stock similes clustering
+33. [-0.2] "su voz era a la vez alivio y reproche" awkward
+34. [-0.15] "cómo iba esto" register break
+35. [-0.15] Time-skip transition thin
 
-### Theologian (9.8) — 1 deduction
-1. [-0.2] Guille's lie not morally corrected
+### Lower — Values (9.4)
+36. [-0.2] "rechazaron lo fácil" narrator states moral
+37. [-0.2] "Hay cosas que no hay que entender" second narrator moral
+38. [-0.2] Lie shame doubled (internal + external)
 
 ## Planned Edits
 
-### Edit 1: Give Isa her own temptation/trial at the house [HIGHEST PRIORITY]
-**Resolves**: characters[1] (-1.2), characters[4] (-0.5 partial), audience[4] (-0.3 partial)
-While Guille is in the forest, a figure visits the house — a woman (perhaps the same enchantress, perhaps another) who offers to cure the mother in exchange for something from Isa. Isa must make her own choice. This gives her a real test with stakes, making her a true co-protagonist. Place this between Isa tending to her mother and Guille's return, giving her agency and a parallel arc.
+### Edit 1: Fix theologian — prayer metaphor [CRITICAL]
+**Resolves**: theologian[1]
+Replace "La oración es la respiración del alma, Guille. Sin ella, te ahogas por dentro, aunque por fuera parezcas vivo" with "La oración es hablar con Dios, Guille. Sin hablar con Él, el alma se queda sola, aunque esté rodeada de gente." This preserves prayer's intellectual/voluntary nature per Aquinas.
 
-### Edit 2: Move a glimpse of Isa earlier — between doors
-**Resolves**: audience[4] (-0.3)
-Add a brief 1-2 sentence interlude between door 2 and door 1, showing Isa waking. This establishes the parallel thread early so the full Isa scene later doesn't feel like a restart.
+### Edit 2: Fix theologian — hermit's phrasing [CRITICAL]
+**Resolves**: theologian[2]
+Replace "Te pidieron que vendieras lo que no es tuyo sino de Dios" with "Te pidieron que renunciaras a lo que Dios te dio para que pudieras servirle." Clarifies ordering-to-God rather than divine ownership.
 
-### Edit 3: Give the mother one line of dialogue before Guille leaves
-**Resolves**: characters[3] (-0.5)
-The mother wakes briefly, says Guille's name or a short phrase, giving her a presence as a person rather than a symbol.
+### Edit 3: Fix theologian — anchor candle sacramentally [CRITICAL]
+**Resolves**: theologian[3]
+Add detail that the hermit took the candle from the altar and blessed it before giving it to Guille. Brief, natural, grounds it in sacramental theology.
 
-### Edit 4: Compress the forge scene ~30% and vary refusal psychology
-**Resolves**: authenticity[1] (-0.3), authenticity[7] (-0.4), audience[1] (-0.5)
-Make the forge encounter faster, more decisive. Guille has already learned from the first door — his refusal comes quicker, with anger rather than hesitation. Different emotional shape. Cut descriptive padding. Net reduction ~150 words.
+### Edit 4: Pay off the bruised pear
+**Resolves**: prose[30], structure[8], audience[28]
+When Guille refuses and the door closes, have the feast begin rotting — the pear's bruise was a sign. Or: as he says no, the food begins to lose its color and smell.
 
-### Edit 5: Add shame for Guille's lie
-**Resolves**: values[1] (-0.3), theologian[1] (-0.2)
-After "mintió Guille" add a brief interior reaction: the words tasted wrong, or he felt heat in his cheeks.
+### Edit 5: Cut narrator-explains-theme sentences
+**Resolves**: authenticity[11], values[36,37]
+- Cut "rechazaron lo fácil y eligieron lo difícil" — replace with sensory bridge
+- Cut or fold "Hay cosas que no hay que entender, solo cuidar" into Guille's thoughts
 
-### Edit 6: Fix grammar and repeated similes
-**Resolves**: prose[1,2,4,5,6]
-- "Isa le pareció" → "a Isa le pareció"
-- Bird-cage: "como oraciones dichas a medias" (ties to prayer motif)
-- "fuego muerto" → "fuego apagado"
-- Woman's eyes: "duros como pedernal" instead of "piedras de río"
-- First "quieta y dorada y fiel" → "quieta y dorada y firme"
+### Edit 6: Cut meta-narrator aside + over-explanation in banquet
+**Resolves**: craft[17,18], authenticity[11]
+- "lo que pasó después es lo que siempre pasa..." → enter resolution through action
+- Cut "Si le daba su voz... nunca más podría rezar/llamar" — go straight to hand withdrawal
 
-### Edit 7: Replace stock similes
-**Resolves**: authenticity[2] (-0.3), prose[3] partial
-- "suave como la seda" → something from this story's world
-- "sangre fresca" → more unexpected (acebo berries, etc.)
-- "como las cuentas de un rosario" → fresher comparison or leave (thematically earned)
+### Edit 7: Vary "quieta y dorada" motif + reduce simile density
+**Resolves**: prose[31], authenticity[10,12,15]
+- Vary candle description: "quieta y dorada" → "firme y dorada" or describe through warmth/weight in one instance
+- Cut 5-6 weaker "como" similes throughout
+- Convert 3 "como si" to plain metaphor or direct statement
 
-### Edit 8: Cut epigrammatic line and add discordant/sensory details
-**Resolves**: authenticity[4] (-0.3), authenticity[5] (-0.2), authenticity[6] (-0.2)
-- "la necesidad es más fuerte que el miedo, y el amor es más fuerte que la necesidad" → replace with concrete Guille experience
-- Feast: add one imperfect detail (drip of grease, a bruised fruit)
-- Chapel: add one positive sensory detail (cold stone smell, water dripping)
+### Edit 8: Make forge harder + link Isa's visitor to Woman
+**Resolves**: characters[22,24], audience[29]
+- Forge: the moneda reminds Guille of his mother's face somehow, he hesitates longer
+- Isa scene: she smells bread and honey through the door crack — linking to the Woman
 
-### Edit 9: Trim final paragraph
-**Resolves**: authenticity[3] (-0.3)
-Cut "No se consume. No se apaga." — end on "Y si alguna vez se apagara, alguien la volvería a encender."
+### Edit 9: Expand Isa's trial slightly
+**Resolves**: characters[21], structure[6]
+Add a second beat to Isa's trial — after she refuses, the voice tries again with a different approach. Or: internal doubt, hand on latch, almost opens.
 
-### Edit 10: Fix door-disappearance mechanics
-**Resolves**: structure[2] (-0.3)
-Make each door vanish immediately after Guille exits (consistent rule).
+### Edit 10: Rework epilogue — trim recap, add transition to death
+**Resolves**: structure[4,5], audience[25,26,27], craft[16]
+- Add one scene of mother's decline before death (foreshadowing)
+- Trim the retelling of three doors to Isa — she already knows the broad strokes from the night. Keep "¿Y nunca se apaga?" exchange.
+- Shorten elderly exchange, move to final candle image faster
 
-### Edit 11: Unify molinero with litany or expand others
-**Resolves**: structure[3] (-0.3)
-Give Ana and the baker a single internal detail too, making the litany a sequence of individual choices rather than breaking pattern with molinero alone.
+### Edit 11: Develop one neighbor into mini-scene
+**Resolves**: structure[7], authenticity[14]
+Give vieja Ana a full mini-scene with dialogue. Compress baker/blacksmith's wife/molinero.
 
-### Edit 12: Add narrator bridge for Isa POV shift
-**Resolves**: structure[4] (-0.3)
-Brief narrator sentence acknowledging both children's vigils before cutting to reunion.
+### Edit 12: Small prose fixes
+**Resolves**: prose[33,34], values[38]
+- "su voz era a la vez alivio y reproche" → "en su voz había alivio y reproche"
+- "Guille ya sabía cómo iba esto" → "Guille ya conocía estas ofertas"
+- Lie shame: keep internal reaction only, remove woman's "mentir es feo" OR keep "mentir es feo" only, remove internal shame. Choose one.
 
-### Edit 13: Introduce Guille in first sentence + campana payoff
-**Resolves**: audience[3] (-0.3), craft[4] (-0.3), structure[5] (-0.3)
-Rewrite opening to lead with Guille. Add campana callback when Guille returns at dawn.
+### Edit 13: Fix door ordering
+**Resolves**: structure[9]
+Add brief line when Guille faces the three doors explaining why he goes to door 2 first (drawn by the smell of bread when he's hungry).
 
-### Edit 14: Rework epilogue — section breaks, mother's death, one vignette
-**Resolves**: structure[1] (-0.4), craft[2,3] (-0.3 each), audience[2] (-0.4), characters[2] (-0.8)
-- Add a concrete childhood vignette before time-skip
-- Give mother's death its own section break
-- Add physical sensation to "se fue"
-- Brief scene from Guille's adult years showing lesson applied
-- Isa shares her perspective in epilogue dialogue
+### Edit 14: One moment of messiness/asymmetry
+**Resolves**: authenticity[13]
+Add one moment that doesn't resolve neatly — perhaps during the recovery, one day the mother gets worse again before getting better. Or Guille gets angry at God briefly.
 
-### Edit 15: Add everyday temperance moment
-**Resolves**: values[2] (-0.2)
-During recovery: Guille rations food carefully, gives Isa her portion before taking his.
-
-### Edit 16: Return journey — more sensory grounding
-**Resolves**: craft[1] (-0.3)
-Add warmth spreading from candle, quality of light, a physical detail.
+### Edit 15: Add heat detail to forge + return journey detail
+**Resolves**: craft[19,20]
+- Forge: sweat running, eyes stinging from heat
+- Return: wax feeling on fingers, frost under boots
