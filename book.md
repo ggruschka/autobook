@@ -4,7 +4,7 @@ Hubo una vez, en un tiempo que ya nadie recuerda pero que todos conocen, un niñ
 
 En una de aquellas casas vivían dos hermanos. El mayor se llamaba Guille. Era un niño flaco, de pelo castaño rizado y corto, con ojos marrones que siempre parecían estar pensando en algo. La menor era Isa, su hermana, que tenía el cabello rubio como el oro hilado, los ojos verdes como las hojas de mayo y la piel pálida, tan blanca que su madre decía que parecía hecha de la misma cera de las velas que encendía ante la imagen de la Virgen. Isa era terca. Si decidía algo, no había fuerza en el mundo que la hiciera cambiar de opinión, y su madre decía que había nacido con la mandíbula apretada.
 
-Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz se hacía más débil, como el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando como un reloj de arena.
+Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz era ya el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando como un reloj de arena.
 
 Una noche, mientras Isa dormía junto a la cama de su madre, Guille se sentó ante el fuego que se moría en la chimenea. Quedaban tres leños y medio saco de harina. Nada más.
 
@@ -82,7 +82,7 @@ La sonrisa de la mujer se torció. Sus ojos, que habían parecido amables, se vo
 
 —Entonces vete —dijo—. Y que el hambre te enseñe prudencia.
 
-Mientras hablaba, el golpe oscuro de la pera se extendió como una mancha de tinta. Los panes se cubrieron de moho verde. El cordero se hundió sobre los huesos. La fruta se arrugó y ennegreció, y un olor a podrido llenó el salón. La mujer seguía sonriendo, pero ahora los dientes demasiado blancos brillaban en una cara que ya no era hermosa.
+Mientras hablaba, el golpe oscuro de la pera se extendió. Los colores de la mesa se apagaron como si alguien soplara las velas una a una. Los panes perdieron su dorado, las frutas se arrugaron, el cordero se volvió gris. El olor a romero y a fiesta desapareció, y en su lugar no quedó nada: ni olor bueno ni olor malo. Solo vacío.
 
 La puerta se cerró detrás de él con un golpe seco.
 
@@ -108,25 +108,25 @@ Guille no entendió.
 
 No hubo oferta. No hubo negociación. Solo el martillo, el yunque y el calor. Guille cogió el martillo. Pesaba más de lo que esperaba. Golpeó el hierro y le dolieron los brazos hasta los hombros, y del golpe saltaron chispas que le quemaron la muñeca. Pero siguió. Golpeó otra vez, y otra, y otra. El sudor le corría por la frente y el calor le secaba los labios y le escocían las manos, pero no paró, porque cada golpe era un golpe por su madre.
 
-No supo cuánto tiempo estuvo golpeando. Pudieron ser minutos o pudieron ser horas. Pero en algún momento miró hacia abajo y vio que sus manos habían cambiado. Los nudillos estaban lisos. Las líneas de las palmas se habían borrado. Las manos ya no le dolían, pero tampoco sentían nada: ni el calor del martillo, ni la vibración del hierro, ni el aire. Eran sus manos, pero ya no eran suyas.
+No supo cuánto tiempo estuvo golpeando. Pero en algún momento notó que el martillo ya no le pesaba. Y que no sentía el calor. Y que cuando se tocó los dedos de una mano con la otra, era como tocar madera: algo estaba ahí, pero no era él.
 
-Guille soltó el martillo. Retrocedió un paso.
+Soltó el martillo.
 
-—¿Qué me has hecho? —preguntó.
+—¿Qué pasa? —preguntó, y le tembló la voz.
 
-El herrero seguía golpeando, como si Guille no estuviera.
+El herrero seguía golpeando su propio yunque, sin mirarlo.
 
-—Cada golpe te cuesta un poco —dijo, sin mirarlo—. Unos cuantos más y la moneda estará lista. Pero tus manos ya no volverán. No podrás abrazar a tu hermana. No podrás partir el pan. No podrás hacer la señal de la cruz.
+—Cada golpe cuesta un poco —contestó—. Unos cuantos más y la moneda estará lista. Pero tus manos ya no serán tuyas. No podrás abrazar a tu hermana. No podrás partir el pan.
 
-Guille se miró las manos. Lisas, extrañas, insensibles. Pensó en Isa. Pensó en cómo cada noche, antes de dormir, le cogía la mano y no la soltaba hasta que se quedaba dormida. Si seguía golpeando, Isa le cogería la mano y no sentiría nada.
+Guille pensó en Isa. Cada noche, antes de dormir, le cogía la mano y no la soltaba hasta que se quedaba dormida. Si seguía golpeando, Isa le cogería la mano y no sentiría nada.
 
-—No —dijo. Le salió ronco, como si le costara hablar—. Devuélvemelas.
+—No —dijo Guille—. Paro.
 
-El herrero se rio. Una risa seca, sin humor.
+El herrero resopló.
 
-—No puedo devolverte lo que tú mismo has entregado. Pero como no has terminado la moneda, te devuelvo lo que queda.
+—Como quieras. Pero la moneda se queda a medias.
 
-Guille sintió un hormigueo en los dedos, como cuando se despierta un pie dormido. Las líneas de las palmas volvieron, despacio. Los nudillos raspados reaparecieron. El dolor volvió también. Y Guille nunca se había alegrado tanto de sentir dolor.
+El hormigueo volvió a las manos de Guille, despacio, como cuando se despierta un pie dormido. Y cuando volvió a sentir los dedos —el frío, el dolor, la rugosidad del mango del martillo— se alegró de sentirlos, aunque dolieran.
 
 La puerta de hierro se cerró. Detrás de ella, el golpeteo del martillo se fue haciendo más débil, más lento, hasta que enmudeció. Y Guille estaba otra vez en el claro. La primera puerta había desaparecido, como la segunda. Solo quedaba la tercera: la puerta pequeña, gris, sin adornos, que no olía a nada.
 
@@ -234,9 +234,9 @@ Cuando Guille llegó a la casa, el cielo empezaba a clarear por el este. Isa est
 
 —Guille —dijo, y en su voz había alivio y reproche—. ¿Dónde fuiste?
 
-—Al bosque —dijo Guille—. Traje algo. —Miró a su hermana—. ¿Estás bien? Tienes mala cara.
+—Al bosque —dijo Guille—. Traje algo. —Miró a su hermana—. ¿Estás bien? Estás pálida.
 
-—Alguien llamó a la puerta —dijo Isa—. Ofrecía una medicina. No abrí.
+—Alguien llamó a la puerta —susurró Isa—. Ofrecía una medicina. No abrí.
 
 Guille la miró. No dijo nada, pero le puso la mano en la cabeza y se la dejó ahí un momento. Isa cerró los ojos.
 
@@ -262,11 +262,11 @@ La vieja Ana abrió la puerta. Miró al niño: flaco, despeinado, con unas botas
 
 —¿Desde cuándo? —preguntó Ana.
 
-—Desde hace semanas —dijo Guille.
+—Desde hace semanas —contestó Guille.
 
 Ana se quedó callada un momento. Le dolían las rodillas. Hacía frío. Llevaba semanas sin salir de casa. Pero se acordó de la madre de los niños, que una vez le había traído caldo cuando ella estuvo enferma, y que nunca le había pedido nada a cambio.
 
-—Espera aquí —dijo.
+—Espera aquí —respondió.
 
 Volvió con un puchero de sopa caliente y medio pan. Lo puso en las manos de Guille y le apretó los hombros.
 
@@ -296,7 +296,7 @@ Y una noche de febrero, Guille se despertó porque faltaba algo. Tardó un momen
 
 Se levantó, fue a la mesa de noche, y la vela estaba apagada. El pabilo estaba negro y frío. Tocó la mano de su madre. Estaba fría también.
 
-Guille se sentó en el suelo, junto a la cama, y lloró. Lloró mucho rato, sin hacer ruido, porque de niño había aprendido a llorar sin despertar a nadie. Y cuando terminó de llorar, se quedó sentado en la oscuridad.
+Guille se sentó en el suelo, junto a la cama, y lloró. Lloró mucho rato, sin hacer ruido, porque de niño había aprendido a llorar sin despertar a nadie. Le goteaba la nariz y no se la limpió. Cuando terminó de llorar, se quedó sentado en la oscuridad, con las manos en el regazo, sin pensar en nada.
 
 Entonces se levantó. Fue a la chimenea, cogió una brasa con las tenazas, y encendió la vela.
 
