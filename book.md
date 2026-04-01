@@ -4,7 +4,7 @@ Hubo una vez, en un tiempo que ya nadie recuerda pero que todos conocen, un niñ
 
 En una de aquellas casas vivían dos hermanos. El mayor se llamaba Guille. Era un niño flaco, de pelo castaño rizado y corto, con ojos marrones que siempre parecían estar pensando en algo. La menor era Isa, su hermana, que tenía el cabello rubio como el oro hilado, los ojos verdes como las hojas de mayo y la piel pálida, tan blanca que su madre decía que parecía hecha de la misma cera de las velas que encendía ante la imagen de la Virgen. Si Isa decidía algo, no había fuerza en el mundo que la hiciera cambiar de opinión. Su madre decía que había nacido con la mandíbula apretada.
 
-Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz era ya el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando día a día.
+Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz era ya el último hilo de humo de un fuego que se apaga. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Había sido un hombre callado que silbaba mientras tallaba cucharas de madera, y desde que se fue, nadie en la casa volvió a silbar. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando día a día.
 
 Una noche, mientras Isa dormía junto a la cama de su madre, Guille se sentó ante el fuego que se moría en la chimenea. Quedaban tres leños y medio saco de harina. Nada más.
 
