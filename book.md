@@ -10,7 +10,7 @@ En el sur de Italia, donde las colinas se levantan secas y pedregosas como espal
 
 En una de aquellas casas de piedra, la noche del veinticinco de mayo, María Giuseppa Di Nunzio Forgione dio a luz a su cuarto hijo. Era un niño pequeño, moreno, con ojos oscuros muy abiertos, como si ya quisiera ver todo lo que el mundo tenía preparado para él. Lo bautizaron Francesco, como el santo de Asís, al día siguiente en la iglesia de Santa Ana. Su padre, Grazio Forgione, era un campesino que sabía apenas escribir su nombre pero que conocía de memoria el rosario entero, y lo rezaba cada noche con la familia reunida en torno a la mesa de madera donde también comían su pan y sus legumbres.
 
-Francesco fue un niño raro. No raro como los niños que hacen travesuras o que se esconden de los mayores, sino raro de otra manera, más difícil de explicar. Desde muy pequeño, hablaba con alguien que nadie más podía ver. Su madre lo encontraba a veces en su cuarto, de rodillas, con los ojos cerrados y los labios moviéndose sin sonido, y cuando le preguntaba qué hacía, el niño decía: "Rezo". Lo decía con tanta naturalidad como otro niño habría dicho "juego" o "como". María Giuseppa se quedaba en la puerta mirándolo y no sabía qué pensar. Una parte de ella se alegraba, porque ¿qué madre católica no quiere un hijo devoto? Pero otra parte — la parte práctica, la que contaba las monedas y remendaba las camisas — se preguntaba qué iba a ser de un niño así en un mundo que no tenía paciencia para los que hablaban con Dios en vez de arar la tierra.
+Francesco fue un niño raro, de una manera difícil de explicar. Desde muy pequeño, hablaba con alguien que nadie más podía ver. Su madre lo encontraba a veces en su cuarto, de rodillas, con los ojos cerrados y los labios moviéndose sin sonido, y cuando le preguntaba qué hacía, el niño decía: "Rezo". Lo decía con tanta naturalidad como otro niño habría dicho "juego" o "como". María Giuseppa se quedaba en la puerta mirándolo y no sabía qué pensar. Una parte de ella se alegraba, porque ¿qué madre católica no quiere un hijo devoto? Pero otra parte — la parte práctica, la que contaba las monedas y remendaba las camisas — se preguntaba qué iba a ser de un niño así en un mundo que no tenía paciencia para los que hablaban con Dios en vez de arar la tierra.
 
 Lo cierto es que Francesco veía cosas. Veía ángeles. Los veía con la misma claridad con que veía las gallinas en el corral o el campanario de la iglesia recortado contra el cielo azul. No le parecía nada extraordinario, porque creía que todo el mundo los veía también. Fue mucho después cuando comprendió que no, que los demás no veían lo que él veía, y que esa visión era un don y también una carga.
 
@@ -74,7 +74,7 @@ Fray Pío — ahora Padre Pío — sintió de nuevo aquella brasa en el pecho qu
 
 Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebraba la misa, sentía un dolor agudo en las manos y en los pies, como si alguien le clavara agujas al rojo vivo. El dolor era tan intenso que a veces tenía que agarrarse al altar para no caerse. Cuando se miraba las manos después, veía unas manchas rojizas, no heridas abiertas sino como marcas de algo que quería abrirse paso desde dentro de la carne.
 
-No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo. No miedo del dolor — el dolor ya era un compañero constante en su vida — sino miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
+No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
 
 Desde San Francisco, que las recibió en 1224, la Iglesia había reconocido centenares de casos de estigmas, casi todos en monjas y laicos. Ningún sacerdote los había llevado de forma visible. Padre Pío no quería ser el primero. No por humildad, aunque era humilde, sino porque sabía lo que eso traería consigo: atención, fama, investigaciones, sospechas. Todo lo que él no quería. Él solo quería ser un fraile capuchino que celebraba misa, oía confesiones y rezaba en su celda hasta morirse.
 
@@ -90,9 +90,9 @@ Lo que sucedió a continuación lo contó él mismo, años después, con una pre
 
 Las heridas eran reales. No eran marcas rojizas como las de antes, sino llagas abiertas, profundas, que sangraban abundantemente. En las palmas de las manos, dos agujeros que las atravesaban de lado a lado. En los pies, lo mismo. En el costado izquierdo, una herida en forma de cruz de la que manaba sangre y un líquido transparente. El dolor era atroz.
 
-Padre Pío se envolvió las manos con trapos y se fue a su celda. Quería esconder las heridas, quería que nadie las viera, quería que desaparecieran. Rezó para que Dios se las quitara. No las heridas — estaba dispuesto a sufrir el dolor — sino las marcas visibles. "Que me duela, Señor, pero que no se vea," pidió. Dios no le concedió esa petición.
+Padre Pío se envolvió las manos con trapos y se fue a su celda. Quería esconder las heridas, quería que nadie las viera, quería que desaparecieran. Rezó para que Dios le quitara las marcas visibles. "Que me duela, Señor, pero que no se vea," pidió. Dios no le concedió esa petición.
 
-Las heridas no sanaban. Ni en días, ni en semanas, ni en meses. Sangraban constantemente. Padre Pío usaba guantes de cuero sin dedos para celebrar la misa, pero la sangre los empapaba y goteaba sobre el altar. El olor de la sangre era extraño: no olía a sangre sino a algo dulce, como a flores o a perfume. Muchos testigos lo confirmaron a lo largo de los años, y los médicos que lo examinaron no encontraron explicación.
+Las heridas no sanaban. Ni en días, ni en semanas, ni en meses. Sangraban constantemente. Padre Pío usaba guantes de cuero sin dedos para celebrar la misa, pero la sangre los empapaba y goteaba sobre el altar. El olor de la sangre era extraño: no olía a sangre sino a algo dulce, como a flores o a perfume. Muchos testigos lo confirmaron a lo largo de los años. Un médico que examinó las vendas usadas las olió varias veces, las guardó en un frasco y se las llevó a su laboratorio. No publicó ningún informe.
 
 La noticia se supo rápidamente, porque en un pueblo como San Giovanni Rotondo no existían los secretos. Los frailes del convento fueron los primeros en enterarse. Algunos lo miraron con reverencia, como a un santo viviente. Otros lo miraron con desconfianza, como a un posible farsante. El padre guardián del convento informó a los superiores de la orden, que informaron al obispo, que informó al Vaticano.
 
@@ -108,13 +108,13 @@ Le vendaron las manos. Les pusieron sellos. Esperaron. Cuando quitaron las venda
 
 Bignami no se retractó de su diagnóstico. Pero quienes estuvieron presentes cuando quitaron las vendas dijeron que el profesor se quedó un largo rato mirando las heridas sin decir nada, que se quitó las gafas y se frotó los ojos, y que cuando le preguntaron qué pensaba, contestó: "Pienso que necesito un café." Nunca volvió a San Giovanni Rotondo.
 
-No todos en la Iglesia veían con buenos ojos al fraile estigmatizado. Había quienes sospechaban que todo era un engaño montado por los capuchinos para atraer peregrinos y dinero. Había quienes pensaban que Padre Pío estaba loco, o enfermo, o poseído. Y había quienes simplemente no soportaban que un fraile de pueblo tuviera más influencia que un obispo con anillo de oro.
+No todos en la Iglesia veían con buenos ojos al fraile estigmatizado. Algunos sospechaban que todo era un engaño montado por los capuchinos para atraer peregrinos y dinero. Otros lo consideraban un enfermo o un loco. Y más de un obispo no soportaba que un fraile de pueblo recibiera más atención que toda su diócesis junta.
 
-El más peligroso de estos enemigos era el arzobispo Pasquale Gagliardi, de Manfredonia, la diócesis a la que pertenecía San Giovanni Rotondo. Gagliardi era un hombre que había llegado a obispo por méritos y ambición, que administraba su diócesis con mano de hierro y que no toleraba que nada escapara a su control. Y no era solo vanidad: Gagliardi creía sinceramente que el culto descontrolado alrededor de un fraile era peligroso para la Iglesia, que los milagros no verificados podían desembocar en superstición, y que era su deber como obispo proteger a su diócesis de un posible engaño. Y Padre Pío escapaba a su control. Los peregrinos no venían a Manfredonia a ver al arzobispo: venían a San Giovanni Rotondo a ver al fraile. Las donaciones no iban a la diócesis: iban al convento. La gente no hablaba de Gagliardi: hablaba de Padre Pío. Y eso, para un hombre como Gagliardi, era insoportable.
+El más peligroso de estos enemigos era el arzobispo Pasquale Gagliardi, de Manfredonia, la diócesis a la que pertenecía San Giovanni Rotondo. Gagliardi era un hombre que había llegado a obispo por méritos y ambición, que administraba su diócesis con mano de hierro y que no toleraba que nada escapara a su control. Y Padre Pío escapaba a su control. Los peregrinos no venían a Manfredonia a ver al arzobispo: venían a San Giovanni Rotondo a ver al fraile. Las donaciones no iban a la diócesis: iban al convento. La gente no hablaba de Gagliardi: hablaba de Padre Pío. Y eso, para un hombre como Gagliardi, era insoportable.
 
 Desde su escritorio en el palacio episcopal, Gagliardi escribió carta tras carta al Vaticano. En una de ellas decía: "Este fraile está convirtiendo mi diócesis en una feria. Los peregrinos no vienen a rezar, vienen a ver un espectáculo. Si no actuamos, la Iglesia entera pagará las consecuencias." Algunas de sus acusaciones contenían verdad deformada. Otras eran inventadas. No importaba: bastaba con que llegaran al Santo Oficio para que la sospecha se instalara.
 
-Padre Pío sabía lo que Gagliardi decía de él. Lo sabía y no se defendía. Cuando le preguntaban por las acusaciones, respondía: "Dios sabe la verdad. Eso me basta."
+Padre Pío sabía lo que Gagliardi decía de él. Lo sabía y no se defendía.
 
 ---
 
@@ -126,7 +126,7 @@ Y luego vinieron las restricciones.
 
 En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, como un prisionero, aunque no hubiera cometido ningún delito.
 
-Fue la prueba más dura de su vida. Más dura que los estigmas, más dura que los ataques del demonio, más dura que la enfermedad. Porque esta vez el sufrimiento no venía del diablo ni de la carne, sino de la Iglesia a la que había jurado obedecer. La Iglesia que era su madre, su hogar, la razón de su existencia. Y esa madre lo estaba castigando sin explicarle por qué.
+Fue la prueba más dura de su vida. Más dura que los estigmas y los ataques del demonio, más dura que todas las enfermedades juntas, porque esta vez el sufrimiento venía de la Iglesia a la que había jurado obedecer. La Iglesia que era su madre, su hogar, la razón de su existencia. Y esa madre lo estaba castigando sin explicarle por qué.
 
 ¿Qué hizo Padre Pío? Obedeció.
 
@@ -150,13 +150,13 @@ Entre las miles de personas que se confesaron con Padre Pío, algunas volvieron 
 
 Había también otra cosa. Los milagros.
 
-La gente que visitaba a Padre Pío empezó a reportar cosas que no debían ser posibles. Enfermos que se curaban después de que él rezara por ellos. Ciegos que recuperaban la vista. Un hombre al que los médicos habían dado tres meses de vida por un cáncer terminal vivió treinta años más después de que Padre Pío le dijera: "Vete en paz, estás curado." Una mujer que no podía tener hijos quedó embarazada después de que él la bendijera. Un soldado que estaba a punto de suicidarse cambió de opinión porque vio al Padre Pío en una visión — estando Padre Pío a mil kilómetros de distancia.
+La gente que visitaba a Padre Pío empezó a reportar cosas que no debían ser posibles. Un hombre llamado Giovanni Savino, al que los médicos habían dado tres meses de vida por un cáncer terminal, viajó a San Giovanni Rotondo en un tren nocturno con su mujer, que no paraba de llorar. Esperó en la cola tres días. Cuando por fin entró en el confesionario, Padre Pío le puso la mano en la cabeza y le dijo: "Vete en paz, estás curado." Savino volvió a casa, fue al hospital, le hicieron las pruebas. El tumor había desaparecido. Vivió treinta años más y cada año volvía a San Giovanni Rotondo con una caja de naranjas de su huerto que dejaba en la puerta del convento sin decir nada a nadie. Historias así se acumulaban: ciegos que veían, mujeres estériles que tenían hijos, soldados que cambiaban de opinión en el último momento porque un fraile con guantes se les aparecía a mil kilómetros de distancia.
 
 Y había algo más extraño todavía. Personas de distintos países contaron historias asombrosamente similares: estaban en peligro, o enfermos, o a punto de rendirse, y de pronto veían a un fraile capuchino con guantes en las manos que les hablaba, los consolaba, los curaba. Cuando más tarde veían una fotografía de Padre Pío, lo reconocían inmediatamente. Él nunca había salido del convento.
 
 Cuando le preguntaban cómo podía aparecer en lugares donde no estaba, Padre Pío respondía con evasivas o con humor. "¿Y usted cómo sabe que yo no estaba allí?" Nunca la negó abiertamente, pero tampoco la explicó. Algunos frailes que lo conocían bien decían que después de ciertos episodios de bilocación, Padre Pío estaba agotado, como si hubiera corrido una maratón, aunque llevara horas sentado en su celda.
 
-La Iglesia investigó muchos de estos supuestos milagros. Algunos fueron descartados. Otros quedaron sin explicación. Y unos pocos — los que sobrevivirían a décadas de escrutinio — serían utilizados mucho después para su proceso de canonización.
+La Iglesia investigó muchos de estos supuestos milagros. Algunos fueron descartados. Otros hicieron callar a los investigadores. Y unos pocos — los que sobrevivirían a décadas de escrutinio — serían utilizados mucho después para su proceso de canonización.
 
 ---
 
@@ -168,7 +168,7 @@ La guerra llegó incluso a las puertas del convento. En septiembre de 1943, cuan
 
 No lo llevó. Las bombas cayeron a pocos metros del convento sin tocarlo. Los habitantes de San Giovanni Rotondo dijeron que fue un milagro. Los militares dijeron que fue suerte. Padre Pío no dijo nada.
 
-Hay una historia de la guerra que merece ser contada, aunque no se puede verificar con certeza. Según varios pilotos aliados — americanos y británicos — cuando volaban sobre San Giovanni Rotondo en misiones de bombardeo, veían en el cielo la figura de un fraile con las manos levantadas, como bloqueándoles el paso. Los aviones no podían acercarse: los instrumentos enloquecían, los motores perdían potencia, las manos de los pilotos giraban el timón sin que ellos supieran por qué. Cuando la guerra terminó y algunos de esos pilotos visitaron San Giovanni Rotondo por curiosidad, reconocieron a Padre Pío como el fraile que habían visto en el cielo.
+Según varios pilotos aliados — americanos y británicos — cuando volaban sobre San Giovanni Rotondo en misiones de bombardeo, veían en el cielo la figura de un fraile con las manos levantadas, como bloqueándoles el paso. Los aviones no podían acercarse: los instrumentos enloquecían, los motores perdían potencia, las manos de los pilotos giraban el timón sin que ellos supieran por qué. Cuando la guerra terminó y algunos de esos pilotos visitaron San Giovanni Rotondo por curiosidad, reconocieron a Padre Pío como el fraile que habían visto en el cielo.
 
 Las historias de guerra se mezclan con la leyenda, y esta puede ser una de ellas. Lo que sí es verdad es que San Giovanni Rotondo sobrevivió a la guerra prácticamente intacto, lo cual, dada su posición estratégica en las montañas del Gargano, fue cuando menos notable.
 
@@ -194,7 +194,7 @@ Hoy, la Casa Sollievo della Sofferenza sigue funcionando. Tiene más de mil cama
 
 A medida que pasaban los años, el cuerpo de Padre Pío se iba deteriorando como una casa vieja que ya no puede sostenerse. Las enfermedades de su juventud nunca se habían ido del todo, y ahora, sumadas a décadas de ayuno, vigilia y dolor constante por los estigmas, lo habían convertido en un anciano antes de tiempo. A los sesenta años parecía tener ochenta. Caminaba encorvado, arrastrando los pies, apoyándose en los muebles. Las manos le temblaban tanto que a veces no podía sostener el cáliz durante la misa. Las heridas de los estigmas seguían abiertas, seguían sangrando, seguían doliendo, indiferentes al paso del tiempo.
 
-Pero seguía confesando. Seguía celebrando misa. Y seguía siendo, para millones de personas en todo el mundo, el fraile de las manos vendadas al que escribían cuando ya no sabían a quién más escribir.
+Pero seguía confesando y celebrando misa, y para millones de personas en todo el mundo seguía siendo el fraile de las manos vendadas al que escribían cuando ya no sabían a quién más escribir.
 
 Su fama había crecido hasta proporciones que él no habría podido imaginar en sus peores pesadillas. Recibía sacos de cartas cada día — miles de cartas de personas que le pedían oraciones, consejo, curación, consuelo. No podía leerlas todas, pero las tocaba, las bendecía, rezaba por las intenciones de quienes las habían escrito. Decía que podía "sentir" el dolor de cada carta con solo ponerle las manos encima, y quienes lo conocían le creían, porque habían visto cosas demasiado extrañas para no creerle.
 
