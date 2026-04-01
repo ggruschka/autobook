@@ -138,7 +138,7 @@ No protestó. No se quejó. No escribió cartas a los periódicos ni organizó c
 
 Durante dos años, Padre Pío vivió encerrado en su celda. El suelo era de piedra fría, y en invierno se le entumecían las rodillas de tanto rezar arrodillado. Celebraba misa solo, a las cinco de la mañana, en una capilla vacía donde el eco de su propia voz le devolvía las palabras. Las heridas de sus manos y sus pies y su costado seguían sangrando, indiferentes a los decretos del Vaticano. La sangre seca se acumulaba en las grietas del reclinatorio de madera.
 
-Hubo una noche — él se la contó después al padre Agostino — en que estuvo a punto de quebrarse. Estaba arrodillado en la capilla a oscuras, con las manos apoyadas en el reclinatorio y la sangre goteando sobre la madera como siempre, y de pronto quiso levantarse. Quiso escribir una carta. Quiso gritar. Apretó los puños — y el dolor de las llagas al cerrarse le atravesó los brazos como un latigazo. Se quedó quieto. Respiró. Y en vez de la carta que quería escribir, rezó un avemaría. Y luego otra. Y otra más, hasta que la rabia se fue apagando — la vieja brasa otra vez, pero al revés, enfriándose en lugar de arder.
+Hubo una noche — él se la contó después al padre Agostino — en que estuvo a punto de quebrarse. Estaba arrodillado en la capilla a oscuras, con las manos apoyadas en el reclinatorio y la sangre goteando sobre la madera como siempre, y de pronto quiso levantarse. Quiso escribir una carta. Quiso gritar. Apretó los puños — y el dolor de las llagas al cerrarse le atravesó los brazos como un latigazo. Se quedó quieto. Respiró. Y en vez de la carta que quería escribir, rezó un avemaría. Y luego otra. Y otra más, hasta que la rabia se fue apagando.
 
 Los frailes del convento lo trataban con distancia. Uno de los frailes más viejos del convento, que llevaba treinta años allí sin que nadie se molestara en aprender su nombre, le dijo un día en el refectorio: "Ahora ya sabes lo que es ser un fraile normal." No lo dijo con crueldad exactamente, pero tampoco con compasión. Padre Pío lo miró un momento y luego siguió comiendo su sopa. Aquel fraile nunca cambió de opinión sobre él. Años después, cuando Padre Pío ya era famoso en todo el mundo, seguía llamándolo "el fraile de las vendas" con un tono que no era exactamente de burla pero que tampoco era de respeto.
 
@@ -180,7 +180,7 @@ Filomena no se convirtió en una mujer de fe renovada. No tuvo una revelación. 
 
 La guerra llegó incluso a las puertas del convento. En septiembre de 1943, cuando Italia cambió de bando y los ejércitos aliados avanzaban por el sur, los bombarderos atacaron San Giovanni Rotondo. Las bombas cayeron cerca del convento. El polvo del techo llovía sobre el altar y las velas se apagaron con la onda expansiva. Los frailes bajaron a los sótanos. Padre Pío se quedó en la iglesia, rezando frente al tabernáculo, con el suelo temblando bajo sus rodillas y el olor a pólvora metiéndose por las ventanas rotas. Cuando le rogaron que bajara al refugio, respondió: "Si Dios quiere llevarme, me encontrará rezando."
 
-No lo llevó. Las bombas cayeron a pocos metros del convento sin tocarlo. Padre Pío se levantó, se sacudió el polvo de la sotana y fue a ver si los frailes estaban bien.
+No lo llevó. Las bombas cayeron sobre los campos alrededor del pueblo, pero ninguna tocó San Giovanni Rotondo. Padre Pío se levantó y fue a ver si los frailes estaban bien.
 
 Cuando los bombarderos aliados volaban sobre San Giovanni Rotondo, los pilotos veían en el cielo la figura de un fraile con las manos levantadas, como bloqueándoles el paso. Los aviones no podían acercarse: los instrumentos enloquecían, los motores perdían potencia, las manos de los pilotos giraban el timón sin que ellos supieran por qué. Cuando la guerra terminó y algunos de esos pilotos visitaron San Giovanni Rotondo por curiosidad, reconocieron a Padre Pío como el fraile que habían visto en el cielo.
 
@@ -202,7 +202,7 @@ La Casa Sollievo della Sofferenza abrió sus puertas el cinco de mayo de 1956. N
 
 El día de la inauguración, Padre Pío se asomó a una ventana del convento y vio la enorme multitud que se había reunido frente al hospital. Sonrió — una de sus raras sonrisas sin tristeza — y dijo: "Esta es la criatura de la Providencia." No dijo "mi hospital" ni "mi obra." La Providencia. Como si él no hubiera tenido nada que ver.
 
-Hoy, la Casa Sollievo della Sofferenza sigue funcionando. Tiene más de mil camas y atiende a cientos de miles de pacientes cada año. En la entrada hay una estatua de Padre Pío con las manos abiertas. Los pacientes pasan por delante sin mirarla. Huele a desinfectante y a café de máquina.
+Hoy, la Casa Sollievo della Sofferenza sigue funcionando. Tiene cientos de camas y atiende a miles de pacientes cada año. En la entrada hay una estatua de Padre Pío con las manos abiertas. Los pacientes pasan por delante sin mirarla. Huele a desinfectante y a café de máquina.
 
 ---
 
@@ -222,7 +222,7 @@ Los años sesenta trajeron también cambios enormes a la Iglesia Católica. El C
 
 Cuando Padre Pío se enteró de los cambios, lo encontraron en la sacristía acariciando el viejo misal romano con las manos vendadas, pasando las páginas como quien se despide. Amaba la misa en latín como un músico ama su instrumento. Cada palabra, cada gesto, cada silencio de la antigua liturgia tenía para él un significado que había tardado toda la vida en comprender. Cuando los cambios litúrgicos empezaron a aplicarse en algunas parroquias, Padre Pío escribió personalmente al papa Pablo VI pidiéndole una dispensa para seguir celebrando la misa antigua. El Papa se la concedió. Fue uno de los poquísimos sacerdotes en el mundo que obtuvo ese permiso.
 
-No fue un acto de rebeldía. Fue un acto de honestidad dentro de la obediencia: pidió permiso, lo recibió, y siguió celebrando en latín hasta el último día de su vida. La nueva misa entraría en vigor meses después de su muerte. Nunca llegó a celebrarla.
+No fue un acto de rebeldía. Fue un acto de honestidad dentro de la obediencia: pidió permiso, lo recibió, y siguió celebrando en latín hasta el último día de su vida. La nueva misa entraría en vigor poco más de un año después de su muerte. Nunca llegó a celebrarla.
 
 En sus últimos años tenía un humor seco y afilado que desconcertaba a quienes esperaban encontrarse con un santo grave y solemne. Un obispo de visita oficial se sentó frente a él en el locutorio del convento y le preguntó con tono de examen si realmente podía leer las almas. Padre Pío lo miró fijamente durante unos segundos que debieron de parecer eternos y dijo: "La suya necesita una buena limpieza, excelencia." El obispo se puso colorado y no volvió más.
 
@@ -240,9 +240,7 @@ La madrugada del veintitrés de septiembre de 1968, a las dos y media de la mañ
 
 Estaba sentado en un sillón de su celda, con el rosario entre los dedos. Sus últimas palabras fueron "Gesù... Maria..." — Jesús, María — las mismas palabras que los católicos rezan al final de cada avemaría. Murió como había vivido: rezando.
 
-Tenía ochenta y un años. Había llevado los estigmas durante medio siglo. Y ahora las llagas se habían ido con él.
-
-Cuando lo prepararon para el funeral, confirmaron lo que los frailes habían notado la noche anterior: los estigmas habían desaparecido por completo. En sus manos, donde durante medio siglo habían estado aquellas llagas terribles, solo quedaba piel lisa, nueva, perfecta. Como si las heridas, habiendo cumplido su propósito, se hubieran ido con él.
+Tenía ochenta y un años. Había llevado los estigmas durante medio siglo. Sus manos, que la noche anterior aún sangraban, estaban limpias.
 
 Cien mil personas asistieron a su funeral. Cien mil personas en un pueblo que normalmente tenía cinco mil habitantes. Vinieron en autobuses, en coches, en burros, a pie. Llenaron las calles, las plazas, los campos alrededor del pueblo. Lloraban. Cien mil personas llorando a la vez hace un ruido que no se parece a nada.
 
