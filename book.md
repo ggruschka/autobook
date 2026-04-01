@@ -1,10 +1,10 @@
 # El Bosque de las Tres Puertas
 
-Hubo una vez, en un tiempo que ya nadie recuerda pero que todos conocen, un pueblo pequeño al borde de un bosque muy antiguo. Las casas eran de piedra gris y los tejados de paja oscura, y en las noches de invierno el viento bajaba de las montañas y hacía temblar las velas en las ventanas. En la iglesia del pueblo, una campana vieja llamaba a misa cada mañana, y los aldeanos decían que mientras esa campana sonara, el bosque no se atrevería a tragarse el pueblo.
+Hubo una vez, en un tiempo que ya nadie recuerda pero que todos conocen, un niño llamado Guille que vivía al borde de un bosque muy antiguo. El pueblo era pequeño: casas de piedra gris con tejados de paja oscura, y en las noches de invierno el viento bajaba de las montañas y hacía temblar las velas en las ventanas. En la iglesia del pueblo, una campana vieja llamaba a misa cada mañana, y los aldeanos decían que mientras esa campana sonara, el bosque no se atrevería a tragarse el pueblo.
 
 En una de aquellas casas vivían dos hermanos. El mayor se llamaba Guille. Era un niño flaco, de pelo castaño rizado y corto, con ojos marrones que siempre parecían estar pensando en algo. La menor era Isa, su hermana, que tenía el cabello rubio como el oro hilado, los ojos verdes como las hojas de mayo y la piel blanca como la cera de las velas que su madre encendía ante la imagen de la Virgen.
 
-Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz se hacía más débil, como el último hilo de humo de un fuego muerto. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando como un reloj de arena.
+Su madre estaba enferma. Llevaba muchas semanas en cama, y cada día su voz se hacía más débil, como el último hilo de humo de un fuego apagado. El padre había muerto hacía dos inviernos, cuando el hielo rompió el puente sobre el río y se lo llevó la corriente. Así que Guille e Isa estaban solos con su madre enferma, y la despensa se iba vaciando como un reloj de arena.
 
 Una noche, mientras Isa dormía junto a la cama de su madre, Guille se sentó ante el fuego que se moría en la chimenea. Quedaban tres leños y medio saco de harina. Nada más.
 
@@ -14,7 +14,11 @@ Entonces recordó lo que los viejos del pueblo contaban en voz baja: que en lo m
 
 Guille sabía que su madre no resistiría mucho más. Se puso las botas de su padre, que le quedaban grandes, se echó al hombro un morral vacío y se acercó a la cama donde dormían Isa y su madre.
 
-—Vuelvo pronto —susurró, y se santiguó como su madre le había enseñado.
+Su madre abrió los ojos. Lo miró con aquella mirada suya, que incluso enferma veía todo.
+
+—Guille —murmuró—. Ten cuidado.
+
+—Vuelvo pronto —susurró, y se santiguó como ella le había enseñado.
 
 Salió a la noche.
 
@@ -44,11 +48,11 @@ La puerta se abrió sin ruido.
 
 ---
 
-Del otro lado había un salón enorme, iluminado por cientos de velas. Las paredes eran de piedra dorada y el suelo de mármol pulido. En el centro había una mesa tan larga que no se veía el final, y sobre la mesa había más comida de la que Guille había visto en toda su vida: panes redondos con la corteza crujiente, quesos amarillos, jamones enteros, fuentes de fruta brillante, jarras de leche espesa, tartas de manzana con azúcar quemada por encima, y en el centro un cordero asado del que subía un vapor que olía a romero y a fiesta.
+Del otro lado había un salón enorme, iluminado por cientos de velas. Las paredes eran de piedra dorada y el suelo de mármol pulido. En el centro había una mesa tan larga que no se veía el final, y sobre la mesa había más comida de la que Guille había visto en toda su vida: panes redondos con la corteza crujiente, quesos amarillos, jamones enteros, fuentes de fruta brillante —aunque una pera tenía un golpe oscuro, y Guille se fijó en eso sin saber por qué—, jarras de leche espesa, tartas de manzana con azúcar quemada por encima, y en el centro un cordero asado del que subía un vapor que olía a romero y a fiesta.
 
-Detrás de la mesa, sentada en una silla alta de respaldo tallado, había una mujer. Era hermosa, con el pelo negro como la tinta y los labios rojos como la sangre fresca. Llevaba un vestido del color de las cenizas que se movía solo, sin que hubiera viento, y un collar de perlas grises y frías como piedras de río en invierno.
+Detrás de la mesa, sentada en una silla alta de respaldo tallado, había una mujer. Era hermosa, con el pelo negro como la tinta y los labios rojos como las bayas de acebo. Llevaba un vestido del color de las cenizas que se movía solo, sin que hubiera viento, y un collar de perlas grises y frías como piedras de río en invierno.
 
-—Bienvenido, niño —dijo, y su voz era suave como la seda—. Tienes hambre. Siéntate y come. Todo lo que ves es para ti.
+—Bienvenido, niño —dijo, y su voz era suave como la harina entre los dedos—. Tienes hambre. Siéntate y come. Todo lo que ves es para ti.
 
 Guille dio un paso adelante. El olor era tan fuerte que le dolía el estómago. Alargó la mano hacia un pan redondo, y sus dedos casi tocaron la corteza dorada.
 
@@ -58,7 +62,7 @@ La mujer se inclinó hacia delante, como quien le cuenta un secreto a un amigo.
 
 —Claro que puedes —susurró—. ¿No quieres sentarte un momento? Solo un momento. Come algo, descansa, y después hablamos. Tienes que estar muy cansado, tan lejos de casa, tan solo...
 
-—No tengo hambre —mintió Guille, aunque le rugía el estómago.
+—No tengo hambre —mintió Guille, aunque le rugía el estómago. Las palabras le supieron mal, como agua sucia, y notó que las mejillas le ardían.
 
 La mujer ladeó la cabeza. Guille vio que sus dientes eran un poco demasiado blancos, un poco demasiado perfectos.
 
@@ -76,57 +80,47 @@ Guille retiró la mano del pan.
 
 —No —dijo—. No acepto.
 
-La sonrisa de la mujer se torció. Sus ojos, que habían parecido amables, se volvieron duros como piedras de río.
+La sonrisa de la mujer se torció. Sus ojos, que habían parecido amables, se volvieron duros como pedernal.
 
 —Entonces vete —dijo—. Y que el hambre te enseñe prudencia.
 
 La puerta se cerró detrás de él con un golpe seco. Detrás de la madera, Guille oyó la voz de la mujer, fina y lejana como el chirrido de un gozne, diciendo algo que ya no pudo entender. Y después, nada.
 
-Guille estaba otra vez frente al tilo, en el claro del bosque, con el morral vacío.
+Guille estaba otra vez frente al tilo, en el claro del bosque, con el morral vacío. La segunda puerta había desaparecido. Solo quedaban dos.
 
 ---
 
-Se quedó de pie ante las tres puertas. La segunda estaba ahora cerrada y no olía a nada. Guille miró la primera puerta, la de hierro negro con olor a metal y humo. Le daba miedo. Pero la necesidad es más fuerte que el miedo, y el amor es más fuerte que la necesidad.
+En la casa, al otro lado del bosque, Isa se movió en la cama y buscó a Guille con la mano. No lo encontró. Pero aún no se despertó del todo, solo murmuró su nombre y se acurrucó contra su madre.
+
+---
+
+Guille miró la primera puerta, la de hierro negro con olor a metal y humo. Le daba miedo. Pensó en su madre, en su voz diciéndole «ten cuidado», y apretó los dientes.
 
 Abrió la primera puerta.
 
-Del otro lado había una forja inmensa. El calor era tan fuerte que Guille tuvo que protegerse la cara con el brazo. Las paredes brillaban rojas como brasas, y del techo colgaban jaulas de hierro con pájaros dentro. Cantaban, pero sus cantos eran tristes, como los de un pájaro que recuerda el cielo desde una jaula.
+Del otro lado había una forja. El calor golpeó a Guille como una mano abierta. Las paredes brillaban rojas y del techo colgaban jaulas de hierro con pájaros dentro, cuyos cantos sonaban rotos, como oraciones dichas a medias.
 
-Junto a la forja trabajaba un hombre enorme, sin camisa, con la piel del color del hollín. Golpeaba un yunque con un martillo que hacía temblar el suelo, y de cada golpe saltaban chispas que se quedaban flotando en el aire como luciérnagas enfadadas.
-
-No miró a Guille. No dejó de golpear.
+Junto al yunque trabajaba un hombre enorme, sin camisa, con la piel del color del hollín y los ojos amarillos como los de un lobo. Golpeaba el hierro sin mirar a Guille.
 
 —¿Qué quieres? —dijo, como quien espanta una mosca.
 
-—Mi madre está enferma —dijo Guille—. Necesito algo para salvarla.
+Guille ya sabía cómo iba esto. Ya había oído una oferta que parecía buena y no lo era. No iba a dejar que le pasara otra vez.
 
-El herrero resopló.
+—Mi madre está enferma —dijo, y esta vez su voz sonó más firme—. ¿Qué quiere a cambio de curarla?
 
-—Ya. Todos necesitan algo. —Siguió golpeando—. Puedo forjarte una moneda de oro rojo. Ponla bajo la almohada de tu madre y antes del amanecer estará curada. Pero nada es gratis, niño. Y tú no tienes nada que me interese. Nada, excepto tus manos.
+El herrero dejó de golpear. Casi sonrió.
 
-—¿Mis manos? —dijo Guille.
+—Tus manos. Si me las das, te forjo una moneda de oro rojo que cura cualquier enfermedad. Pero nunca más podrás abrazar a tu hermana, ni encender un fuego, ni partir el pan. Tus dedos tocarán las cosas, pero será como tocar el agua: sin dejar marca.
 
-El herrero dejó de golpear por primera vez. Clavó el martillo en el yunque y se volvió hacia Guille. Tenía los ojos amarillos como los de un lobo.
+Sacó del fuego una tenaza con la moneda al rojo vivo. Brillaba tanto que Guille tuvo que entrecerrar los ojos.
 
-—Tus manos —repitió—. Si me las das, nunca más podrás abrazar a tu hermana. Nunca más podrás encender un fuego, ni partir el pan, ni acariciarle el pelo a tu madre cuando se quede dormida. Tus dedos tocarán las cosas, pero será como tocar el agua: sin dejar marca. ¿Aceptas o no?
+Esta vez Guille no alargó la mano. Se la metió en el bolsillo.
 
-Guille se miró las manos. Eran pequeñas, con los nudillos raspados de trepar árboles. Con esas manos partía el pan por la mañana y le apartaba el pelo de la cara a Isa cuando ella se quedaba dormida. Con esas manos hacía la señal de la cruz cada noche.
+—No —dijo, y le salió casi como un ladrido—. No acepto. Y usted lo sabe. Lo sabía antes de que yo entrara.
 
-El herrero sacó del fuego una tenaza con una moneda al rojo vivo. Brillaba tanto que Guille tuvo que entrecerrar los ojos. La salud de su madre estaba ahí, a un paso, reluciente y caliente y real.
+El herrero lo miró un instante. Después volvió a golpear el yunque como si Guille ya no estuviera.
 
-Guille alargó la mano. Sus dedos temblaban. La moneda estaba tan cerca que sentía el calor en la piel.
-
-Pero entonces pensó en Isa. Pensó en cómo cada noche, antes de dormir, le cogía la mano y no la soltaba hasta que se quedaba dormida. Si aceptaba, Isa le cogería la mano y no sentiría nada. Sería como coger el aire.
-
-Cerró el puño y lo retiró.
-
-—No —dijo—. No acepto.
-
-El herrero lo miró con algo que podría haber sido respeto, o podría haber sido lástima.
-
-—Vete, entonces —dijo, y volvió a golpear el yunque como si Guille ya no estuviera.
-
-La puerta de hierro se cerró. Detrás de ella, el golpeteo del martillo se fue haciendo más débil, más lento, hasta que se calló del todo. Y Guille estaba otra vez en el claro, frente al tilo. La primera y la segunda puerta habían desaparecido, como si nunca hubieran existido. Solo quedaba la tercera: la puerta pequeña, gris, sin adornos, que no olía a nada.
+La puerta de hierro se cerró. Detrás de ella, el golpeteo del martillo se fue haciendo más débil, más lento, hasta que se calló del todo. Y Guille estaba otra vez en el claro. La primera puerta había desaparecido, como la segunda. Solo quedaba la tercera: la puerta pequeña, gris, sin adornos, que no olía a nada.
 
 ---
 
@@ -140,7 +134,7 @@ Del otro lado no había un salón ni una forja. Había un camino de tierra entre
 
 Cuando llegó al final, encontró una capilla pequeña, de piedra vieja, con una ventana redonda por la que salía la luz de una vela. La puerta estaba abierta.
 
-Dentro, la capilla era simple: un suelo de losas gastadas, un altar de madera con un mantel blanco, y sobre el altar una vela gruesa que ardía con una llama quieta y dorada. No había estatuas ni pinturas ni bancos. Solo la vela, el altar y el silencio.
+Dentro, la capilla era simple: un suelo de losas gastadas que olía a piedra húmeda, un altar de madera con un mantel blanco, y sobre el altar una vela gruesa que ardía con una llama quieta y dorada. En algún lugar goteaba agua, despacio, como un reloj que contara un tiempo distinto.
 
 Junto al altar, arrodillado, había un hombre viejo. Tenía el pelo blanco y una barba larga, y vestía un hábito marrón de tela basta, atado con una cuerda. No se movió cuando Guille entró, pero habló:
 
@@ -170,7 +164,7 @@ Guille sostuvo la vela. Pesaba menos que una pluma, pero la sentía firme y cál
 
 Guille volvió por el camino de tierra, cruzó la puerta pequeña, y cuando salió al claro, el tilo seguía ahí, pero las tres puertas habían desaparecido. El tronco era solo un tronco, inmenso y rugoso y viejo. El bosque estaba en silencio.
 
-Caminó de vuelta a casa. La vela ardía sin consumirse, y su luz proyectaba sombras largas entre los árboles. Los mismos ruidos de antes —las ramas, los aleteos, las respiraciones— seguían ahí, pero ahora parecían más lejanos, como si el bosque le dejara paso. Los árboles que al ir le habían parecido brazos retorcidos, al volver parecían solo árboles.
+Caminó de vuelta a casa. La vela ardía sin consumirse, y su luz proyectaba sombras largas entre los árboles. Un calor suave le subía por las manos, por los brazos, hasta el pecho, como si la vela le calentara por dentro. Los mismos ruidos de antes —las ramas, los aleteos, las respiraciones— seguían ahí, pero ahora parecían más lejanos, como si el bosque le dejara paso. Los árboles que al ir le habían parecido brazos retorcidos, al volver parecían solo árboles. Y cuando salió del bosque y vio las primeras casas del pueblo, oyó la campana de la iglesia que daba la primera hora del alba, y le pareció que le daba la bienvenida.
 
 ---
 
@@ -188,19 +182,53 @@ Después volvió junto a su madre. Le tocó la frente. Estaba caliente, demasiad
 
 —Mamá —dijo, bajito—. Guille no está, pero yo sí. Estoy aquí.
 
-Su madre no contestó, pero Isa le pareció que respiraba un poco mejor. O quizá no. No lo sabía.
+Su madre no contestó, pero a Isa le pareció que respiraba un poco mejor. O quizá no. No lo sabía.
 
-Se arrodilló junto a la cama e hizo lo único que sabía hacer: rezó. Rezó un avemaría, como Guille le había enseñado, despacio, pronunciando cada palabra con cuidado, porque las palabras de las oraciones son importantes y no hay que comérselas. Después rezó otro. Y se quedó ahí, arrodillada, con la mano de su madre entre las suyas, esperando a que su hermano volviera.
+Entonces llamaron a la puerta.
+
+Isa se quedó quieta. Nadie llamaba a esas horas. El viento aulló contra los postigos y la llamada vino otra vez: tres golpes suaves, pacientes.
+
+Isa fue a la puerta. No la abrió. Se quedó de pie, descalza, con la mano en la madera.
+
+—¿Quién es? —dijo.
+
+—Una vecina —dijo una voz de mujer al otro lado, suave y amable—. He visto la luz de tu chimenea. Sé que tu madre está enferma. Traigo una medicina que la curará antes de que amanezca. Solo tienes que abrir la puerta.
+
+A Isa le latía el corazón muy fuerte. Una medicina. Su madre se curaría. Solo tenía que abrir la puerta.
+
+Pero la voz era demasiado suave. Y ninguna vecina venía a esas horas. Y su madre siempre le había dicho que no abriera la puerta a desconocidos de noche, nunca, pasara lo que pasara.
+
+—¿Cómo te llamas? —preguntó Isa.
+
+La voz tardó un instante en contestar.
+
+—Eso no importa. Abre la puerta, niña. Tu madre se muere.
+
+Isa apretó la mano contra la madera. Tenía los ojos llenos de lágrimas, porque era verdad: su madre se moría. Y al otro lado de esa puerta quizá estaba la cura. Quizá.
+
+Pero no abrió.
+
+—No —dijo Isa—. Vete.
+
+Se hizo un silencio largo. Después oyó unos pasos que se alejaban por la nieve, y después nada. El viento dejó de aullar, como si algo que estuviera dentro de él se hubiera ido.
+
+Isa volvió junto a su madre. Se arrodilló junto a la cama e hizo lo único que sabía hacer: rezó. Rezó un avemaría, como Guille le había enseñado, despacio, pronunciando cada palabra con cuidado, porque las palabras de las oraciones son importantes y no hay que comérselas. Después rezó otro. Y se quedó ahí, arrodillada, con la mano de su madre entre las suyas, esperando a que su hermano volviera.
 
 ---
 
-Cuando Guille llegó a la casa, el cielo empezaba a clarear por el este. Entró esperando encontrar a Isa dormida, pero Isa estaba despierta, arrodillada junto a la cama, con un trapo húmedo en la mano y los ojos muy abiertos.
+Y así, mientras Guille caminaba de vuelta con la vela en las manos e Isa rezaba arrodillada junto a la cama, los dos hermanos hicieron lo mismo aquella noche sin saberlo: rechazaron lo fácil y eligieron lo difícil.
+
+Cuando Guille llegó a la casa, el cielo empezaba a clarear por el este. Isa estaba despierta, arrodillada junto a la cama, con un trapo húmedo en la mano y los ojos rojos de no haber dormido.
 
 —Guille —dijo, y su voz era a la vez alivio y reproche—. ¿Dónde fuiste?
 
-—Al bosque —dijo Guille—. Traje algo.
+—Al bosque —dijo Guille—. Traje algo. —Y luego—: ¿Estás bien? Tienes mala cara.
 
-Isa vio la vela. Su madre respiraba, débil pero constante.
+—Alguien llamó a la puerta —dijo Isa—. Ofrecía una medicina. No abrí.
+
+Guille la miró. No dijo nada, pero le puso la mano en la cabeza y se la dejó ahí un momento. Isa cerró los ojos.
+
+Su madre respiraba, débil pero constante.
 
 Guille puso la vela en la mesa de noche, junto a la imagen de la Virgen. La llama iluminó el rostro de su madre, y a Guille le pareció que el color volvía a sus mejillas, o quizá fue solo la luz dorada de la vela. No lo sabía. No importaba.
 
@@ -220,15 +248,13 @@ La madre de Guille e Isa no se curó de la noche a la mañana. La vela no era un
 
 —Mi madre está enferma —le dijo—. Y no tenemos comida.
 
-La vieja Ana, que llevaba semanas sin visitar a nadie porque le dolían las rodillas, miró al niño flaco con los ojos grandes y se le partió el corazón. Volvió a su casa y les trajo un puchero de sopa caliente y medio pan.
+La vieja Ana, que llevaba semanas sin salir porque le dolían las rodillas, pensó en no ir. Pensó en el frío de la calle y en lo que le costaba caminar. Pero se acordó de la madre de los niños, que una vez le había traído caldo cuando ella estuvo enferma. Así que se puso el chal, cruzó la calle, y les llevó un puchero de sopa caliente y medio pan.
 
-Y el panadero, que pasó por la calle esa mañana camino de su horno, vio a la vieja Ana salir de la casa de los niños y preguntó qué pasaba. Y cuando lo supo, dejó en la puerta tres hogazas de pan y un trozo de queso.
+El panadero pasó esa mañana camino de su horno y vio a la vieja Ana salir de la casa. Dudó, porque tenía prisa y el pan no se hace solo. Pero dejó en la puerta tres hogazas y un trozo de queso, y se fue sin decir nada.
 
-Y la mujer del herrero, que oyó la historia del panadero, mandó a su hijo mayor con leña para la chimenea y un tarro de miel.
+La mujer del herrero, que oyó la historia del panadero, mandó a su hijo mayor con leña para la chimenea y un tarro de miel. Y el molinero, que al principio pensó en sus propios hijos y en lo que le costaría dar algo, al final resopló, cortó medio saco de harina, y lo dejó en la puerta sin llamar.
 
-El molinero, cuando se enteró, no dijo nada. Se quedó un rato mirando su saco de harina y pensando en sus propios hijos y en lo que le costaría dar algo. Al final resopló, cortó medio saco, y lo dejó en la puerta sin llamar.
-
-Y así, uno tras otro, como las cuentas de un rosario, los vecinos del pueblo fueron ayudando a los dos hermanos y a su madre enferma.
+Cada uno dio lo que tenía y lo que le costó. Y así, uno tras otro, los vecinos del pueblo fueron ayudando a los dos hermanos y a su madre enferma.
 
 La madre mejoró. Despacio, como mejoran las cosas de verdad: un día comió un poco de sopa, otro día se sentó en la cama, otro día pidió que le abrieran la ventana para que entrara el sol.
 
@@ -236,15 +262,21 @@ Y la vela siguió ardiendo en la mesa de noche, junto a la imagen de la Virgen. 
 
 ---
 
-Pasaron los años. Guille creció. Cada mañana bajaba al pueblo a por harina con un saco al hombro, y por las tardes Isa leía en voz alta junto a la ventana mientras él remendaba las redes del pescador viejo a cambio de unos peces. La madre vivió muchos años más. Nunca fue fuerte como antes, pero fue feliz, y eso importa más que la fuerza.
+Pasaron los años. Guille creció, e Isa creció con él. Hubo un día de otoño —Guille lo recordaría siempre— en que llegó a casa con un saco de harina al hombro y encontró a Isa sentada junto a la ventana, leyendo en voz alta de un libro que el cura le había prestado. La luz de la tarde le daba en el pelo rubio y la vela ardía en la mesa, y por primera vez desde que su padre había muerto, la casa no parecía triste. Parecía un hogar.
 
-Y la vela seguía ardiendo.
+Guille dejó el saco en la cocina. Partió el pan en tres trozos iguales: uno para su madre, uno para Isa, uno para él. El suyo siempre el último.
 
-A veces, en las noches de tormenta, la llama temblaba. Y Guille se levantaba de la cama y la protegía con las manos hasta que la tormenta pasaba. Y a veces, cuando algo triste ocurría en el pueblo —porque las cosas tristes ocurren, igual que las felices, y no hay vela que lo impida—, la gente iba a la casa de Guille y se sentaba un rato junto a la vela, sin decir nada, solo mirando la llama.
+La madre vivió muchos años más. Nunca fue fuerte como antes, pero fue feliz, y eso importa más que la fuerza.
 
-Pero un invierno la madre se puso peor. Y una noche de febrero, mientras dormía, se fue. Guille lo supo antes de abrir los ojos, porque la casa estaba oscura. Se levantó, fue a la mesa de noche, y la vela estaba apagada. El pabilo estaba negro y frío. La habitación olía a cera y a silencio.
+---
 
-Guille se sentó en el suelo, junto a la cama de su madre, y lloró. Lloró mucho rato, sin hacer ruido, porque de niño había aprendido a llorar sin despertar a nadie. Y cuando terminó de llorar, se quedó sentado en la oscuridad, mirando la vela apagada.
+Pero un invierno la madre se puso peor.
+
+Y una noche de febrero, Guille se despertó porque faltaba algo. Tardó un momento en entender qué era: el sonido de la respiración de su madre, que llevaba años oyendo cada noche, se había callado. Y la casa estaba oscura.
+
+Se levantó, fue a la mesa de noche, y la vela estaba apagada. El pabilo estaba negro y frío. Tocó la mano de su madre. Estaba fría también.
+
+Guille se sentó en el suelo, junto a la cama, y lloró. Lloró mucho rato, sin hacer ruido, porque de niño había aprendido a llorar sin despertar a nadie. Y cuando terminó de llorar, se quedó sentado en la oscuridad.
 
 Entonces se levantó. Fue a la chimenea, cogió una brasa con las tenazas, y encendió la vela.
 
@@ -264,6 +296,14 @@ Isa escuchó en silencio. Cuando Guille terminó, se quedó un rato callada, mir
 
 —Una vez se apagó —dijo Guille—. La noche que murió mamá. Pero la volví a encender.
 
-Isa no dijo nada más. Le apretó la mano a su hermano y se quedaron los dos mirando la vela, como habían hecho de niños, rezando mientras la noche se convertía en mañana.
+Isa asintió despacio.
 
-Y la vela sigue ardiendo. En algún lugar que ya nadie recuerda pero que todos conocen, en una casa de piedra gris al borde de un bosque muy antiguo, una llama dorada arde quieta y fiel sobre una mesa de noche, junto a una imagen de la Virgen. No se consume. No se apaga. Y si alguna vez se apagara, alguien la volvería a encender.
+—Aquella noche —dijo—. La noche que fuiste al bosque. Alguien llamó a la puerta. Me ofreció una medicina. Yo no abrí. —Se quedó callada un momento—. A veces me pregunto si hice bien.
+
+—Hiciste bien —dijo Guille.
+
+—Sí —dijo Isa—. Pero a veces todavía me cuesta.
+
+Se quedaron los dos mirando la vela, como habían hecho de niños, rezando mientras la noche se convertía en mañana.
+
+Y la vela sigue ardiendo. En algún lugar que ya nadie recuerda pero que todos conocen, en una casa de piedra gris al borde de un bosque muy antiguo, una llama dorada arde sobre una mesa de noche, junto a una imagen de la Virgen. Y si alguna vez se apagara, alguien la volvería a encender.
