@@ -20,7 +20,7 @@ No se lo contó a nadie durante años. ¿Quién le habría creído? Y si le hubi
 
 A los cinco años tuvo su primera experiencia mística. Estaba arrodillado frente a una imagen del Sagrado Corazón de Jesús en la iglesia de Pietrelcina cuando sintió que algo le quemaba por dentro, como si hubiera tragado una brasa que en vez de dolerle le llenaba de una alegría tan intensa que casi no podía soportarla. En ese momento, sin que nadie se lo enseñara, decidió que su vida entera sería para Dios. Tenía cinco años. La mayoría de los niños de cinco años deciden que quieren ser pastores o herreros o soldados, y luego cambian de opinión cien veces. Francesco no cambió de opinión nunca.
 
-Su familia era pobre, pero no pasaban hambre. Grazio cultivaba un pequeño terreno y María Giuseppa criaba a los hijos con mano firme y el rosario siempre a mano. En aquella casa se rezaba antes de comer, después de comer, al levantarse y al acostarse. No había libros salvo la Biblia y las vidas de los santos, que María Giuseppa leía en voz alta por las noches a la luz de una lámpara de aceite. Francesco escuchaba aquellas historias con los ojos brillantes: San Francisco que hablaba con los pájaros, Santa Clara que ahuyentaba a los sarracenos con la custodia, San Martín que partía su capa con el mendigo. Aquellos santos eran sus héroes, más reales para él que cualquier persona del pueblo.
+Su familia era pobre, pero no pasaban hambre. Grazio cultivaba un pequeño terreno y María Giuseppa criaba a los hijos con mano firme y el rosario siempre a mano. En aquella casa se rezaba antes de comer, después de comer, al levantarse y al acostarse. No había libros salvo la Biblia y las vidas de los santos, que María Giuseppa leía en voz alta por las noches a la luz de una lámpara de aceite. Francesco escuchaba aquellas historias con los ojos brillantes: San Francisco que hablaba con los pájaros y San Martín que partía su capa con el mendigo. Aquellos santos eran sus héroes, más reales para él que cualquier persona del pueblo.
 
 No iba a la escuela porque no había escuela en Pietrelcina que valiera la pena, y además la familia necesitaba manos para el campo. Francesco cuidaba un pequeño rebaño de ovejas. Se sentaba en las rocas con sus animales alrededor y rezaba el rosario mientras las ovejas pastaban, y cuando terminaba el rosario volvía a empezar. Los otros pastorcitos del pueblo jugaban entre ellos, se tiraban piedras, se insultaban con las palabras que habían aprendido de los mayores. Francesco no. No es que fuera antipático ni tímido; simplemente prefería la compañía de Dios a la de los otros niños, y no le importaba que eso lo hiciera parecer extraño.
 
@@ -48,13 +48,13 @@ Pero su cuerpo no estaba de acuerdo con su alma.
 
 Desde los primeros meses en el convento, Fray Pío empezó a enfermarse. Fiebres altísimas que aparecían sin explicación y desaparecían igual. Vómitos que le impedían comer durante días. Tos que le sacudía el cuerpo entero. Los médicos que lo examinaron no entendían nada: le tomaban la temperatura y el termómetro subía hasta los cuarenta y un grados, una fiebre que debería haberlo matado o al menos dejado postrado, pero Fray Pío seguía levantándose para rezar, arrastrándose hasta la capilla con las rodillas temblando y las manos agarradas a la pared.
 
-Los superiores no sabían qué hacer con él. Un novicio tan enfermo era una carga para la comunidad, y las reglas eran claras: quien no puede seguir la vida del convento debe irse. Varias veces lo enviaron de vuelta a Pietrelcina para que se recuperara, y cada vez que volvía a casa, las fiebres bajaban y la tos se calmaba. Y cada vez que regresaba al convento, la enfermedad volvía con él, como una sombra fiel que no lo dejaba en paz.
+Los superiores no sabían qué hacer con él. Un novicio tan enfermo era una carga para la comunidad, y las reglas eran claras: quien no puede seguir la vida del convento debe irse. Varias veces lo enviaron de vuelta a Pietrelcina para que se recuperara, y cada vez que volvía a casa, las fiebres bajaban y la tos se calmaba. Y cada vez que regresaba al convento, la enfermedad volvía con él.
 
 Hubo quien pensó que el problema era el clima del convento. Otros pensaron que era el ayuno. Algún médico sugirió tuberculosis, aunque las pruebas no lo confirmaban. Fray Pío no opinaba sobre su enfermedad. La aceptaba como aceptaba todo lo demás: como voluntad de Dios, sin quejarse, sin pedir explicaciones.
 
 Durante aquellos años de idas y venidas, Fray Pío encontró a la persona que se convertiría en el ancla de su vida interior: el padre Agostino de San Marco in Lamis, un fraile capuchino alto y delgado, con una barba que le llegaba hasta el pecho y unos ojos que no juzgaban. Fue asignado como director espiritual de Fray Pío, lo cual significaba que era la única persona en el mundo a la que el joven fraile podía contarle todo sin miedo.
 
-La primera vez que Fray Pío le habló de las visiones — los ángeles de su infancia, las sombras, el fuego en el pecho — el padre Agostino no dijo nada durante un buen rato. Luego preguntó: "¿Tienes miedo?" Fray Pío pensó antes de contestar. "No de lo que veo," dijo. "Tengo miedo de no ser digno de verlo." El padre Agostino asintió despacio. "Escríbemelo todo," le dijo. "Cada visión, cada ataque, cada duda. No te guardes nada." Y Fray Pío le obedeció. Le escribiría cientos de cartas a lo largo de los años, las cartas que hoy son la ventana principal a su vida interior.
+La primera vez que Fray Pío le habló de las visiones — los ángeles, las sombras, el fuego en el pecho, las fiebres que no tenían explicación — el padre Agostino no dijo nada durante un buen rato. Luego preguntó: "¿Tienes miedo?" Fray Pío pensó antes de contestar. "No de lo que veo," dijo. "Tengo miedo de no ser digno de verlo." El padre Agostino asintió despacio. "Escríbemelo todo," le dijo. "Cada visión, cada ataque, cada duda. No te guardes nada." Y Fray Pío le obedeció. Le escribiría cientos de cartas a lo largo de los años, las cartas que hoy son la ventana principal a su vida interior.
 
 Las sombras de su infancia no habían desaparecido. Al contrario: ahora eran peores. Mucho peores.
 
@@ -68,21 +68,21 @@ En una carta al padre Agostino, Fray Pío describió una de aquellas noches:
 
 El diez de agosto de 1910, en la catedral de Benevento, Fray Pío fue ordenado sacerdote. Tenía veintitrés años. Estaba tan débil que apenas podía mantenerse en pie durante la ceremonia.
 
-Su madre había viajado desde Pietrelcina para verlo. Se sentó en el primer banco, con su vestido negro de los domingos, las manos apretadas en el regazo, y no le quitó los ojos de encima en toda la ceremonia. Su padre había vuelto de América unos meses antes, más viejo y más callado de lo que se había ido, con las manos endurecidas por nueve años de trabajo en tierras ajenas. Estaba sentado junto a María Giuseppa, muy derecho, con la mandíbula apretada como quien se esfuerza por no llorar. Cuando el obispo le impuso las manos sobre la cabeza a su hijo, Grazio cerró los ojos. No rezó, o si rezó lo hizo por dentro, en ese lugar donde los padres hablan con Dios sobre sus hijos sin que nadie más los oiga.
+Su madre había viajado desde Pietrelcina para verlo. Se sentó en el primer banco, con su vestido negro de los domingos, las manos apretadas en el regazo, y no le quitó los ojos de encima en toda la ceremonia. Su padre había vuelto de América unos meses antes, más viejo y más callado de lo que se había ido, con las manos endurecidas por nueve años de trabajo en tierras ajenas. Estaba sentado junto a María Giuseppa, muy derecho, y cuando el obispo le impuso las manos sobre la cabeza a su hijo, Grazio se levantó del banco y salió de la catedral. María Giuseppa fue a buscarlo después y lo encontró fumando en la escalinata, con los ojos rojos. "¿Por qué lloras?" le preguntó. "No lloro," dijo Grazio. "Estoy furioso. Le di nueve años de mi vida para que él pudiera darle la suya entera a Dios, y ahora que lo veo ahí arriba me doy cuenta de que Dios se lo ha llevado y no va a devolvérmelo nunca." María Giuseppa no le contestó. Se sentó a su lado en la escalinata y esperó a que se le pasara.
 
-Fray Pío — ahora Padre Pío — sintió de nuevo aquella brasa en el pecho que había sentido de niño. Pero esta vez ardía más fuerte.
+Fray Pío — ahora Padre Pío — sintió de nuevo aquella brasa en el pecho que había sentido de niño.
 
 Poco después de su ordenación, algo nuevo empezó a sucederle. Mientras celebraba la misa, sentía un dolor agudo en las manos y en los pies, un ardor de agujas al rojo vivo. El dolor era tan intenso que a veces tenía que agarrarse al altar para no caerse. Cuando se miraba las manos después, veía unas manchas rojizas, no heridas abiertas sino como marcas de algo que quería abrirse paso desde dentro de la carne.
 
 No se lo dijo a nadie salvo al padre Agostino, y le pidió que guardara el secreto. Tenía miedo de lo que aquellas marcas significaban. Sabía perfectamente lo que eran. Había leído la vida de San Francisco de Asís, que había recibido las mismas marcas en el monte Alverna en 1224. Eran los estigmas: las heridas de Cristo reproducidas en el cuerpo de un hombre.
 
-Desde San Francisco, que las recibió en 1224, la Iglesia había reconocido centenares de casos de estigmas, casi todos en monjas y laicos. Ningún sacerdote los había llevado de forma visible. Padre Pío no quería ser el primero. Sabía lo que eso traería consigo: atención, fama, investigaciones, sospechas. Él solo quería ser un fraile capuchino que celebraba misa, oía confesiones y rezaba en su celda hasta morirse.
+Pero ningún sacerdote había llevado los estigmas de forma visible. Padre Pío no quería ser el primero. Él solo quería ser un fraile capuchino que celebraba misa, oía confesiones y rezaba en su celda hasta morirse.
 
 ---
 
 ## Capítulo 3: Las llagas
 
-El veinte de septiembre de 1918, Padre Pío estaba solo en el coro de la iglesia del convento de San Giovanni Rotondo, un pueblo aún más pequeño y remoto que Pietrelcina, encaramado en la montaña del Gargano como un nido de águila. Acababa de celebrar la misa y se había quedado rezando frente al crucifijo, como hacía todos los días.
+El veinte de septiembre de 1918, Padre Pío estaba solo en el coro de la iglesia del convento de San Giovanni Rotondo, un pueblo aún más pequeño y remoto que Pietrelcina, encaramado en la montaña del Gargano. Acababa de celebrar la misa y se había quedado rezando frente al crucifijo, como hacía todos los días.
 
 Lo que sucedió a continuación lo contó él mismo, años después, con una precisión que indica que cada segundo quedó grabado en su memoria como con hierro candente:
 
@@ -94,7 +94,7 @@ Padre Pío se envolvió las manos con trapos y se fue a su celda. Quería escond
 
 Las heridas no sanaban. Ni en días, ni en semanas, ni en meses. Sangraban constantemente. Padre Pío usaba guantes de cuero sin dedos para celebrar la misa, pero la sangre los empapaba y goteaba sobre el altar. El olor de la sangre era extraño: no olía a sangre sino a algo dulce, como a flores o a perfume. Muchos testigos lo confirmaron a lo largo de los años. Un médico que examinó las vendas usadas las olió varias veces, las guardó en un frasco y se las llevó a su laboratorio. No publicó ningún informe.
 
-La noticia se supo rápidamente, porque en un pueblo como San Giovanni Rotondo no existían los secretos. Los frailes del convento fueron los primeros en enterarse. La mayoría lo miró con reverencia. Unos pocos, con desconfianza. El padre guardián del convento informó a los superiores de la orden, que informaron al obispo, que informó al Vaticano.
+La noticia se supo rápidamente, porque en un pueblo como San Giovanni Rotondo no existían los secretos. Los frailes del convento fueron los primeros en enterarse. Nadie sabía qué pensar. El padre guardián del convento informó a los superiores de la orden, que informaron al obispo, que informó al Vaticano.
 
 Pero mucho antes de que el Vaticano respondiera, la gente ya estaba llegando. Gente de los pueblos cercanos, luego de las ciudades, luego de toda Italia. Querían ver al fraile de las llagas. Querían tocarlo. Querían que los bendijera, que rezara por ellos, que los curara. Hacían cola durante horas frente al convento, bajo el sol o bajo la lluvia. Algunos se arrodillaban cuando lo veían pasar y besaban el suelo que él había pisado. Otros le arrancaban trozos del hábito como reliquias.
 
@@ -112,9 +112,9 @@ No todos en la Iglesia veían con buenos ojos al fraile estigmatizado. Las sospe
 
 El más peligroso de estos enemigos era el arzobispo Pasquale Gagliardi, de Manfredonia, la diócesis a la que pertenecía San Giovanni Rotondo. Gagliardi era un hombre que había llegado a obispo por méritos y ambición, que administraba su diócesis con mano de hierro y que no toleraba que nada escapara a su control. Y Padre Pío escapaba a su control. Los peregrinos no venían a Manfredonia a ver al arzobispo: venían a San Giovanni Rotondo a ver al fraile. Las donaciones no iban a la diócesis: iban al convento. La gente no hablaba de Gagliardi: hablaba de Padre Pío. Y eso, para un hombre como Gagliardi, era insoportable.
 
-Desde su escritorio en el palacio episcopal, Gagliardi escribió carta tras carta al Vaticano. En una de ellas decía: "Este fraile está convirtiendo mi diócesis en una feria. Los peregrinos no vienen a rezar, vienen a ver un espectáculo. Si no actuamos, la Iglesia entera pagará las consecuencias." Algunas de sus acusaciones contenían verdad deformada. Otras eran inventadas. No importaba: bastaba con que llegaran al Santo Oficio para que la sospecha se instalara.
+Desde su escritorio en el palacio episcopal, Gagliardi escribió carta tras carta al Vaticano. En una de ellas decía: "Este fraile está convirtiendo mi diócesis en una feria. Los peregrinos no vienen a rezar, vienen a ver un espectáculo. Si no actuamos, la Iglesia entera pagará las consecuencias." Casi todo lo que escribió era mentira, pero el Santo Oficio no tenía forma de saberlo.
 
-Padre Pío sabía lo que Gagliardi decía de él. Lo sabía y no se defendía.
+Padre Pío sabía lo que Gagliardi decía de él. Leía las cartas, o le leían las cartas, y después se quedaba un rato mirando por la ventana del convento, hacia las montañas del Gargano, sin decir nada.
 
 ---
 
@@ -122,7 +122,7 @@ Padre Pío sabía lo que Gagliardi decía de él. Lo sabía y no se defendía.
 
 En 1923, el Santo Oficio — el tribunal del Vaticano encargado de investigar asuntos de fe — emitió un decreto demoledor. Declaró que los hechos atribuidos a Padre Pío "no constaba que fueran de origen sobrenatural" y ordenó a los fieles que dejaran de visitarlo. No lo acusó directamente de fraude, pero tampoco lo defendió. Lo dejó en un limbo que era peor que una condena, porque le quitaba la protección sin darle la oportunidad de defenderse.
 
-Y luego vinieron las restricciones. Esto hay que decirlo claramente, porque duele.
+Y luego vinieron las restricciones. Esto es difícil de contar sin enfadarse.
 
 En 1931, el Santo Oficio fue más lejos. Ordenó que Padre Pío fuera despojado de todas sus facultades sacerdotales excepto celebrar la misa en privado. No podía confesar. No podía predicar. No podía escribir cartas. No podía recibir visitas. No podía hablar con los fieles. Debía permanecer en su celda, aislado, como un prisionero, aunque no hubiera cometido ningún delito.
 
@@ -136,7 +136,7 @@ Durante dos años, Padre Pío vivió encerrado en su celda. Celebraba misa solo,
 
 Hubo una noche — él se la contó después al padre Agostino — en que estuvo a punto de quebrarse. Estaba arrodillado en la capilla a oscuras, con las manos apoyadas en el reclinatorio y la sangre goteando sobre la madera como siempre, y de pronto le vino una rabia tan intensa que le sorprendió a él mismo. Quiso levantarse, quiso escribir una carta, quiso gritar. Apretó los puños — y el dolor de las llagas al cerrarse le atravesó los brazos como un latigazo. Se quedó quieto. Respiró. Y en vez de la carta que quería escribir, rezó un avemaría. Y luego otra. Y otra más, hasta que la rabia se fue apagando como una brasa que nadie sopla.
 
-Los frailes del convento lo trataban con respeto pero con distancia, porque nadie quería que lo vieran demasiado cerca del fraile castigado. Solo uno se atrevía a visitarlo cada día: fray Raffaele da Sant'Elia a Pianisi, un hermano lego bajito y calvo que cantaba canciones napolitanas mientras fregaba los suelos del convento y que le llevaba un plato de sopa por las noches y se sentaba a su lado sin hablar. No hacía falta hablar. Fray Raffaele se quedaba media hora, recogía el plato — a veces vacío, a veces intacto — y se iba. Padre Pío le dijo una vez: "Raffaele, tú eres la prueba de que Dios no me ha abandonado del todo." Fray Raffaele se encogió de hombros y contestó: "Yo solo traigo la sopa, Padre."
+Los frailes del convento lo trataban con distancia. Fray Pellegrino, que llevaba treinta años en San Giovanni Rotondo sin que nadie se molestara en aprender su nombre, le dijo un día en el refectorio: "Ahora ya sabes lo que es ser un fraile normal." No lo dijo con crueldad exactamente, pero tampoco con compasión. Padre Pío no le contestó. Solo uno se atrevía a visitarlo cada día: fray Raffaele da Sant'Elia a Pianisi, un hermano lego bajito y calvo que cantaba canciones napolitanas mientras fregaba los suelos del convento y que le llevaba un plato de sopa por las noches y se sentaba a su lado sin hablar. No hacía falta hablar. Fray Raffaele se quedaba media hora, recogía el plato — a veces vacío, a veces intacto — y se iba. Padre Pío le dijo una vez: "Raffaele, tú eres la prueba de que Dios no me ha abandonado del todo." Fray Raffaele se encogió de hombros y contestó: "Yo solo traigo la sopa, Padre."
 
 En 1933, el papa Pío XI levantó las restricciones. No dio explicaciones, del mismo modo que no las habían dado al imponerlas. Simplemente ordenó que Padre Pío pudiera volver a ejercer su ministerio sacerdotal completo. Nadie sabe exactamente por qué, y a Padre Pío no le importó el porqué. Le importó el hecho: podía volver a confesar.
 
@@ -166,7 +166,7 @@ En 1939, la cola de penitentes que esperaban para confesarse con Padre Pío empe
 
 La guerra llegó incluso a las puertas del convento. En septiembre de 1943, cuando Italia cambió de bando y los alemanes ocuparon el sur, los bombarderos aliados atacaron San Giovanni Rotondo. Las bombas cayeron cerca del convento. Los frailes bajaron a los sótanos. Padre Pío se quedó en la iglesia, rezando frente al tabernáculo, mientras la tierra temblaba y las paredes crujían. Cuando le rogaron que bajara al refugio, respondió: "Si Dios quiere llevarme, me encontrará rezando."
 
-No lo llevó. Las bombas cayeron a pocos metros del convento sin tocarlo. Los habitantes de San Giovanni Rotondo dijeron que fue un milagro. Los militares dijeron que fue suerte. Padre Pío no dijo nada.
+No lo llevó. Las bombas cayeron a pocos metros del convento sin tocarlo. Padre Pío no dijo nada.
 
 Según varios pilotos aliados — americanos y británicos — cuando volaban sobre San Giovanni Rotondo en misiones de bombardeo, veían en el cielo la figura de un fraile con las manos levantadas, como bloqueándoles el paso. Los aviones no podían acercarse: los instrumentos enloquecían, los motores perdían potencia, las manos de los pilotos giraban el timón sin que ellos supieran por qué. Cuando la guerra terminó y algunos de esos pilotos visitaron San Giovanni Rotondo por curiosidad, reconocieron a Padre Pío como el fraile que habían visto en el cielo.
 
@@ -226,7 +226,7 @@ Tenía ochenta y un años. Había llevado los estigmas durante medio siglo. Y ah
 
 Cuando lo prepararon para el funeral, confirmaron lo que los frailes habían notado la noche anterior: los estigmas habían desaparecido por completo. En sus manos, donde durante medio siglo habían estado aquellas llagas terribles, solo quedaba piel lisa, nueva, perfecta. Como si las heridas, habiendo cumplido su propósito, se hubieran ido con él.
 
-Cien mil personas asistieron a su funeral. Cien mil personas en un pueblo que normalmente tenía cinco mil habitantes. Vinieron en autobuses, en coches, en burros, a pie. Llenaron las calles, las plazas, los campos alrededor del pueblo. La mayoría lloraba. El resto estaba en silencio, apretados unos contra otros, sin saber bien por qué habían venido ni qué esperaban encontrar.
+Cien mil personas asistieron a su funeral. Cien mil personas en un pueblo que normalmente tenía cinco mil habitantes. Vinieron en autobuses, en coches, en burros, a pie. Llenaron las calles, las plazas, los campos alrededor del pueblo. Lloraban. Cien mil personas llorando a la vez hace un ruido que no se parece a nada.
 
 Su cuerpo fue enterrado en una cripta bajo la iglesia del convento. Y allí empezó la espera.
 
